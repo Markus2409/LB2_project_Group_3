@@ -1,9 +1,9 @@
 # LB2_project_Group_3
-this repository contains files of the project for the Laboratory of Bioinformatics 2 course
+This repository contains files and codes of the project for the Laboratory of Bioinformatics 2 course
 
 
 POSITIVE SET: 2,949  PROTEINS
-This is the Query of Uniprot search of positive set:
+This is the Query of Uniprot search for positive set from graphical interface:
 (existence:1) AND (length:[40 TO *]) AND (reviewed:true) AND (taxonomy_id:2759) AND (fragment:false) AND (ft_signal_exp:*)
 
 API URL using the search endpoint for positive set
@@ -13,7 +13,7 @@ https://rest.uniprot.org/uniprotkb/search?compressed=true&format=fasta&query=%28
 
 
 NEGATIVE SET: 21,605 PROTEINS
-This is the Query of Uniprot search of negative set:
+This is the Query of Uniprot search for negative set from graphical interface:
 (existence:1) AND (length:[40 TO *]) AND (reviewed:true) AND (taxonomy_id:2759) AND (fragment:false)  NOT (ft_signal:*) AND ((cc_scl_term:SL-0091) OR (cc_scl_term:SL-0191) OR (cc_scl_term:SL-0173) OR (cc_scl_term:SL-0209) OR (cc_scl_term:SL-0204) OR (cc_scl_term:SL-0039))
 
 API URL using the search endpoint for negative set
