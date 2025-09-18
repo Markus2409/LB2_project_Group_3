@@ -37,6 +37,7 @@ def get_batch(batch_url):
 batch_size = 500
 url_neg = "https://rest.uniprot.org/uniprotkb/search?format=json&query=%28%28fragment%3Afalse%29+AND+%28length%3A%5B40+TO+*%5D%29+AND+%28taxonomy_id%3A2759%29+NOT+%28ft_signal%3A*%29+AND+%28%28cc_scl_term_exp%3ASL-0091%29+OR+%28cc_scl_term_exp%3ASL-0191%29+OR+%28cc_scl_term_exp%3ASL-0173%29+OR+%28cc_scl_term_exp%3ASL-0209%29+OR+%28cc_scl_term_exp%3ASL-0204%29+OR+%28cc_scl_term_exp%3ASL-0039%29%29+AND+%28reviewed%3Atrue%29+AND+%28existence%3A1%29%29&size=500"
 output_file = "negative_dataset.tsv"
+output_fasta_file="negative_dataset.fasta"
 
 
 def extract_fields(entry):
@@ -56,7 +57,7 @@ def extract_fields(entry):
     return (pa , name , lin , lenn , hel)
 
 
-def get_dataset(search_url, extract_function, output_file_name):
+def get_dataset(search_url, extract_function, output_file_name,output_fasta_file_name):
 
     '''function to get the entire dataset. It uses all the previous functions '''
 
@@ -75,6 +76,11 @@ def get_dataset(search_url, extract_function, output_file_name):
         for entry in dataset_json:
             print(*entry, sep="\t", file=ofs)
         ofs.close
+    with open(output_fasta_file_name,"w") as ofs_fasta:
+        for entry in dataset_json:
+            print(">"+entry["primaryAccession"],file=ofs_fasta)
+            print(entry["sequence"]["value"],file=ofs_fasta)
+        ofs_fasta.close
 
 if __name__ == "__main__":
-    get_dataset(url_neg, extract_fields, output_file)
+    get_dataset(url_neg, extract_fields, output_file,output_fasta_file)
