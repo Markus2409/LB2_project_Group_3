@@ -2,4 +2,4 @@
 This repository contains files and codes of the project for the Laboratory of Bioinformatics 2 course
 
 # Workflow
-1. [Data_collection](./Data_collection)
+1.[Data_collection](./Data_Collection)
