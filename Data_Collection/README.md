@@ -72,7 +72,8 @@ The number of proteins retrived after the search is showed in the table below.
 | Positive Set | Negative Set | Negative with HD |
 |--------------|--------------|------------------|
 |  2932        |    20615     |      4414        |
-|
+
+
 
 
 
