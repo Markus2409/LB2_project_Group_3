@@ -1,7 +1,7 @@
-# **DATA COLLECTION**
-The first step for the project is *data collection* : for any machine learning model, it is always necessary to acquire high-quality data,
+# ***DATA COLLECTION***
+The first step for the project is *data collection* : for any machine learning model it is always necessary to acquire high-quality data,
 to ensure the correct traning of it. We retrived relevant protein sequences from Uniprot database, filtering and creating 
-two different datasets:a positive and negative one. 
+two different datasets:a positive and a negative one. 
 Our approach was divided into two consecutive step: a first data retrival of proteins using the Web interface approach, and a second one, using the API of UniProt database from the first advanced search. 
 ## 1. Web interface approach
 We started using the Advance search interface in Uniprot (Release 2025_03) (https://www.uniprot.org/) to filter out and retrive the API for two sets of proteins:
@@ -54,15 +54,16 @@ https://rest.uniprot.org/uniprotkb/search?format=json&query=%28%28fragment%3Afal
 
 ## 2. API approach
 
-Two python scripts  (*get_dataset_neg.ipynb* *get_dataset_pos.ipynb*) were created to perform the API search of Uniprot and to create two output file format (.tsv .fasta) of our sets and to add a more precise filtering step that included: 
+Two python scripts  (*get_dataset_neg.ipynb* *get_dataset_pos.ipynb*) were created to perform the API search of Uniprot, to create two output file format (.tsv .fasta) of our sets and to add a more precise filtering step that included: 
 - Filtering out proteins with a SP shorter than 14 residues and without a cleavage site for the positive set
   
-## 3 Data output
+## 3. Data output
 
 After the API call, our data were saved in a *.tsv* format to include informations specific to each protein 
 (for the positive set: the protein UniProt accession, the organism name, the Eukaryotic kingdom, the protein length, the position of the signal peptide cleavage site)
 (for the negative set: the protein UniProt accession, the organism name, the Eukaryotic kingdom, the protein length, Whether the protein has a transmembrane helix starting in the first 90 residues). 
 Sequences were saved in a *.fasta* file. 
+
 
 
 
