@@ -1,5 +1,5 @@
 # ***DATA COLLECTION***
-The first step for the project is *data collection* : for any machine learning model it is always necessary to acquire high-quality data,
+The first step for the project is **data collection** : for any machine learning model it is always necessary to acquire high-quality data,
 to ensure the correct traning of it. We retrived relevant protein sequences from Uniprot database, filtering and creating 
 two different datasets:a positive and a negative one. 
 Our approach was divided into two consecutive step: a first data retrival of proteins using the Web interface approach, and a second one, using the API of UniProt database from the first advanced search. 
@@ -70,6 +70,7 @@ The number of proteins for each set is showed in the table below.
 |--------------|--------------|--------------|
 |  2932        |    20615     |      4414    |
 |
+
 
 
 
