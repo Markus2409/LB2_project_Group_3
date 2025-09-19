@@ -56,6 +56,7 @@ https://rest.uniprot.org/uniprotkb/search?format=json&query=%28%28fragment%3Afal
 
 Two python scripts  (*get_dataset_neg.ipynb* *get_dataset_pos.ipynb*) were created to perform the API search of Uniprot, to create two output file format (.tsv .fasta) of our sets and to add a more precise filtering step that included: 
 - Filtering out proteins with a SP shorter than 14 residues and without a cleavage site for the positive set
+- Checking for proteins with a transmembrane helix starting in the first 90 residues
   
 ## 3. Data output
 
@@ -69,6 +70,7 @@ The number of proteins for each set is showed in the table below.
 |--------------|--------------|--------------|
 |  2932        |    20615     |      4414    |
 |
+
 
 
 
