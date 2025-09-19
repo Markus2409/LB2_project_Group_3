@@ -49,7 +49,8 @@ Curated eukaryotic proteins, ≥40 aa, experimentally confirmed, non-fragment, w
 ## 2. API approach
 
 Two python scripts  (*get_dataset_neg.py* *get_dataset_pos.py*) were created to perform the API search of Uniprot, allowing a more precise filtering step that included:
-- Filtering out proteins with a SP shorter than 14 residues and without a cleavage site 
+- Filtering out proteins with a SP shorter than 14 residues and without a cleavage site
+API URL using the search endpoint for positive set. This endpoint is lighter and returns chunks of 500 at a time and requires pagination: https://rest.uniprot.org/uniprotkb/search?format=json&query=%28%28existence%3A1%29+AND+%28length%3A%5B40+TO+*%5D%29+AND+%28reviewed%3Atrue%29+AND+%28taxonomy_id%3A2759%29+AND+%28fragment%3Afalse%29+AND+%28ft_signal_exp%3A*%29%29&size=500
 
 ## 3 Data output
 
@@ -57,3 +58,4 @@ After the API call, our data were saved in a *.tsv* format to include informatio
 (for the positive set: the protein UniProt accession, the organism name, the Eukaryotic kingdom, the protein length, the position of the signal peptide cleavage site)
 (for the negative set: the protein UniProt accession, the organism name, the Eukaryotic kingdom, the protein length, Whether the protein has a transmembrane helix starting in the first 90 residues).
 sequences were saved in a *.fasta* file. 
+
