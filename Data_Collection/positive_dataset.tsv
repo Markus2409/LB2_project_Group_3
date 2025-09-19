@@ -1,4 +1,4 @@
-EntryID	OrganismName	Kingdom	Start	SequenceLength	SPStart	SPEnd
+EntryID	OrganismName	Kingdom	SequenceLength	SPStart	SPEnd
 O00300	Homo sapiens	Metazoa	401	1	21
 O00478	Homo sapiens	Metazoa	584	1	29
 O00748	Homo sapiens	Metazoa	559	1	26
