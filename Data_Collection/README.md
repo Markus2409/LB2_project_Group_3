@@ -11,7 +11,6 @@ We started using the Advance search interface in Uniprot (Release 2025_03) (htt
 **QUERY:** 
 ```
 (existence:1) AND (length:[40 TO ]) AND (reviewed:true) AND (taxonomy_id:2759) AND (fragment:false) AND (ft_signal_exp:)
-
 ```
 - *existence:1* → protein existence at protein level (experimental evidence)  
 - *length:[40 TO ]* → sequence length ≥ 40 aa  
@@ -74,6 +73,7 @@ The number of proteins for each set is showed in the table below.
 |--------------|--------------|------------------|
 |  2932        |    20615     |      4414        |
 |
+
 
 
 
