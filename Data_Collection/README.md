@@ -64,6 +64,13 @@ After the API call, our data were saved in a *.tsv* format to include informatio
 (for the negative set: the protein UniProt accession, the organism name, the Eukaryotic kingdom, the protein length, Whether the protein has a transmembrane helix starting in the first 90 residues). 
 Sequences were saved in a *.fasta* file. 
 
+| Positive Set | Negative Set | Helix Domain |
+|--------------|--------------|--------------|
+|  2932        |    20615     |              |
+|
+
+
+
 
 
 
