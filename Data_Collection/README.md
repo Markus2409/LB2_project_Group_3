@@ -60,7 +60,7 @@ Two python scripts  (*get_dataset_neg.ipynb* *get_dataset_pos.ipynb*) were creat
 - Filtering out proteins with a SP shorter than 14 residues and without a cleavage site for the positive set
 - Checking for negative proteins with a transmembrane helix starting in the first 90 residues
   
-## 3. Data output
+## 3. Data collection output
 
 After the API call, our data were saved in a *.tsv* format to include informations specific to each protein 
 (for the positive set: the protein UniProt accession, the organism name, the Eukaryotic kingdom, the protein length, the position of the signal peptide cleavage site)
@@ -72,6 +72,7 @@ The number of proteins retrived after the search is showed in the table below.
 | Positive Set | Negative Set | Negative with HD |
 |--------------|--------------|------------------|
 |  2932        |    20615     |      4414        |
+
 
 
 
