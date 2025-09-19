@@ -2169,7 +2169,7 @@ F4IAX1	Arabidopsis thaliana	Viridiplantae	681	False
 O62140	Caenorhabditis elegans	Metazoa	674	True
 O64883	Arabidopsis thaliana	Viridiplantae	560	False
 O82399	Arabidopsis thaliana	Viridiplantae	354	False
-O96759	Dictyostelium discoideum	Amoebozoa	611	True
+O96759	Dictyostelium discoideum	Other	611	True
 P07871	Rattus norvegicus	Metazoa	424	False
 P38998	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	Fungi	373	True
 P59047	Homo sapiens	Metazoa	1200	True
@@ -6210,7 +6210,7 @@ P54113	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	Fungi	591	False
 Q09LZ8	Mus musculus	Metazoa	540	False
 Q63009	Rattus norvegicus	Metazoa	353	True
 Q8C0L9	Mus musculus	Metazoa	675	False
-Q8MLZ3	Dictyostelium discoideum	Amoebozoa	867	False
+Q8MLZ3	Dictyostelium discoideum	Other	867	False
 Q8RXD9	Arabidopsis thaliana	Viridiplantae	955	False
 Q99NB7	Rattus norvegicus	Metazoa	556	False
 Q9CZW6	Mus musculus	Metazoa	359	True
@@ -6234,7 +6234,7 @@ P51163	Mus musculus	Metazoa	265	False
 P70698	Mus musculus	Metazoa	591	True
 P81122	Mus musculus	Metazoa	1321	False
 Q02759	Rattus norvegicus	Metazoa	663	False
-Q23917	Dictyostelium discoideum	Amoebozoa	793	False
+Q23917	Dictyostelium discoideum	Other	793	False
 Q2RAK2	Oryza sativa subsp. japonica	Viridiplantae	527	False
 Q3ZBF9	Bos taurus	Metazoa	296	False
 Q4KLN5	Rattus norvegicus	Metazoa	287	False
@@ -6245,7 +6245,7 @@ Q6TEM9	Danio rerio	Metazoa	472	False
 Q7M753	Mus musculus	Metazoa	456	False
 Q8H0W2	Arabidopsis thaliana	Viridiplantae	426	False
 Q8LAC4	Arabidopsis thaliana	Viridiplantae	322	False
-Q8MUF9	Dictyostelium discoideum	Amoebozoa	649	False
+Q8MUF9	Dictyostelium discoideum	Other	649	False
 Q8VHT6	Rattus norvegicus	Metazoa	369	False
 Q8W4Q4	Arabidopsis thaliana	Viridiplantae	702	False
 Q93Z30	Arabidopsis thaliana	Viridiplantae	459	False
@@ -6274,7 +6274,7 @@ Q04370	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	Fungi	399	False
 Q61285	Mus musculus	Metazoa	741	False
 Q7TNT2	Mus musculus	Metazoa	515	False
 O22558	Arabidopsis thaliana	Viridiplantae	546	False
-O61125	Dictyostelium discoideum	Amoebozoa	461	False
+O61125	Dictyostelium discoideum	Other	461	False
 O64517	Arabidopsis thaliana	Viridiplantae	418	True
 O80507	Arabidopsis thaliana	Viridiplantae	283	False
 O80548	Arabidopsis thaliana	Viridiplantae	693	False
@@ -6309,7 +6309,7 @@ P70343	Mus musculus	Metazoa	373	False
 Q1MT80	Danio rerio	Metazoa	618	False
 P32796	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	Fungi	670	False
 Q1JPL4	Arabidopsis thaliana	Viridiplantae	571	False
-B0G0Y8	Dictyostelium discoideum	Amoebozoa	466	False
+B0G0Y8	Dictyostelium discoideum	Other	466	False
 B9DGU7	Arabidopsis thaliana	Viridiplantae	267	False
 O50008	Arabidopsis thaliana	Viridiplantae	765	True
 O80501	Arabidopsis thaliana	Viridiplantae	208	False
@@ -6383,7 +6383,7 @@ Q9EPB4	Mus musculus	Metazoa	193	False
 Q64364	Mus musculus	Metazoa	169	True
 Q0KHV6	Drosophila melanogaster	Metazoa	721	False
 Q27237	Drosophila melanogaster	Metazoa	520	False
-Q9XZE5	Dictyostelium discoideum	Amoebozoa	306	False
+Q9XZE5	Dictyostelium discoideum	Other	306	False
 P21981	Mus musculus	Metazoa	686	False
 Q9I9L7	Danio rerio	Metazoa	383	False
 Q504J1	Danio rerio	Metazoa	404	False
@@ -6396,14 +6396,14 @@ O54724	Mus musculus	Metazoa	392	True
 Q8C6L5	Mus musculus	Metazoa	507	False
 A0A386CAB9	Danio rerio	Metazoa	1355	False
 Q91WS2	Mus musculus	Metazoa	869	False
-Q54QR9	Dictyostelium discoideum	Amoebozoa	584	False
+Q54QR9	Dictyostelium discoideum	Other	584	False
 Q69ZK0	Mus musculus	Metazoa	1650	False
 O64682	Arabidopsis thaliana	Viridiplantae	438	False
 Q50L41	Mus musculus	Metazoa	855	False
 Q9C5H5	Arabidopsis thaliana	Viridiplantae	716	False
 Q2VUH8	Komagataella pastoris	Fungi	323	False
 F1LM93	Rattus norvegicus	Metazoa	541	False
-O15743	Dictyostelium discoideum	Amoebozoa	975	False
+O15743	Dictyostelium discoideum	Other	975	False
 P70181	Mus musculus	Metazoa	539	False
 Q0WL52	Arabidopsis thaliana	Viridiplantae	580	False
 Q6I621	Oryza sativa subsp. japonica	Viridiplantae	510	False
@@ -6455,7 +6455,7 @@ Q9JHR7	Mus musculus	Metazoa	1019	False
 P85125	Rattus norvegicus	Metazoa	392	False
 Q9FV53	Arabidopsis thaliana	Viridiplantae	269	True
 A2AH22	Mus musculus	Metazoa	1300	False
-Q55D99	Dictyostelium discoideum	Amoebozoa	1197	False
+Q55D99	Dictyostelium discoideum	Other	1197	False
 B9DFA8	Arabidopsis thaliana	Viridiplantae	664	False
 D3Z7P3	Mus musculus	Metazoa	674	False
 F4JTE7	Arabidopsis thaliana	Viridiplantae	298	False
@@ -6479,7 +6479,7 @@ Q03557	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	Fungi	464	True
 Q14CH7	Mus musculus	Metazoa	980	False
 Q27607	Drosophila melanogaster	Metazoa	1145	False
 Q39218	Arabidopsis thaliana	Viridiplantae	391	False
-Q54S83	Dictyostelium discoideum	Amoebozoa	484	True
+Q54S83	Dictyostelium discoideum	Other	484	True
 Q6NNL9	Arabidopsis thaliana	Viridiplantae	93	False
 Q78J03	Mus musculus	Metazoa	175	True
 Q8C886	Mus musculus	Metazoa	610	False
@@ -6632,7 +6632,7 @@ Q02486	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	Fungi	183	True
 Q08968	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	Fungi	688	False
 Q0WQW5	Arabidopsis thaliana	Viridiplantae	638	False
 Q20480	Caenorhabditis elegans	Metazoa	287	False
-Q54JW0	Dictyostelium discoideum	Amoebozoa	436	False
+Q54JW0	Dictyostelium discoideum	Other	436	False
 Q5ND34	Mus musculus	Metazoa	1934	False
 Q5XI78	Rattus norvegicus	Metazoa	1023	False
 Q6NKX1	Arabidopsis thaliana	Viridiplantae	476	False
@@ -6684,7 +6684,7 @@ Q02773	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	Fungi	1202	False
 Q03702	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	Fungi	353	False
 Q04447	Mus musculus	Metazoa	381	False
 Q12305	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	Fungi	139	True
-Q54BW5	Dictyostelium discoideum	Amoebozoa	179	False
+Q54BW5	Dictyostelium discoideum	Other	179	False
 Q5U117	Drosophila melanogaster	Metazoa	639	False
 Q7TN78	Rattus norvegicus	Metazoa	580	False
 Q80TG1	Mus musculus	Metazoa	1036	False
@@ -6722,7 +6722,7 @@ Q9STP8	Arabidopsis thaliana	Viridiplantae	354	False
 Q8LPS1	Arabidopsis thaliana	Viridiplantae	701	False
 Q0VBL6	Mus musculus	Metazoa	662	True
 O44997	Caenorhabditis elegans	Metazoa	1425	False
-Q54KF1	Dictyostelium discoideum	Amoebozoa	1158	True
+Q54KF1	Dictyostelium discoideum	Other	1158	True
 Q64520	Mus musculus	Metazoa	198	True
 Q63810	Mus musculus	Metazoa	170	True
 Q62433	Mus musculus	Metazoa	394	False
@@ -7063,7 +7063,7 @@ P23291	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	Fungi	538	False
 P24549	Mus musculus	Metazoa	501	True
 Q9WV69	Mus musculus	Metazoa	405	False
 Q9VKJ9	Drosophila melanogaster	Metazoa	816	False
-O61122	Dictyostelium discoideum	Amoebozoa	478	False
+O61122	Dictyostelium discoideum	Other	478	False
 P10790	Bos taurus	Metazoa	133	True
 P48721	Rattus norvegicus	Metazoa	679	False
 P91929	Drosophila melanogaster	Metazoa	407	True
@@ -7121,7 +7121,7 @@ Q9D2Y4	Mus musculus	Metazoa	472	True
 Q9SU50	Arabidopsis thaliana	Viridiplantae	626	True
 Q9W3E2	Drosophila melanogaster	Metazoa	1195	False
 P27882	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	Fungi	189	True
-P34093	Dictyostelium discoideum	Amoebozoa	220	False
+P34093	Dictyostelium discoideum	Other	220	False
 P54857	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	Fungi	326	False
 P62898	Rattus norvegicus	Metazoa	105	True
 Q8CD10	Mus musculus	Metazoa	432	True
@@ -7364,7 +7364,7 @@ A4IFH6	Bos taurus	Metazoa	52	False
 Q9ERS2	Mus musculus	Metazoa	144	True
 Q9SX85	Arabidopsis thaliana	Viridiplantae	887	False
 O54967	Mus musculus	Metazoa	1055	False
-P42528	Dictyostelium discoideum	Amoebozoa	418	False
+P42528	Dictyostelium discoideum	Other	418	False
 P85845	Rattus norvegicus	Metazoa	493	False
 P29172	Bos taurus	Metazoa	448	False
 O70337	Mus musculus	Metazoa	150	False
@@ -7412,10 +7412,10 @@ Q62915	Rattus norvegicus	Metazoa	909	True
 Q8BZZ3	Mus musculus	Metazoa	918	False
 P16658	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	Fungi	377	False
 Q9R1M5	Mus musculus	Metazoa	1163	False
-O96621	Dictyostelium discoideum	Amoebozoa	392	False
-O96625	Dictyostelium discoideum	Amoebozoa	169	False
-O96623	Dictyostelium discoideum	Amoebozoa	293	False
-O96626	Dictyostelium discoideum	Amoebozoa	138	False
+O96621	Dictyostelium discoideum	Other	392	False
+O96625	Dictyostelium discoideum	Other	169	False
+O96623	Dictyostelium discoideum	Other	293	False
+O96626	Dictyostelium discoideum	Other	138	False
 Q9JLN9	Mus musculus	Metazoa	2549	False
 Q91XT9	Rattus norvegicus	Metazoa	761	False
 P27895	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	Fungi	1000	False
@@ -7439,8 +7439,8 @@ Q9ERS5	Mus musculus	Metazoa	425	False
 Q9WU82	Rattus norvegicus	Metazoa	781	False
 Q39134	Arabidopsis thaliana	Viridiplantae	476	False
 Q99NF2	Mus musculus	Metazoa	532	False
-O96622	Dictyostelium discoideum	Amoebozoa	369	False
-O96624	Dictyostelium discoideum	Amoebozoa	174	False
+O96622	Dictyostelium discoideum	Other	369	False
+O96624	Dictyostelium discoideum	Other	174	False
 Q00947	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	Fungi	519	False
 P56405	Rattus norvegicus	Metazoa	263	False
 Q60932	Mus musculus	Metazoa	296	True
@@ -7571,7 +7571,7 @@ P32776	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	Fungi	642	True
 P33244	Drosophila melanogaster	Metazoa	1027	False
 P34021	Drosophila melanogaster	Metazoa	878	False
 P34056	Mus musculus	Metazoa	437	False
-P34122	Dictyostelium discoideum	Amoebozoa	287	False
+P34122	Dictyostelium discoideum	Other	287	False
 P34233	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	Fungi	588	False
 P35632	Arabidopsis thaliana	Viridiplantae	232	False
 P36048	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	Fungi	1008	True
@@ -7922,7 +7922,7 @@ O88470	Mus musculus	Metazoa	375	False
 O88700	Mus musculus	Metazoa	1416	False
 O88708	Mus musculus	Metazoa	433	False
 O89038	Rattus norvegicus	Metazoa	507	False
-O97101	Dictyostelium discoideum	Amoebozoa	1000	False
+O97101	Dictyostelium discoideum	Other	1000	False
 P03069	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	Fungi	281	False
 P03871	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	Fungi	373	False
 P06876	Mus musculus	Metazoa	636	True
@@ -8086,7 +8086,7 @@ Q3UPW2	Mus musculus	Metazoa	391	False
 Q3UZ45	Mus musculus	Metazoa	379	False
 Q4V8P4	Rattus norvegicus	Metazoa	168	False
 Q501B2	Arabidopsis thaliana	Viridiplantae	409	False
-Q54XG7	Dictyostelium discoideum	Amoebozoa	1230	False
+Q54XG7	Dictyostelium discoideum	Other	1230	False
 Q569Z6	Mus musculus	Metazoa	951	False
 Q56XM9	Arabidopsis thaliana	Viridiplantae	507	False
 Q570C0	Arabidopsis thaliana	Viridiplantae	594	True
@@ -8914,8 +8914,8 @@ Q3UHF7	Mus musculus	Metazoa	2430	False
 Q3UL53	Mus musculus	Metazoa	246	False
 Q3UNW5	Mus musculus	Metazoa	479	False
 Q45EK2	Caenorhabditis elegans	Metazoa	360	False
-Q54ER9	Dictyostelium discoideum	Amoebozoa	602	False
-Q54HS3	Dictyostelium discoideum	Amoebozoa	1486	False
+Q54ER9	Dictyostelium discoideum	Other	602	False
+Q54HS3	Dictyostelium discoideum	Other	1486	False
 Q5HZG4	Mus musculus	Metazoa	932	False
 Q5VMP0	Oryza sativa subsp. japonica	Viridiplantae	720	True
 Q5ZEP9	Caenorhabditis elegans	Metazoa	281	False
@@ -8945,7 +8945,7 @@ Q6Y685	Mus musculus	Metazoa	774	False
 Q6Z2G7	Oryza sativa subsp. japonica	Viridiplantae	361	False
 Q6ZPV2	Mus musculus	Metazoa	1559	False
 Q700C7	Arabidopsis thaliana	Viridiplantae	364	False
-Q70GP4	Dictyostelium discoideum	Amoebozoa	1148	False
+Q70GP4	Dictyostelium discoideum	Other	1148	False
 Q75HE5	Oryza sativa subsp. japonica	Viridiplantae	316	True
 Q7DMA9	Arabidopsis thaliana	Viridiplantae	635	False
 Q7JM44	Caenorhabditis elegans	Metazoa	2242	False
@@ -9112,10 +9112,10 @@ Q9LYA9	Arabidopsis thaliana	Viridiplantae	406	False
 Q9SIN9	Arabidopsis thaliana	Viridiplantae	484	False
 Q94FY7	Arabidopsis thaliana	Viridiplantae	488	False
 Q9LSC4	Arabidopsis thaliana	Viridiplantae	344	False
-Q27890	Leishmania mexicana	Discoba	361	True
-Q9NJP9	Trypanosoma brucei brucei	Discoba	512	False
+Q27890	Leishmania mexicana	Other	361	True
+Q9NJP9	Trypanosoma brucei brucei	Other	512	False
 Q8CF89	Mus musculus	Metazoa	502	False
-P04789	Trypanosoma brucei brucei	Discoba	250	True
+P04789	Trypanosoma brucei brucei	Other	250	True
 P56216	Penicillium simplicissimum	Fungi	560	True
 O35387	Mus musculus	Metazoa	280	False
 A2AUU0	Mus musculus	Metazoa	281	False
@@ -9496,7 +9496,7 @@ Q9SZI6	Arabidopsis thaliana	Viridiplantae	352	False
 Q9SZR3	Arabidopsis thaliana	Viridiplantae	1017	False
 Q9U3C8	Caenorhabditis elegans	Metazoa	295	False
 Q9U405	Drosophila melanogaster	Metazoa	570	True
-Q9U7C9	Dictyostelium discoideum	Amoebozoa	756	False
+Q9U7C9	Dictyostelium discoideum	Other	756	False
 Q9V3J8	Drosophila melanogaster	Metazoa	361	False
 Q9V3V0	Drosophila melanogaster	Metazoa	258	False
 Q9V5M6	Drosophila melanogaster	Metazoa	963	False
@@ -9519,8 +9519,8 @@ O48814	Arabidopsis thaliana	Viridiplantae	395	True
 Q4VC33	Mus musculus	Metazoa	396	False
 Q60902	Mus musculus	Metazoa	907	False
 Q9JHE3	Mus musculus	Metazoa	756	False
-E3Q1H1	Trypanosoma brucei brucei	Discoba	147	True
-O15648	Trypanosoma brucei brucei	Discoba	487	True
+E3Q1H1	Trypanosoma brucei brucei	Other	147	True
+O15648	Trypanosoma brucei brucei	Other	487	True
 Q39659	Cucumis sativus	Viridiplantae	725	False
 Q08959	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	Fungi	321	False
 Q01401	Oryza sativa subsp. japonica	Viridiplantae	820	True
@@ -9572,7 +9572,7 @@ Q09969	Caenorhabditis elegans	Metazoa	221	False
 Q2TA68	Rattus norvegicus	Metazoa	960	False
 Q3ULF4	Mus musculus	Metazoa	781	False
 Q42290	Arabidopsis thaliana	Viridiplantae	531	True
-Q54LT0	Dictyostelium discoideum	Amoebozoa	275	True
+Q54LT0	Dictyostelium discoideum	Other	275	True
 Q5XJY4	Mus musculus	Metazoa	377	False
 Q8BSK8	Mus musculus	Metazoa	525	False
 Q8GUK1	Arabidopsis thaliana	Viridiplantae	602	False
@@ -9597,7 +9597,7 @@ P21279	Mus musculus	Metazoa	359	True
 P61023	Rattus norvegicus	Metazoa	195	True
 Q8K4V4	Rattus norvegicus	Metazoa	539	True
 P97350	Mus musculus	Metazoa	728	False
-Q6B9X6	Dictyostelium discoideum	Amoebozoa	625	False
+Q6B9X6	Dictyostelium discoideum	Other	625	False
 Q8K337	Mus musculus	Metazoa	993	True
 F4JHH5	Arabidopsis thaliana	Viridiplantae	787	False
 Q93YU5	Arabidopsis thaliana	Viridiplantae	1053	False
@@ -9832,8 +9832,8 @@ Q3ULA2	Mus musculus	Metazoa	605	False
 Q3UMW7	Mus musculus	Metazoa	384	False
 Q42479	Arabidopsis thaliana	Viridiplantae	529	False
 Q505B8	Mus musculus	Metazoa	171	False
-Q557E7	Dictyostelium discoideum	Amoebozoa	665	False
-Q55GJ6	Dictyostelium discoideum	Amoebozoa	214	False
+Q557E7	Dictyostelium discoideum	Other	665	False
+Q55GJ6	Dictyostelium discoideum	Other	214	False
 Q5DU02	Mus musculus	Metazoa	525	False
 Q5N829	Oryza sativa subsp. japonica	Viridiplantae	953	False
 Q60680	Mus musculus	Metazoa	745	False
@@ -10062,7 +10062,7 @@ Q3E772	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	Fungi	92	False
 Q3U1J4	Mus musculus	Metazoa	1140	False
 Q3U4H6	Mus musculus	Metazoa	486	False
 Q3U8K7	Mus musculus	Metazoa	883	True
-Q55BN9	Dictyostelium discoideum	Amoebozoa	136	False
+Q55BN9	Dictyostelium discoideum	Other	136	False
 Q5NCQ5	Mus musculus	Metazoa	438	False
 Q5VNM3	Oryza sativa subsp. japonica	Viridiplantae	404	False
 Q60591	Mus musculus	Metazoa	927	False
@@ -10218,7 +10218,7 @@ G5EEV2	Caenorhabditis elegans	Metazoa	4062	False
 G5EG14	Caenorhabditis elegans	Metazoa	657	False
 G5EGE9	Caenorhabditis elegans	Metazoa	1263	False
 I6PL68	Oryza sativa subsp. japonica	Viridiplantae	303	False
-O00910	Dictyostelium discoideum	Amoebozoa	707	False
+O00910	Dictyostelium discoideum	Other	707	False
 O01789	Caenorhabditis elegans	Metazoa	1262	False
 O02193	Drosophila melanogaster	Metazoa	827	False
 O04482	Arabidopsis thaliana	Viridiplantae	330	False
@@ -10361,8 +10361,8 @@ Q3TYA6	Mus musculus	Metazoa	858	False
 Q3U182	Mus musculus	Metazoa	692	True
 Q3URK3	Mus musculus	Metazoa	2039	False
 Q53JF7	Oryza sativa subsp. japonica	Viridiplantae	138	False
-Q54BD4	Dictyostelium discoideum	Amoebozoa	931	False
-Q557E4	Dictyostelium discoideum	Amoebozoa	162	False
+Q54BD4	Dictyostelium discoideum	Other	931	False
+Q557E4	Dictyostelium discoideum	Other	162	False
 Q5BLX8	Rattus norvegicus	Metazoa	315	False
 Q5BPS0	Arabidopsis thaliana	Viridiplantae	213	False
 Q5XJV7	Mus musculus	Metazoa	1441	False
@@ -10582,7 +10582,7 @@ P47171	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	Fungi	1648	True
 P48482	Arabidopsis thaliana	Viridiplantae	312	False
 P48727	Caenorhabditis elegans	Metazoa	333	False
 P49626	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	Fungi	362	False
-P52285	Dictyostelium discoideum	Amoebozoa	162	True
+P52285	Dictyostelium discoideum	Other	162	True
 P52483	Mus musculus	Metazoa	207	False
 P52910	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	Fungi	683	False
 P53040	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	Fungi	516	True
@@ -10592,7 +10592,7 @@ P53207	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	Fungi	620	True
 P53909	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	Fungi	347	False
 P53968	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	Fungi	678	False
 P53981	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	Fungi	241	False
-P54671	Dictyostelium discoideum	Amoebozoa	180	False
+P54671	Dictyostelium discoideum	Other	180	False
 P54728	Mus musculus	Metazoa	416	False
 P61459	Rattus norvegicus	Metazoa	104	True
 P61830	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	Fungi	136	True
@@ -10648,9 +10648,9 @@ Q38931	Arabidopsis thaliana	Viridiplantae	551	False
 Q3B8Q2	Rattus norvegicus	Metazoa	411	False
 Q4AE70	Rattus norvegicus	Metazoa	651	False
 Q4VBD9	Mus musculus	Metazoa	706	False
-Q556Y4	Dictyostelium discoideum	Amoebozoa	426	False
-Q55BP0	Dictyostelium discoideum	Amoebozoa	136	False
-Q55CL6	Dictyostelium discoideum	Amoebozoa	660	False
+Q556Y4	Dictyostelium discoideum	Other	426	False
+Q55BP0	Dictyostelium discoideum	Other	136	False
+Q55CL6	Dictyostelium discoideum	Other	660	False
 Q5DW34	Mus musculus	Metazoa	1296	False
 Q5LJZ2	Drosophila melanogaster	Metazoa	1641	False
 Q5SRY7	Mus musculus	Metazoa	542	False
@@ -10757,7 +10757,7 @@ Q9W3M3	Drosophila melanogaster	Metazoa	2219	False
 Q9WVE0	Mus musculus	Metazoa	198	False
 P07246	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	Fungi	375	False
 Q02337	Bos taurus	Metazoa	344	False
-Q4W6B5	Dictyostelium discoideum	Amoebozoa	469	False
+Q4W6B5	Dictyostelium discoideum	Other	469	False
 Q9C6B3	Arabidopsis thaliana	Viridiplantae	278	True
 G5EFI7	Caenorhabditis elegans	Metazoa	931	False
 P21957	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	Fungi	404	False
@@ -10791,7 +10791,7 @@ O08759	Mus musculus	Metazoa	870	False
 O08785	Mus musculus	Metazoa	855	True
 O13563	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	Fungi	156	False
 O14467	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	Fungi	151	True
-O15819	Dictyostelium discoideum	Amoebozoa	139	False
+O15819	Dictyostelium discoideum	Other	139	False
 O22287	Arabidopsis thaliana	Viridiplantae	361	True
 O35260	Rattus norvegicus	Metazoa	514	False
 O35381	Mus musculus	Metazoa	247	True
@@ -11069,7 +11069,7 @@ Q9VWC6	Drosophila melanogaster	Metazoa	1596	False
 Q9W123	Drosophila melanogaster	Metazoa	495	False
 Q9XFD1	Arabidopsis thaliana	Viridiplantae	257	False
 Q9XIM0	Arabidopsis thaliana	Viridiplantae	203	False
-Q9Y0B7	Dictyostelium discoideum	Amoebozoa	305	False
+Q9Y0B7	Dictyostelium discoideum	Other	305	False
 Q9Z0P7	Mus musculus	Metazoa	484	False
 Q9Z0Y9	Mus musculus	Metazoa	445	False
 Q9Z205	Mus musculus	Metazoa	269	False
@@ -11380,7 +11380,7 @@ P47817	Xenopus laevis	Metazoa	555	False
 Q93WX6	Arabidopsis thaliana	Viridiplantae	463	True
 A0A0B5LB55	Penicillium brevicompactum	Fungi	433	True
 P00371	Sus scrofa	Metazoa	347	True
-Q388N2	Trypanosoma brucei brucei (strain 927/4 GUTat10.1)	Discoba	472	False
+Q388N2	Trypanosoma brucei brucei (strain 927/4 GUTat10.1)	Other	472	False
 U5NH37	Catharanthus roseus	Viridiplantae	482	False
 W8JWV8	Catharanthus roseus	Viridiplantae	378	False
 P56404	Mus musculus	Metazoa	261	False
@@ -11543,7 +11543,7 @@ F4IDC2	Arabidopsis thaliana	Viridiplantae	1043	False
 F4IE66	Arabidopsis thaliana	Viridiplantae	717	False
 F4IH25	Arabidopsis thaliana	Viridiplantae	753	False
 F4JW79	Arabidopsis thaliana	Viridiplantae	1493	False
-O00841	Dictyostelium discoideum	Amoebozoa	802	False
+O00841	Dictyostelium discoideum	Other	802	False
 O13329	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	Fungi	566	False
 O70133	Mus musculus	Metazoa	1380	True
 P15646	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	Fungi	327	False
@@ -11618,7 +11618,7 @@ Q03343	Rattus norvegicus	Metazoa	1166	False
 Q09143	Mus musculus	Metazoa	622	False
 Q0D9S3	Oryza sativa subsp. japonica	Viridiplantae	530	True
 Q4VAE3	Mus musculus	Metazoa	234	False
-Q54PQ4	Dictyostelium discoideum	Amoebozoa	605	False
+Q54PQ4	Dictyostelium discoideum	Other	605	False
 Q5KS41	Arabidopsis thaliana	Viridiplantae	486	False
 Q5W7F1	Danio rerio	Metazoa	743	False
 Q60EC2	Oryza sativa subsp. japonica	Viridiplantae	261	False
@@ -11687,7 +11687,7 @@ P38994	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	Fungi	779	False
 P46101	Rattus norvegicus	Metazoa	859	False
 P49573	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	Fungi	406	False
 P50077	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	Fungi	2039	False
-P54657	Dictyostelium discoideum	Amoebozoa	213	True
+P54657	Dictyostelium discoideum	Other	213	True
 P63144	Rattus norvegicus	Metazoa	401	False
 Q00788	Rattus norvegicus	Metazoa	371	False
 Q05037	Bos taurus	Metazoa	660	False
@@ -11890,7 +11890,7 @@ Q3T9M1	Mus musculus	Metazoa	494	False
 Q3TH73	Mus musculus	Metazoa	532	True
 Q4KL25	Mus musculus	Metazoa	219	False
 Q504P2	Mus musculus	Metazoa	267	False
-Q54XY4	Dictyostelium discoideum	Amoebozoa	1582	False
+Q54XY4	Dictyostelium discoideum	Other	1582	False
 Q5I0E9	Rattus norvegicus	Metazoa	566	False
 Q5RJ80	Danio rerio	Metazoa	914	False
 Q6A0D4	Mus musculus	Metazoa	554	False
@@ -11903,7 +11903,7 @@ Q8BLA8	Mus musculus	Metazoa	1125	False
 Q8BUX5	Mus musculus	Metazoa	455	False
 Q8C8S3	Mus musculus	Metazoa	249	False
 Q8CGK7	Mus musculus	Metazoa	381	False
-Q8IS16	Dictyostelium discoideum	Amoebozoa	604	False
+Q8IS16	Dictyostelium discoideum	Other	604	False
 Q8K2P7	Mus musculus	Metazoa	485	False
 Q8K3P1	Mus musculus	Metazoa	485	False
 Q8K415	Rattus norvegicus	Metazoa	481	False
@@ -12398,7 +12398,7 @@ P41958	Caenorhabditis elegans	Metazoa	280	True
 P03949	Caenorhabditis elegans	Metazoa	1224	False
 P22734	Rattus norvegicus	Metazoa	264	True
 P22812	Drosophila melanogaster	Metazoa	462	True
-P36408	Dictyostelium discoideum	Amoebozoa	347	False
+P36408	Dictyostelium discoideum	Other	347	False
 P38271	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	Fungi	328	False
 P81900	Drosophila melanogaster	Metazoa	377	False
 P97433	Mus musculus	Metazoa	1700	False
@@ -12406,7 +12406,7 @@ Q00910	Rattus norvegicus	Metazoa	644	False
 Q04735	Mus musculus	Metazoa	496	False
 Q05652	Drosophila melanogaster	Metazoa	501	True
 Q39008	Arabidopsis thaliana	Viridiplantae	608	False
-Q54XQ2	Dictyostelium discoideum	Amoebozoa	1125	False
+Q54XQ2	Dictyostelium discoideum	Other	1125	False
 Q60700	Mus musculus	Metazoa	888	False
 Q64537	Rattus norvegicus	Metazoa	270	False
 Q99MJ6	Mus musculus	Metazoa	498	False
@@ -12508,7 +12508,7 @@ G3XA57	Mus musculus	Metazoa	512	False
 P07340	Rattus norvegicus	Metazoa	304	True
 P17809	Mus musculus	Metazoa	492	False
 P21447	Mus musculus	Metazoa	1276	True
-P54654	Dictyostelium discoideum	Amoebozoa	464	True
+P54654	Dictyostelium discoideum	Other	464	True
 P70545	Rattus norvegicus	Metazoa	587	False
 P97675	Rattus norvegicus	Metazoa	875	True
 Q07782	Rattus norvegicus	Metazoa	595	False
@@ -12557,7 +12557,7 @@ O54784	Mus musculus	Metazoa	448	False
 P83103	Drosophila melanogaster	Metazoa	566	False
 Q28165	Bos taurus	Metazoa	306	False
 Q3TQ03	Mus musculus	Metazoa	375	False
-Q54HC6	Dictyostelium discoideum	Amoebozoa	1460	False
+Q54HC6	Dictyostelium discoideum	Other	1460	False
 Q7XA66	Arabidopsis thaliana	Viridiplantae	242	False
 Q8MQX9	Drosophila melanogaster	Metazoa	1174	False
 Q8R1N0	Mus musculus	Metazoa	363	False
@@ -12705,7 +12705,7 @@ Q04660	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	Fungi	807	False
 Q09293	Caenorhabditis elegans	Metazoa	367	True
 Q10953	Caenorhabditis elegans	Metazoa	796	False
 Q12019	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	Fungi	4910	False
-Q54I18	Dictyostelium discoideum	Amoebozoa	1046	False
+Q54I18	Dictyostelium discoideum	Other	1046	False
 Q7TQK0	Mus musculus	Metazoa	723	False
 Q9M297	Arabidopsis thaliana	Viridiplantae	1256	False
 Q9VEX5	Drosophila melanogaster	Metazoa	689	False
@@ -12916,7 +12916,7 @@ P22909	Rattus norvegicus	Metazoa	465	False
 P30302	Arabidopsis thaliana	Viridiplantae	285	False
 P43286	Arabidopsis thaliana	Viridiplantae	287	False
 P49684	Rattus norvegicus	Metazoa	386	False
-P54679	Dictyostelium discoideum	Amoebozoa	1058	False
+P54679	Dictyostelium discoideum	Other	1058	False
 P60203	Rattus norvegicus	Metazoa	277	False
 P92949	Arabidopsis thaliana	Viridiplantae	725	False
 P97714	Mus musculus	Metazoa	562	False
@@ -13156,7 +13156,7 @@ P39104	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	Fungi	1066	False
 F4JZY1	Arabidopsis thaliana	Viridiplantae	1586	False
 P43404	Mus musculus	Metazoa	618	False
 P60881	Rattus norvegicus	Metazoa	206	True
-Q54QQ1	Dictyostelium discoideum	Amoebozoa	1387	False
+Q54QQ1	Dictyostelium discoideum	Other	1387	False
 Q8L617	Arabidopsis thaliana	Viridiplantae	313	False
 Q8T0S6	Drosophila melanogaster	Metazoa	669	False
 Q9LFL6	Arabidopsis thaliana	Viridiplantae	336	False
@@ -13294,7 +13294,7 @@ A0A1D9BZF0	Mus musculus	Metazoa	507	False
 P0C7T6	Mus musculus	Metazoa	687	False
 Q04744	Mus musculus	Metazoa	253	False
 Q99NB8	Mus musculus	Metazoa	596	False
-P42526	Dictyostelium discoideum	Amoebozoa	118	False
+P42526	Dictyostelium discoideum	Other	118	False
 P53226	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	Fungi	547	False
 Q6RUV5	Rattus norvegicus	Metazoa	192	False
 Q9R1S7	Mus musculus	Metazoa	1498	False
@@ -13338,7 +13338,7 @@ Q792I0	Rattus norvegicus	Metazoa	197	False
 Q8BUE1	Mus musculus	Metazoa	797	False
 Q8R4D5	Mus musculus	Metazoa	1104	True
 Q8VDQ8	Mus musculus	Metazoa	389	False
-P28178	Dictyostelium discoideum	Amoebozoa	479	False
+P28178	Dictyostelium discoideum	Other	479	False
 Q62769	Rattus norvegicus	Metazoa	1622	False
 Q9CWR0	Mus musculus	Metazoa	618	False
 D3Z291	Mus musculus	Metazoa	348	False
@@ -13384,7 +13384,7 @@ P70372	Mus musculus	Metazoa	326	False
 Q09601	Caenorhabditis elegans	Metazoa	381	False
 Q5XET5	Arabidopsis thaliana	Viridiplantae	511	False
 Q9PVF8	Danio rerio	Metazoa	907	False
-P13231	Dictyostelium discoideum	Amoebozoa	118	True
+P13231	Dictyostelium discoideum	Other	118	True
 P51637	Mus musculus	Metazoa	151	False
 O22208	Arabidopsis thaliana	Viridiplantae	721	False
 Q05816	Mus musculus	Metazoa	135	True
@@ -13460,7 +13460,7 @@ P53838	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	Fungi	576	False
 P56485	Mus musculus	Metazoa	362	False
 Q06810	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	Fungi	360	False
 Q24210	Drosophila melanogaster	Metazoa	898	False
-Q54WT8	Dictyostelium discoideum	Amoebozoa	294	False
+Q54WT8	Dictyostelium discoideum	Other	294	False
 Q7TT49	Rattus norvegicus	Metazoa	1713	False
 Q9FIU5	Arabidopsis thaliana	Viridiplantae	440	False
 Q9JK95	Mus musculus	Metazoa	193	False
@@ -13656,7 +13656,7 @@ Q9S814	Arabidopsis thaliana	Viridiplantae	1294	False
 O08774	Rattus norvegicus	Metazoa	1387	False
 O45952	Caenorhabditis elegans	Metazoa	249	False
 Q23670	Caenorhabditis elegans	Metazoa	1520	False
-Q54T86	Dictyostelium discoideum	Amoebozoa	568	False
+Q54T86	Dictyostelium discoideum	Other	568	False
 Q9D0Z3	Mus musculus	Metazoa	276	False
 Q9VGE3	Drosophila melanogaster	Metazoa	459	False
 Q9XUB3	Caenorhabditis elegans	Metazoa	781	False
@@ -13785,7 +13785,7 @@ E9PVD1	Mus musculus	Metazoa	701	False
 P24452	Mus musculus	Metazoa	352	False
 Q61985	Mus musculus	Metazoa	741	False
 Q8VZB2	Arabidopsis thaliana	Viridiplantae	221	False
-Q8I566	Plasmodium falciparum (isolate 3D7)	Sar	442	True
+Q8I566	Plasmodium falciparum (isolate 3D7)	Other	442	True
 Q12063	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	Fungi	375	False
 Q62711	Rattus norvegicus	Metazoa	772	False
 P39946	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	Fungi	494	False
@@ -13818,7 +13818,7 @@ Q9Z266	Mus musculus	Metazoa	136	False
 O76932	Drosophila melanogaster	Metazoa	307	False
 P0CW70	Mus musculus	Metazoa	773	False
 Q18909	Caenorhabditis elegans	Metazoa	319	False
-Q54HI5	Dictyostelium discoideum	Amoebozoa	716	False
+Q54HI5	Dictyostelium discoideum	Other	716	False
 Q94F30	Arabidopsis thaliana	Viridiplantae	489	False
 Q9VLD6	Drosophila melanogaster	Metazoa	315	False
 Q9Z0U1	Mus musculus	Metazoa	1167	True
@@ -13977,7 +13977,7 @@ Q9WTU3	Mus musculus	Metazoa	1978	False
 A2A259	Mus musculus	Metazoa	760	False
 Q148W0	Mus musculus	Metazoa	1251	False
 Q9VC03	Drosophila melanogaster	Metazoa	389	False
-Q558Z2	Dictyostelium discoideum	Amoebozoa	905	False
+Q558Z2	Dictyostelium discoideum	Other	905	False
 F4KCE9	Arabidopsis thaliana	Viridiplantae	598	False
 Q9FLP0	Arabidopsis thaliana	Viridiplantae	587	False
 P35233	Rattus norvegicus	Metazoa	416	False
@@ -14079,14 +14079,14 @@ P38283	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	Fungi	698	False
 P69850	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	Fungi	94	False
 Q12382	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	Fungi	290	False
 Q19404	Caenorhabditis elegans	Metazoa	442	False
-Q55GF9	Dictyostelium discoideum	Amoebozoa	1320	False
+Q55GF9	Dictyostelium discoideum	Other	1320	False
 P41832	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	Fungi	1953	False
 Q6UJY2	Mus musculus	Metazoa	1175	False
 Q9QZN9	Rattus norvegicus	Metazoa	360	False
 Q9SLD2	Arabidopsis thaliana	Viridiplantae	520	False
 O61722	Drosophila melanogaster	Metazoa	176	True
 P15389	Rattus norvegicus	Metazoa	2019	True
-P54678	Dictyostelium discoideum	Amoebozoa	1115	False
+P54678	Dictyostelium discoideum	Other	1115	False
 Q8R0W0	Mus musculus	Metazoa	6548	False
 Q7TN99	Mus musculus	Metazoa	716	False
 Q1HFZ0	Mus musculus	Metazoa	757	False
@@ -14311,7 +14311,7 @@ Q8K3Y3	Mus musculus	Metazoa	209	True
 Q9DB96	Mus musculus	Metazoa	315	False
 Q9V4P1	Drosophila melanogaster	Metazoa	1239	False
 Q9VC45	Drosophila melanogaster	Metazoa	1954	False
-O60952	Dictyostelium discoideum	Amoebozoa	199	False
+O60952	Dictyostelium discoideum	Other	199	False
 Q9XUS7	Caenorhabditis elegans	Metazoa	610	False
 A1Z9P3	Drosophila melanogaster	Metazoa	1576	False
 A2ARP9	Mus musculus	Metazoa	588	False
@@ -14554,7 +14554,7 @@ P34080	Rattus norvegicus	Metazoa	271	False
 Q9JI12	Rattus norvegicus	Metazoa	582	True
 P22002	Rattus norvegicus	Metazoa	2169	False
 Q6P7B7	Rattus norvegicus	Metazoa	404	False
-Q9BLG4	Dictyostelium discoideum	Amoebozoa	463	False
+Q9BLG4	Dictyostelium discoideum	Other	463	False
 Q9JL04	Mus musculus	Metazoa	1578	False
 Q9Z0P4	Mus musculus	Metazoa	383	False
 Q9Z252	Rattus norvegicus	Metazoa	207	False
@@ -14649,7 +14649,7 @@ Q64430	Mus musculus	Metazoa	1491	False
 Q91V24	Mus musculus	Metazoa	2159	False
 P50617	Rattus norvegicus	Metazoa	707	False
 Q11179	Caenorhabditis elegans	Metazoa	470	False
-Q9BLG3	Dictyostelium discoideum	Amoebozoa	431	False
+Q9BLG3	Dictyostelium discoideum	Other	431	False
 P97275	Cavia porcellus	Metazoa	658	True
 Q92265	Komagataella pastoris	Fungi	419	False
 A0A0S2UWC9	Petunia hybrida	Viridiplantae	249	False
@@ -14657,7 +14657,7 @@ D3KY98	Carapichea ipecacuanha	Viridiplantae	350	False
 O94489	Schizosaccharomyces pombe (strain 972 / ATCC 24843)	Fungi	1047	False
 P52301	Xenopus laevis	Metazoa	216	False
 Q4QZZ9	Emericella nidulans	Fungi	370	False
-Q5QQ46	Trypanosoma brucei brucei	Discoba	528	False
+Q5QQ46	Trypanosoma brucei brucei	Other	528	False
 Q9SQ68	Papaver somniferum	Viridiplantae	321	True
 A2ANU3	Mus musculus	Metazoa	258	False
 O70622	Mus musculus	Metazoa	471	False
@@ -14703,7 +14703,7 @@ P15387	Rattus norvegicus	Metazoa	857	False
 A0A075D657	Vinca minor	Viridiplantae	322	False
 A0A0B5L781	Penicillium brevicompactum	Fungi	398	False
 D3KYA0	Carapichea ipecacuanha	Viridiplantae	358	False
-E9AE57	Leishmania major	Discoba	568	True
+E9AE57	Leishmania major	Other	568	True
 H9A1V3	Cannabis sativa	Viridiplantae	720	False
 P87017	Aspergillus parasiticus (strain ATCC 56775 / NRRL 5862 / SRRC 143 / SU-1)	Fungi	278	False
 Q8MI17	Oryctolagus cuniculus	Metazoa	496	False
@@ -14738,7 +14738,7 @@ P97492	Mus musculus	Metazoa	547	False
 Q96DY5	Mus musculus	Metazoa	654	False
 Q9D2A5	Mus musculus	Metazoa	370	False
 Q9V3J4	Drosophila melanogaster	Metazoa	356	False
-O76329	Dictyostelium discoideum	Amoebozoa	1738	False
+O76329	Dictyostelium discoideum	Other	1738	False
 O74560	Schizosaccharomyces pombe (strain 972 / ATCC 24843)	Fungi	636	False
 Q9ESF1	Mus musculus	Metazoa	1997	False
 P11799	Gallus gallus	Metazoa	1906	False
@@ -14748,10 +14748,10 @@ B0XMC1	Aspergillus fumigatus (strain CBS 144.89 / FGSC A1163 / CEA10)	Fungi	433	
 O59701	Schizosaccharomyces pombe (strain 972 / ATCC 24843)	Fungi	351	False
 O94504	Schizosaccharomyces pombe (strain 972 / ATCC 24843)	Fungi	133	False
 P12294	Saccharomyces cerevisiae	Fungi	476	False
-P86926	Trypanosoma brucei brucei	Discoba	469	False
+P86926	Trypanosoma brucei brucei	Other	469	False
 Q09864	Schizosaccharomyces pombe (strain 972 / ATCC 24843)	Fungi	582	False
 Q10423	Schizosaccharomyces pombe (strain 972 / ATCC 24843)	Fungi	258	True
-Q581T1	Trypanosoma brucei brucei (strain 927/4 GUTat10.1)	Discoba	2167	False
+Q581T1	Trypanosoma brucei brucei (strain 927/4 GUTat10.1)	Other	2167	False
 Q9FS88	Solanum tuberosum	Viridiplantae	412	False
 C7A2A0	Antirrhinum majus	Viridiplantae	534	False
 K7QKH1	Humulus lupulus	Viridiplantae	393	False
@@ -14761,22 +14761,22 @@ P26969	Pisum sativum	Viridiplantae	1057	False
 Q5C9I9	Mentha piperita	Viridiplantae	265	False
 O24164	Nicotiana tabacum	Viridiplantae	504	True
 O43091	Schizosaccharomyces pombe (strain 972 / ATCC 24843)	Fungi	378	False
-Q4QAU9	Leishmania major	Discoba	549	True
+Q4QAU9	Leishmania major	Other	549	True
 Q6C354	Yarrowia lipolytica (strain CLIB 122 / E 150)	Fungi	520	False
 Q6CLY8	Kluyveromyces lactis (strain ATCC 8585 / CBS 2359 / DSM 70799 / NBRC 1267 / NRRL Y-1140 / WM37)	Fungi	368	False
-Q86MA2	Trypanosoma brucei brucei	Discoba	743	False
-Q86MV5	Trypanosoma brucei brucei	Discoba	487	True
-Q8WQX5	Trypanosoma brucei brucei	Discoba	976	False
-Q94IN5	Euglena gracilis	Discoba	1803	False
+Q86MA2	Trypanosoma brucei brucei	Other	743	False
+Q86MV5	Trypanosoma brucei brucei	Other	487	True
+Q8WQX5	Trypanosoma brucei brucei	Other	976	False
+Q94IN5	Euglena gracilis	Other	1803	False
 A0A1E3P8S6	Wickerhamomyces anomalus (strain ATCC 58044 / CBS 1984 / NCYC 433 / NRRL Y-366-8)	Fungi	391	False
 H2LNR5	Oryzias latipes	Metazoa	746	False
 Q10341	Schizosaccharomyces pombe (strain 972 / ATCC 24843)	Fungi	504	False
-Q384Y0	Trypanosoma brucei brucei (strain 927/4 GUTat10.1)	Discoba	1048	False
-Q384Y1	Trypanosoma brucei brucei (strain 927/4 GUTat10.1)	Discoba	929	False
-Q5EU90	Euglena gracilis	Discoba	539	False
-Q8IE02	Plasmodium falciparum (isolate 3D7)	Sar	597	False
-Q8IEG9	Plasmodium falciparum (isolate 3D7)	Sar	408	True
-Q8WQX6	Leishmania tarentolae	Discoba	1120	False
+Q384Y0	Trypanosoma brucei brucei (strain 927/4 GUTat10.1)	Other	1048	False
+Q384Y1	Trypanosoma brucei brucei (strain 927/4 GUTat10.1)	Other	929	False
+Q5EU90	Euglena gracilis	Other	539	False
+Q8IE02	Plasmodium falciparum (isolate 3D7)	Other	597	False
+Q8IEG9	Plasmodium falciparum (isolate 3D7)	Other	408	True
+Q8WQX6	Leishmania tarentolae	Other	1120	False
 Q9FS87	Solanum tuberosum	Viridiplantae	412	False
 Q9UTC6	Schizosaccharomyces pombe (strain 972 / ATCC 24843)	Fungi	192	False
 Q9YH58	Gallus gallus	Metazoa	541	False
@@ -14784,16 +14784,16 @@ Q9PT60	Xenopus laevis	Metazoa	655	False
 O04862	Pisum sativum	Viridiplantae	515	False
 O14275	Schizosaccharomyces pombe (strain 972 / ATCC 24843)	Fungi	931	False
 O74356	Schizosaccharomyces pombe (strain 972 / ATCC 24843)	Fungi	585	False
-O97240	Plasmodium falciparum (isolate 3D7)	Sar	617	False
+O97240	Plasmodium falciparum (isolate 3D7)	Other	617	False
 P15505	Gallus gallus	Metazoa	1004	False
 P16276	Sus scrofa	Metazoa	781	True
-P86924	Trypanosoma brucei brucei	Discoba	416	False
-Q580X6	Trypanosoma brucei brucei (strain 927/4 GUTat10.1)	Discoba	928	False
-Q585P3	Trypanosoma brucei brucei (strain 927/4 GUTat10.1)	Discoba	524	False
-Q8I1T1	Plasmodium falciparum (isolate 3D7)	Sar	229	False
+P86924	Trypanosoma brucei brucei	Other	416	False
+Q580X6	Trypanosoma brucei brucei (strain 927/4 GUTat10.1)	Other	928	False
+Q585P3	Trypanosoma brucei brucei (strain 927/4 GUTat10.1)	Other	524	False
+Q8I1T1	Plasmodium falciparum (isolate 3D7)	Other	229	False
 Q8WZM3	Candida tropicalis	Fungi	386	True
 Q9Z2Z7	Cricetulus griseus	Metazoa	553	False
-Q9GRT1	Leishmania mexicana	Discoba	350	False
+Q9GRT1	Leishmania mexicana	Other	350	False
 P12530	Oryctolagus cuniculus	Metazoa	663	False
 Q60415	Cricetulus griseus	Metazoa	299	False
 J9VLJ9	Cryptococcus neoformans var. grubii serotype A (strain H99 / ATCC 208821 / CBS 10515 / FGSC 9487)	Fungi	154	False
@@ -14801,7 +14801,7 @@ Q5AJ71	Candida albicans (strain SC5314 / ATCC MYA-2876)	Fungi	281	True
 Q9MZE0	Chlorocebus aethiops	Metazoa	282	False
 P33292	Komagataella pastoris	Fungi	576	False
 C4R2L0	Komagataella phaffii (strain GS115 / ATCC 20864)	Fungi	576	False
-P61076	Plasmodium falciparum (isolate 3D7)	Sar	617	False
+P61076	Plasmodium falciparum (isolate 3D7)	Other	617	False
 Q02038	Sus scrofa	Metazoa	704	False
 J9VWW9	Cryptococcus neoformans var. grubii serotype A (strain H99 / ATCC 208821 / CBS 10515 / FGSC 9487)	Fungi	225	False
 P78965	Schizosaccharomyces pombe (strain 972 / ATCC 24843)	Fungi	464	False
@@ -14825,15 +14825,15 @@ P00508	Gallus gallus	Metazoa	423	True
 P12063	Neurospora crassa (strain ATCC 24698 / 74-OR23-1A / CBS 708.71 / DSM 1257 / FGSC 987)	Fungi	669	True
 P87355	Columba livia	Metazoa	181	False
 Q7SH52	Neurospora crassa (strain ATCC 24698 / 74-OR23-1A / CBS 708.71 / DSM 1257 / FGSC 987)	Fungi	1168	False
-C7AJA4	Trypanosoma brucei brucei	Discoba	406	True
+C7AJA4	Trypanosoma brucei brucei	Other	406	True
 P00889	Sus scrofa	Metazoa	464	True
 P22572	Neurospora crassa (strain ATCC 24698 / 74-OR23-1A / CBS 708.71 / DSM 1257 / FGSC 987)	Fungi	453	False
 P80147	Sus scrofa	Metazoa	500	True
 Q9UTL6	Schizosaccharomyces pombe (strain 972 / ATCC 24843)	Fungi	225	False
 Q29122	Sus scrofa	Metazoa	1254	True
 B4FZ81	Zea mays	Viridiplantae	555	False
-Q57UZ7	Trypanosoma brucei brucei (strain 927/4 GUTat10.1)	Discoba	550	False
-Q587E3	Trypanosoma brucei brucei (strain 927/4 GUTat10.1)	Discoba	735	False
+Q57UZ7	Trypanosoma brucei brucei (strain 927/4 GUTat10.1)	Other	550	False
+Q587E3	Trypanosoma brucei brucei (strain 927/4 GUTat10.1)	Other	735	False
 Q41142	Ricinus communis	Viridiplantae	808	False
 C6SZ50	Glycine max	Viridiplantae	211	False
 A0A0R0H9T5	Glycine max	Viridiplantae	172	False
@@ -14854,7 +14854,7 @@ P17606	Sorghum bicolor	Viridiplantae	429	True
 Q10712	Solanum lycopersicum	Viridiplantae	571	True
 Q39735	Flaveria bidentis	Viridiplantae	953	False
 Q42876	Solanum lycopersicum	Viridiplantae	569	False
-Q8ILW0	Plasmodium falciparum (isolate 3D7)	Sar	347	False
+Q8ILW0	Plasmodium falciparum (isolate 3D7)	Other	347	False
 P05725	Chlamydomonas reinhardtii	Viridiplantae	163	True
 P0C511	Oryza sativa subsp. indica	Viridiplantae	477	False
 P11383	Triticum aestivum	Viridiplantae	477	True
@@ -14871,7 +14871,7 @@ A0A0U3BRC5	Leucosceptrum canum	Viridiplantae	364	False
 I4DST8	Tulipa gesneriana	Viridiplantae	385	False
 K7WIZ6	Zea mays	Viridiplantae	623	False
 O81192	Salvia officinalis	Viridiplantae	598	True
-O96693	Plasmodium falciparum (isolate HB3)	Sar	488	True
+O96693	Plasmodium falciparum (isolate HB3)	Other	488	True
 P00877	Chlamydomonas reinhardtii	Viridiplantae	475	True
 P07505	Spinacia oleracea	Viridiplantae	222	False
 P0C565	Tanacetum cinerariifolium	Viridiplantae	393	False
@@ -14908,9 +14908,9 @@ P49235	Zea mays	Viridiplantae	566	True
 Q29VN2	Zea mays	Viridiplantae	581	False
 U5PZT6	Hedychium coronarium	Viridiplantae	591	False
 P19787	Penicillium chrysogenum	Fungi	3746	False
-Q383Q5	Trypanosoma brucei brucei (strain 927/4 GUTat10.1)	Discoba	209	True
+Q383Q5	Trypanosoma brucei brucei (strain 927/4 GUTat10.1)	Other	209	True
 B6HLU1	Penicillium rubens (strain ATCC 28089 / DSM 1075 / NRRL 1951 / Wisconsin 54-1255)	Fungi	3746	False
-C0H4V6	Plasmodium falciparum (isolate 3D7)	Sar	262	False
+C0H4V6	Plasmodium falciparum (isolate 3D7)	Other	262	False
 P20398	Xenopus laevis	Metazoa	591	False
 A0A2Z5GDY5	Lotus japonicus	Viridiplantae	658	False
 Q38950	Arabidopsis thaliana	Viridiplantae	587	True
@@ -14999,9 +14999,9 @@ Q09811	Schizosaccharomyces pombe (strain 972 / ATCC 24843)	Fungi	1328	False
 Q09907	Schizosaccharomyces pombe (strain 972 / ATCC 24843)	Fungi	355	False
 Q10059	Schizosaccharomyces pombe (strain 972 / ATCC 24843)	Fungi	1841	False
 Q10135	Schizosaccharomyces pombe (strain 972 / ATCC 24843)	Fungi	1273	False
-Q257B3	Trypanosoma brucei brucei	Discoba	345	False
+Q257B3	Trypanosoma brucei brucei	Other	345	False
 Q40477	Nicotiana tabacum	Viridiplantae	225	False
-Q57X81	Trypanosoma brucei brucei (strain 927/4 GUTat10.1)	Discoba	1077	False
+Q57X81	Trypanosoma brucei brucei (strain 927/4 GUTat10.1)	Other	1077	False
 Q59RL7	Candida albicans (strain SC5314 / ATCC MYA-2876)	Fungi	853	False
 Q5A960	Candida albicans (strain SC5314 / ATCC MYA-2876)	Fungi	833	False
 Q5BAH2	Emericella nidulans (strain FGSC A4 / ATCC 38163 / CBS 112.46 / NRRL 194 / M139)	Fungi	1041	False
@@ -15015,10 +15015,10 @@ Q9DE46	Xenopus laevis	Metazoa	1458	False
 Q9HGK2	Schizosaccharomyces pombe (strain 972 / ATCC 24843)	Fungi	216	False
 Q9P7T4	Schizosaccharomyces pombe (strain 972 / ATCC 24843)	Fungi	1019	False
 Q9S7B2	Zea mays	Viridiplantae	370	False
-Q9U6M1	Leishmania tarentolae	Discoba	827	False
+Q9U6M1	Leishmania tarentolae	Other	827	False
 Q9UUD1	Schizosaccharomyces pombe (strain 972 / ATCC 24843)	Fungi	900	False
 Q9Y804	Schizosaccharomyces pombe (strain 972 / ATCC 24843)	Fungi	703	False
-O15770	Plasmodium falciparum (isolate 3D7)	Sar	546	False
+O15770	Plasmodium falciparum (isolate 3D7)	Other	546	False
 D3YN49	Xenopus laevis	Metazoa	316	False
 I1RC73	Gibberella zeae (strain ATCC MYA-4620 / CBS 123657 / FGSC 9075 / NRRL 31084 / PH-1)	Fungi	492	False
 O13722	Schizosaccharomyces pombe (strain 972 / ATCC 24843)	Fungi	450	False
@@ -15047,7 +15047,7 @@ P87176	Schizosaccharomyces pombe (strain 972 / ATCC 24843)	Fungi	269	False
 Q09176	Schizosaccharomyces pombe (strain 972 / ATCC 24843)	Fungi	216	True
 Q09685	Schizosaccharomyces pombe (strain 972 / ATCC 24843)	Fungi	411	False
 Q2LAJ3	Solanum lycopersicum	Viridiplantae	846	False
-Q38AH0	Trypanosoma brucei brucei (strain 927/4 GUTat10.1)	Discoba	370	False
+Q38AH0	Trypanosoma brucei brucei (strain 927/4 GUTat10.1)	Other	370	False
 Q4G338	Haemonchus contortus	Metazoa	324	False
 Q5A287	Candida albicans (strain SC5314 / ATCC MYA-2876)	Fungi	805	False
 Q800K6	Xenopus laevis	Metazoa	1513	False
@@ -15111,7 +15111,7 @@ Q9UUC6	Schizosaccharomyces pombe (strain 972 / ATCC 24843)	Fungi	97	True
 Q9Y7U4	Schizosaccharomyces pombe (strain 972 / ATCC 24843)	Fungi	328	False
 Q9Y802	Schizosaccharomyces pombe (strain 972 / ATCC 24843)	Fungi	1000	False
 A4PES0	Sus scrofa	Metazoa	565	False
-B6EU02	Leishmania tarentolae	Discoba	1098	False
+B6EU02	Leishmania tarentolae	Other	1098	False
 B7ZR65	Xenopus laevis	Metazoa	477	False
 I0IUP4	Gallus gallus	Metazoa	1169	False
 O13768	Schizosaccharomyces pombe (strain 972 / ATCC 24843)	Fungi	804	False
@@ -15139,7 +15139,7 @@ P40923	Schizosaccharomyces pombe (strain 972 / ATCC 24843)	Fungi	201	False
 P40984	Schizosaccharomyces pombe (strain 972 / ATCC 24843)	Fungi	157	True
 P48430	Gallus gallus	Metazoa	315	False
 P70060	Xenopus laevis	Metazoa	375	True
-P86938	Trypanosoma brucei brucei (strain 927/4 GUTat10.1)	Discoba	839	False
+P86938	Trypanosoma brucei brucei (strain 927/4 GUTat10.1)	Other	839	False
 P87174	Schizosaccharomyces pombe (strain 972 / ATCC 24843)	Fungi	210	True
 Q02099	Schizosaccharomyces pombe (strain 972 / ATCC 24843)	Fungi	2386	False
 Q03414	Xenopus laevis	Metazoa	516	False
@@ -15147,7 +15147,7 @@ Q08B36	Xenopus laevis	Metazoa	374	False
 Q10178	Schizosaccharomyces pombe (strain 972 / ATCC 24843)	Fungi	1205	False
 Q1MTN9	Schizosaccharomyces pombe (strain 972 / ATCC 24843)	Fungi	544	False
 Q1MTQ0	Schizosaccharomyces pombe (strain 972 / ATCC 24843)	Fungi	692	False
-Q230X8	Tetrahymena thermophila (strain SB210)	Sar	423	False
+Q230X8	Tetrahymena thermophila (strain SB210)	Other	423	False
 Q25QX6	Xenopus laevis	Metazoa	153	False
 Q3KQ35	Xenopus laevis	Metazoa	380	False
 Q4PIR3	Schizosaccharomyces pombe (strain 972 / ATCC 24843)	Fungi	250	False
@@ -15167,7 +15167,7 @@ P0C586	Oryza sativa subsp. indica	Viridiplantae	810	False
 P23509	Solanum tuberosum	Viridiplantae	521	True
 P55241	Zea mays	Viridiplantae	516	False
 P07142	Neurospora crassa (strain ATCC 24698 / 74-OR23-1A / CBS 708.71 / DSM 1257 / FGSC 987)	Fungi	332	False
-Q584D1	Trypanosoma brucei brucei (strain 927/4 GUTat10.1)	Discoba	639	False
+Q584D1	Trypanosoma brucei brucei (strain 927/4 GUTat10.1)	Other	639	False
 W5PSH7	Ovis aries	Metazoa	305	False
 Q33862	Ascaris suum	Metazoa	645	True
 Q8WSR3	Ascaris suum	Metazoa	645	False
@@ -15207,7 +15207,7 @@ P49739	Xenopus laevis	Metazoa	807	True
 P53692	Schizosaccharomyces pombe (strain 972 / ATCC 24843)	Fungi	1140	False
 P54345	Chlamydomonas reinhardtii	Viridiplantae	156	False
 P54789	Schizosaccharomyces pombe (strain 972 / ATCC 24843)	Fungi	707	False
-P69150	Tetrahymena thermophila	Sar	136	False
+P69150	Tetrahymena thermophila	Other	136	False
 P69244	Medicago sativa	Viridiplantae	136	False
 P70033	Xenopus laevis	Metazoa	435	False
 P79083	Schizosaccharomyces pombe (strain 972 / ATCC 24843)	Fungi	328	False
@@ -15252,7 +15252,7 @@ O74944	Schizosaccharomyces pombe (strain 972 / ATCC 24843)	Fungi	547	False
 O74986	Schizosaccharomyces pombe (strain 972 / ATCC 24843)	Fungi	294	True
 P02272	Gallus gallus	Metazoa	128	False
 P02281	Xenopus laevis	Metazoa	126	True
-P08992	Tetrahymena thermophila (strain SB210)	Sar	146	False
+P08992	Tetrahymena thermophila (strain SB210)	Other	146	False
 P13280	Oryctolagus cuniculus	Metazoa	333	True
 P16143	Xenopus laevis	Metazoa	758	False
 P23566	Schizosaccharomyces pombe (strain 972 / ATCC 24843)	Fungi	151	False
@@ -15276,7 +15276,7 @@ Q10428	Schizosaccharomyces pombe (strain 972 / ATCC 24843)	Fungi	548	False
 Q2WGK3	Trichoderma harzianum	Fungi	356	False
 Q4WJ81	Aspergillus fumigatus (strain ATCC MYA-4609 / CBS 101355 / FGSC A1100 / Af293)	Fungi	754	False
 Q4WSF6	Aspergillus fumigatus (strain ATCC MYA-4609 / CBS 101355 / FGSC A1100 / Af293)	Fungi	366	False
-Q4Z1L3	Plasmodium berghei (strain Anka)	Sar	376	True
+Q4Z1L3	Plasmodium berghei (strain Anka)	Other	376	True
 Q56R42	Cryptococcus neoformans var. grubii serotype A (strain H99 / ATCC 208821 / CBS 10515 / FGSC 9487)	Fungi	365	False
 Q5A4H5	Candida albicans (strain SC5314 / ATCC MYA-2876)	Fungi	731	False
 Q6DDT4	Xenopus laevis	Metazoa	517	True
@@ -15313,7 +15313,7 @@ O94316	Schizosaccharomyces pombe (strain 972 / ATCC 24843)	Fungi	984	True
 O94580	Schizosaccharomyces pombe (strain 972 / ATCC 24843)	Fungi	282	False
 O94740	Schizosaccharomyces pombe (strain 972 / ATCC 24843)	Fungi	466	False
 P02264	Oncorhynchus mykiss	Metazoa	128	False
-P02273	Tetrahymena pyriformis	Sar	138	False
+P02273	Tetrahymena pyriformis	Other	138	False
 P04909	Schizosaccharomyces pombe (strain 972 / ATCC 24843)	Fungi	132	False
 P04910	Schizosaccharomyces pombe (strain 972 / ATCC 24843)	Fungi	131	True
 P04913	Schizosaccharomyces pombe (strain 972 / ATCC 24843)	Fungi	126	True
@@ -15321,7 +15321,7 @@ P05764	Schizosaccharomyces pombe (strain 972 / ATCC 24843)	Fungi	87	False
 P07812	Gallus gallus	Metazoa	786	False
 P0CJ62	Xenopus laevis	Metazoa	239	False
 P31209	Schizosaccharomyces pombe (strain 972 / ATCC 24843)	Fungi	653	False
-P35064	Tetrahymena thermophila (strain SB210)	Sar	138	False
+P35064	Tetrahymena thermophila (strain SB210)	Other	138	False
 P40381	Schizosaccharomyces pombe (strain 972 / ATCC 24843)	Fungi	328	False
 P40387	Schizosaccharomyces pombe (strain 972 / ATCC 24843)	Fungi	513	False
 P62787	Zea mays	Viridiplantae	103	False
@@ -15364,7 +15364,7 @@ O74736	Schizosaccharomyces pombe (strain 972 / ATCC 24843)	Fungi	305	True
 O74856	Schizosaccharomyces pombe (strain 972 / ATCC 24843)	Fungi	335	True
 O74874	Schizosaccharomyces pombe (strain 972 / ATCC 24843)	Fungi	690	False
 O74946	Schizosaccharomyces pombe (strain 972 / ATCC 24843)	Fungi	574	False
-O77334	Plasmodium falciparum (isolate 3D7)	Sar	575	False
+O77334	Plasmodium falciparum (isolate 3D7)	Other	575	False
 P02259	Gallus gallus	Metazoa	190	True
 P02275	Triticum aestivum	Viridiplantae	146	False
 P06652	Schizosaccharomyces pombe (strain 972 / ATCC 24843)	Fungi	596	False
@@ -15374,7 +15374,7 @@ P18296	Schizosaccharomyces pombe (strain 972 / ATCC 24843)	Fungi	1828	False
 P36887	Sus scrofa	Metazoa	351	True
 P37202	Schizosaccharomyces pombe (strain 972 / ATCC 24843)	Fungi	970	False
 P42231	Ovis aries	Metazoa	794	False
-P51555	Entamoeba histolytica (strain ATCC 30459 / HM-1:IMSS / ABRM)	Amoebozoa	436	True
+P51555	Entamoeba histolytica (strain ATCC 30459 / HM-1:IMSS / ABRM)	Other	436	True
 P62797	Oncorhynchus mykiss	Metazoa	103	False
 P62799	Xenopus laevis	Metazoa	103	True
 P79943	Xenopus laevis	Metazoa	254	False
@@ -15392,7 +15392,7 @@ Q59UY7	Candida albicans (strain SC5314 / ATCC MYA-2876)	Fungi	917	False
 Q5AMH6	Candida albicans (strain SC5314 / ATCC MYA-2876)	Fungi	821	False
 Q6DE87	Xenopus laevis	Metazoa	474	False
 Q7M4G7	Patiria pectinifera	Metazoa	122	False
-Q8I4V8	Plasmodium falciparum (isolate 3D7)	Sar	304	True
+Q8I4V8	Plasmodium falciparum (isolate 3D7)	Other	304	True
 Q8LPU4	Zea mays	Viridiplantae	468	False
 Q8UVD9	Gallus gallus	Metazoa	769	False
 Q90Z72	Gallus gallus	Metazoa	458	False
@@ -15432,7 +15432,7 @@ Q09884	Schizosaccharomyces pombe (strain 972 / ATCC 24843)	Fungi	1374	False
 Q09892	Schizosaccharomyces pombe (strain 972 / ATCC 24843)	Fungi	349	False
 Q10585	Schizosaccharomyces pombe (strain 972 / ATCC 24843)	Fungi	124	True
 Q12126	Schizosaccharomyces pombe (strain 972 / ATCC 24843)	Fungi	335	False
-Q2VLK6	Trypanosoma cruzi (strain CL Brener)	Discoba	358	False
+Q2VLK6	Trypanosoma cruzi (strain CL Brener)	Other	358	False
 Q32NN2	Xenopus laevis	Metazoa	341	True
 Q5FWY4	Xenopus laevis	Metazoa	821	True
 Q5TM49	Macaca mulatta	Metazoa	360	False
@@ -15463,7 +15463,7 @@ P17067	Pisum sativum	Viridiplantae	328	False
 Q5UB07	Medicago truncatula	Viridiplantae	580	False
 A6YSL1	Zea mays	Viridiplantae	525	False
 Q38786	Avena sativa	Viridiplantae	574	False
-Q9GS23	Trypanosoma brucei brucei	Discoba	584	False
+Q9GS23	Trypanosoma brucei brucei	Other	584	False
 Q9UTH0	Schizosaccharomyces pombe (strain 972 / ATCC 24843)	Fungi	1162	False
 B2ZZS9	Oryzias latipes	Metazoa	400	False
 O14098	Schizosaccharomyces pombe (strain 972 / ATCC 24843)	Fungi	593	False
@@ -15508,7 +15508,7 @@ P87115	Schizosaccharomyces pombe (strain 972 / ATCC 24843)	Fungi	1033	False
 Q9FYS5	Zea mays	Viridiplantae	193	False
 Q9P7M3	Schizosaccharomyces pombe (strain 972 / ATCC 24843)	Fungi	271	False
 P12682	Sus scrofa	Metazoa	215	False
-Q4QEZ7	Leishmania major	Discoba	175	True
+Q4QEZ7	Leishmania major	Other	175	True
 D7PC76	Tursiops truncatus	Metazoa	741	True
 P18434	Sus scrofa	Metazoa	290	True
 P31597	Oryctolagus cuniculus	Metazoa	524	False
@@ -15517,8 +15517,8 @@ Q28677	Oryctolagus cuniculus	Metazoa	1085	False
 Q7YQK3	Oryctolagus cuniculus	Metazoa	529	False
 Q7YQK4	Oryctolagus cuniculus	Metazoa	503	False
 Q8GSG4	Medicago truncatula	Viridiplantae	528	False
-Q8IJH8	Plasmodium falciparum (isolate 3D7)	Sar	275	False
-S7VVK4	Toxoplasma gondii (strain ATCC 50853 / GT1)	Sar	4367	False
+Q8IJH8	Plasmodium falciparum (isolate 3D7)	Other	275	False
+S7VVK4	Toxoplasma gondii (strain ATCC 50853 / GT1)	Other	4367	False
 E4NKF8	Medicago truncatula	Viridiplantae	694	False
 E9RBG1	Aspergillus fumigatus (strain ATCC MYA-4609 / CBS 101355 / FGSC A1100 / Af293)	Fungi	1497	False
 J9VTB0	Cryptococcus neoformans var. grubii serotype A (strain H99 / ATCC 208821 / CBS 10515 / FGSC 9487)	Fungi	2106	False
@@ -15529,7 +15529,7 @@ P36606	Schizosaccharomyces pombe (strain 972 / ATCC 24843)	Fungi	468	False
 Q5ANA3	Candida albicans (strain SC5314 / ATCC MYA-2876)	Fungi	1501	False
 Q6FK23	Candida glabrata (strain ATCC 2001 / BCRC 20586 / JCM 3761 / NBRC 0622 / NRRL Y-65 / CBS 138)	Fungi	1499	False
 Q6TA49	Sus scrofa	Metazoa	289	False
-Q9GTP4	Crithidia fasciculata	Discoba	502	False
+Q9GTP4	Crithidia fasciculata	Other	502	False
 Q0QF01	Sus scrofa	Metazoa	664	True
 O74910	Schizosaccharomyces pombe (strain 972 / ATCC 24843)	Fungi	638	False
 Q10429	Schizosaccharomyces pombe (strain 972 / ATCC 24843)	Fungi	875	True
@@ -15545,34 +15545,34 @@ P30804	Canis lupus familiaris	Metazoa	1165	False
 Q4X006	Aspergillus fumigatus (strain ATCC MYA-4609 / CBS 101355 / FGSC A1100 / Af293)	Fungi	1499	False
 Q5ABU7	Candida albicans (strain SC5314 / ATCC MYA-2876)	Fungi	564	False
 Q6RX08	Oryctolagus cuniculus	Metazoa	842	False
-Q8I266	Plasmodium falciparum (isolate 3D7)	Sar	1470	False
-Q8MUM2	Toxoplasma gondii	Sar	568	False
+Q8I266	Plasmodium falciparum (isolate 3D7)	Other	1470	False
+Q8MUM2	Toxoplasma gondii	Other	568	False
 Q9MZT1	Canis lupus familiaris	Metazoa	976	False
 Q9YHT2	Gallus gallus	Metazoa	290	True
 Q9USR4	Schizosaccharomyces pombe (strain 972 / ATCC 24843)	Fungi	125	False
-A0A143ZZK9	Plasmodium falciparum (isolate 3D7)	Sar	1264	False
-A0A509AHB6	Plasmodium berghei (strain Anka)	Sar	523	True
+A0A143ZZK9	Plasmodium falciparum (isolate 3D7)	Other	1264	False
+A0A509AHB6	Plasmodium berghei (strain Anka)	Other	523	True
 D3GE74	Medicago truncatula	Viridiplantae	817	False
 P22739	Xenopus laevis	Metazoa	499	False
-Q8IDM6	Plasmodium falciparum (isolate 3D7)	Sar	422	True
+Q8IDM6	Plasmodium falciparum (isolate 3D7)	Other	422	True
 Q9TUP7	Canis lupus familiaris	Metazoa	444	False
 S5ZH89	Musa acuminata	Viridiplantae	286	False
-S8EZA7	Toxoplasma gondii (strain ATCC 50611 / Me49)	Sar	534	False
-A0A509APT1	Plasmodium berghei (strain Anka)	Sar	258	False
+S8EZA7	Toxoplasma gondii (strain ATCC 50611 / Me49)	Other	534	False
+A0A509APT1	Plasmodium berghei (strain Anka)	Other	258	False
 A9YWR6	Medicago truncatula	Viridiplantae	727	False
 E2RDM9	Canis lupus familiaris	Metazoa	172	False
 I6VSD2	Capra hircus	Metazoa	224	False
 J9VXM5	Cryptococcus neoformans var. grubii serotype A (strain H99 / ATCC 208821 / CBS 10515 / FGSC 9487)	Fungi	1421	False
 P36381	Gallus gallus	Metazoa	400	False
 P60588	Sus scrofa	Metazoa	285	False
-Q7KWJ5	Plasmodium falciparum (isolate 3D7)	Sar	504	False
+Q7KWJ5	Plasmodium falciparum (isolate 3D7)	Other	504	False
 Q7XB51	Physcomitrium patens	Viridiplantae	967	False
-Q8IBS5	Plasmodium falciparum (isolate 3D7)	Sar	528	True
+Q8IBS5	Plasmodium falciparum (isolate 3D7)	Other	528	True
 Q9XSZ4	Oryctolagus cuniculus	Metazoa	1079	False
-P61074	Plasmodium falciparum (isolate 3D7)	Sar	274	False
+P61074	Plasmodium falciparum (isolate 3D7)	Other	274	False
 Q9C115	Schizosaccharomyces pombe (strain 972 / ATCC 24843)	Fungi	150	False
 P51142	Xenopus laevis	Metazoa	736	False
-A0A509AQ68	Plasmodium berghei (strain Anka)	Sar	446	False
+A0A509AQ68	Plasmodium berghei (strain Anka)	Other	446	False
 Q9P7V9	Schizosaccharomyces pombe (strain 972 / ATCC 24843)	Fungi	585	False
 Q9YHT1	Gallus gallus	Metazoa	665	True
 O73932	Xenopus laevis	Metazoa	594	False
@@ -15583,7 +15583,7 @@ P0CH07	Schizosaccharomyces pombe (strain 972 / ATCC 24843)	Fungi	128	True
 P14732	Gallus gallus	Metazoa	600	False
 Q9UT23	Schizosaccharomyces pombe (strain 972 / ATCC 24843)	Fungi	834	False
 Q9Y812	Schizosaccharomyces pombe (strain 972 / ATCC 24843)	Fungi	120	False
-Q76NL8	Plasmodium falciparum (isolate 3D7)	Sar	1193	True
+Q76NL8	Plasmodium falciparum (isolate 3D7)	Other	1193	True
 P32260	Spinacia oleracea	Viridiplantae	383	False
 G4N7S6	Pyricularia oryzae (strain 70-15 / ATCC MYA-4617 / FGSC 8958)	Fungi	468	False
 O57526	Xenopus laevis	Metazoa	593	False
@@ -15601,7 +15601,7 @@ O93308	Xenopus laevis	Metazoa	1232	False
 P14731	Gallus gallus	Metazoa	584	False
 P87227	Schizosaccharomyces pombe (strain 972 / ATCC 24843)	Fungi	672	False
 Q23794	Chironomus tentans	Metazoa	99	False
-Q24849	Entamoeba histolytica (strain ATCC 30459 / HM-1:IMSS / ABRM)	Amoebozoa	601	False
+Q24849	Entamoeba histolytica (strain ATCC 30459 / HM-1:IMSS / ABRM)	Other	601	False
 Q9DGN1	Xenopus laevis	Metazoa	1265	False
 Q9HFF5	Schizosaccharomyces pombe (strain 972 / ATCC 24843)	Fungi	1205	False
 Q9HGP5	Schizosaccharomyces pombe (strain 972 / ATCC 24843)	Fungi	268	False
@@ -15613,9 +15613,9 @@ Q09081	Oryctolagus cuniculus	Metazoa	499	False
 Q9YGC1	Gallus gallus	Metazoa	552	False
 O13601	Schizosaccharomyces pombe (strain 972 / ATCC 24843)	Fungi	494	False
 O94374	Schizosaccharomyces pombe (strain 972 / ATCC 24843)	Fungi	539	False
-P29549	Sterkiella nova	Sar	495	False
+P29549	Sterkiella nova	Other	495	False
 P30776	Schizosaccharomyces pombe (strain 972 / ATCC 24843)	Fungi	628	False
-Q57V41	Trypanosoma brucei brucei (strain 927/4 GUTat10.1)	Discoba	351	False
+Q57V41	Trypanosoma brucei brucei (strain 927/4 GUTat10.1)	Other	351	False
 Q5ABZ2	Candida albicans (strain SC5314 / ATCC MYA-2876)	Fungi	534	False
 Q9NLA3	Patiria pectinifera	Metazoa	346	False
 Q9URT4	Schizosaccharomyces pombe (strain 972 / ATCC 24843)	Fungi	697	False
@@ -15668,7 +15668,7 @@ Q9BYN8	Homo sapiens	Metazoa	205	True
 Q9NYJ1	Homo sapiens	Metazoa	87	False
 Q9P0M9	Homo sapiens	Metazoa	148	False
 O13801	Schizosaccharomyces pombe (strain 972 / ATCC 24843)	Fungi	596	False
-Q8IJN7	Plasmodium falciparum (isolate 3D7)	Sar	446	False
+Q8IJN7	Plasmodium falciparum (isolate 3D7)	Other	446	False
 H1AFJ5	Neoceratodus forsteri	Metazoa	655	False
 P27112	Oryctolagus cuniculus	Metazoa	1035	False
 Q4W8A3	Macaca fascicularis	Metazoa	550	False
@@ -15698,7 +15698,7 @@ Q90X64	Xenopus laevis	Metazoa	521	False
 Q92341	Schizosaccharomyces pombe (strain 972 / ATCC 24843)	Fungi	630	False
 Q948T9	Solanum tuberosum	Viridiplantae	867	False
 O13795	Schizosaccharomyces pombe (strain 972 / ATCC 24843)	Fungi	402	False
-Q8IAX8	Plasmodium falciparum (isolate 3D7)	Sar	248	False
+Q8IAX8	Plasmodium falciparum (isolate 3D7)	Other	248	False
 D0E0C2	Periplaneta americana	Metazoa	1553	True
 P15381	Oryctolagus cuniculus	Metazoa	2171	False
 P19156	Sus scrofa	Metazoa	1034	True
@@ -15709,15 +15709,15 @@ Q8TGV2	Exophiala dermatitidis	Fungi	1885	False
 Q9TV66	Oryctolagus cuniculus	Metazoa	1175	False
 B6V8E6	Canis lupus familiaris	Metazoa	781	False
 P0DW16	Sus scrofa	Metazoa	1223	False
-P50258	Physarum polycephalum	Amoebozoa	450	False
+P50258	Physarum polycephalum	Other	450	False
 P78929	Schizosaccharomyces pombe (strain 972 / ATCC 24843)	Fungi	137	True
 Q40541	Nicotiana tabacum	Viridiplantae	690	False
 P79005	Schizosaccharomyces pombe (strain 972 / ATCC 24843)	Fungi	663	False
-Q8IJX8	Plasmodium falciparum (isolate 3D7)	Sar	107	False
+Q8IJX8	Plasmodium falciparum (isolate 3D7)	Other	107	False
 Q9WUM7	Mesocricetus auratus	Metazoa	1168	False
 Q09814	Schizosaccharomyces pombe (strain 972 / ATCC 24843)	Fungi	239	False
 A0A8P0N4K0	Canis lupus familiaris	Metazoa	1614	False
-Q8MMZ7	Toxoplasma gondii	Sar	994	False
+Q8MMZ7	Toxoplasma gondii	Other	994	False
 Q9DER5	Gallus gallus	Metazoa	2802	False
 P56277	Homo sapiens	Metazoa	68	True
 P82921	Homo sapiens	Metazoa	87	True
@@ -15730,8 +15730,8 @@ Q9Y2Q9	Homo sapiens	Metazoa	187	True
 O13881	Schizosaccharomyces pombe (strain 972 / ATCC 24843)	Fungi	537	True
 O74808	Schizosaccharomyces pombe (strain 972 / ATCC 24843)	Fungi	1238	False
 P56523	Schizosaccharomyces pombe (strain 972 / ATCC 24843)	Fungi	687	True
-Q8IE47	Plasmodium falciparum (isolate 3D7)	Sar	273	True
-O77389	Plasmodium falciparum (isolate 3D7)	Sar	309	True
+Q8IE47	Plasmodium falciparum (isolate 3D7)	Other	273	True
+O77389	Plasmodium falciparum (isolate 3D7)	Other	309	True
 O13281	Emericella nidulans	Fungi	1852	False
 Q00757	Emericella nidulans (strain FGSC A4 / ATCC 38163 / CBS 112.46 / NRRL 194 / M139)	Fungi	916	False
 Q9P793	Schizosaccharomyces pombe (strain 972 / ATCC 24843)	Fungi	1418	True
@@ -15740,7 +15740,7 @@ O59767	Schizosaccharomyces pombe (strain 972 / ATCC 24843)	Fungi	310	True
 Q10198	Schizosaccharomyces pombe (strain 972 / ATCC 24843)	Fungi	624	False
 Q8S950	Nicotiana tabacum	Viridiplantae	959	False
 Q9US26	Schizosaccharomyces pombe (strain 972 / ATCC 24843)	Fungi	351	False
-Q8I6Z7	Plasmodium falciparum (isolate 3D7)	Sar	1139	False
+Q8I6Z7	Plasmodium falciparum (isolate 3D7)	Other	1139	False
 Q9NR77	Homo sapiens	Metazoa	195	False
 E1BSW7	Gallus gallus	Metazoa	139	True
 O94751	Schizosaccharomyces pombe (strain 972 / ATCC 24843)	Fungi	1044	False
@@ -15751,7 +15751,7 @@ Q9YGL6	Gallus gallus	Metazoa	386	False
 O24370	Solanum tuberosum	Viridiplantae	899	False
 O94640	Schizosaccharomyces pombe (strain 972 / ATCC 24843)	Fungi	475	False
 Q10432	Schizosaccharomyces pombe (strain 972 / ATCC 24843)	Fungi	735	False
-Q8I615	Plasmodium falciparum (isolate 3D7)	Sar	1189	False
+Q8I615	Plasmodium falciparum (isolate 3D7)	Other	1189	False
 Q9UTK4	Schizosaccharomyces pombe (strain 972 / ATCC 24843)	Fungi	1807	False
 P0DJH6	Gallus gallus	Metazoa	76	True
 Q9URZ4	Schizosaccharomyces pombe (strain 972 / ATCC 24843)	Fungi	587	False
@@ -15789,7 +15789,7 @@ O94244	Schizosaccharomyces pombe (strain 972 / ATCC 24843)	Fungi	430	True
 P48010	Schizosaccharomyces pombe (strain 972 / ATCC 24843)	Fungi	464	False
 O14079	Schizosaccharomyces pombe (strain 972 / ATCC 24843)	Fungi	624	False
 O94547	Schizosaccharomyces pombe (strain 972 / ATCC 24843)	Fungi	580	False
-Q8ISM1	Giardia intestinalis	Metamonada	755	False
+Q8ISM1	Giardia intestinalis	Other	755	False
 P78953	Schizosaccharomyces pombe (strain 972 / ATCC 24843)	Fungi	920	False
 P06006	Pisum sativum	Viridiplantae	353	True
 P48183	Zea mays	Viridiplantae	353	False
@@ -15799,19 +15799,19 @@ P30997	Gallus gallus	Metazoa	906	False
 O14227	Schizosaccharomyces pombe (strain 972 / ATCC 24843)	Fungi	1215	False
 O74957	Schizosaccharomyces pombe (strain 972 / ATCC 24843)	Fungi	834	False
 Q9P802	Schizosaccharomyces pombe (strain 972 / ATCC 24843)	Fungi	194	True
-Q8IHY1	Plasmodium falciparum (isolate 3D7)	Sar	4226	False
+Q8IHY1	Plasmodium falciparum (isolate 3D7)	Other	4226	False
 P79171	Felis catus	Metazoa	967	True
 P05146	Spinacia oleracea	Viridiplantae	73	True
 Q43157	Spinacia oleracea	Viridiplantae	285	False
-Q76NM7	Plasmodium falciparum (isolate 3D7)	Sar	207	False
+Q76NM7	Plasmodium falciparum (isolate 3D7)	Other	207	False
 Q9UT18	Schizosaccharomyces pombe (strain 972 / ATCC 24843)	Fungi	591	False
 P78963	Schizosaccharomyces pombe (strain 972 / ATCC 24843)	Fungi	625	False
 E7FKV8	Oryzias latipes	Metazoa	2742	False
 O14031	Schizosaccharomyces pombe (strain 972 / ATCC 24843)	Fungi	851	False
 O74369	Schizosaccharomyces pombe (strain 972 / ATCC 24843)	Fungi	424	False
 O60165	Schizosaccharomyces pombe (strain 972 / ATCC 24843)	Fungi	428	False
-Q7RA60	Plasmodium yoelii yoelii	Sar	444	False
-A0A2I0BVG8	Plasmodium falciparum (isolate NF54)	Sar	524	False
+Q7RA60	Plasmodium yoelii yoelii	Other	444	False
+A0A2I0BVG8	Plasmodium falciparum (isolate NF54)	Other	524	False
 Q41009	Pisum sativum	Viridiplantae	310	True
 P12333	Spinacia oleracea	Viridiplantae	267	True
 P27490	Pisum sativum	Viridiplantae	268	True
@@ -15826,7 +15826,7 @@ Q9DG23	Gallus gallus	Metazoa	357	False
 P12154	Chlamydomonas reinhardtii	Viridiplantae	751	True
 P80470	Spinacia oleracea	Viridiplantae	199	False
 Q9PW38	Gallus gallus	Metazoa	736	False
-P54401	Entamoeba histolytica (strain ATCC 30459 / HM-1:IMSS / ABRM)	Amoebozoa	452	False
+P54401	Entamoeba histolytica (strain ATCC 30459 / HM-1:IMSS / ABRM)	Other	452	False
 Q6NUF4	Xenopus laevis	Metazoa	716	False
 O46550	Canis lupus familiaris	Metazoa	162	False
 P35001	Gallus gallus	Metazoa	246	False
@@ -15891,14 +15891,14 @@ P19619	Sus scrofa	Metazoa	346	True
 Q9HDZ6	Schizosaccharomyces pombe (strain 972 / ATCC 24843)	Fungi	155	False
 Q9P6S5	Schizosaccharomyces pombe (strain 972 / ATCC 24843)	Fungi	307	False
 Q9P7H1	Schizosaccharomyces pombe (strain 972 / ATCC 24843)	Fungi	537	False
-C4M4P4	Entamoeba histolytica (strain ATCC 30459 / HM-1:IMSS / ABRM)	Amoebozoa	148	True
+C4M4P4	Entamoeba histolytica (strain ATCC 30459 / HM-1:IMSS / ABRM)	Other	148	True
 F1PTE3	Canis lupus familiaris	Metazoa	203	False
 Q10283	Schizosaccharomyces pombe (strain 972 / ATCC 24843)	Fungi	1053	False
 P70032	Xenopus laevis	Metazoa	598	False
 Q1MTQ7	Schizosaccharomyces pombe (strain 972 / ATCC 24843)	Fungi	633	False
 Q10426	Schizosaccharomyces pombe (strain 972 / ATCC 24843)	Fungi	1040	False
 A0A8I3NFE2	Canis lupus familiaris	Metazoa	1264	False
-C4LVG4	Entamoeba histolytica (strain ATCC 30459 / HM-1:IMSS / ABRM)	Amoebozoa	138	False
+C4LVG4	Entamoeba histolytica (strain ATCC 30459 / HM-1:IMSS / ABRM)	Other	138	False
 Q10168	Schizosaccharomyces pombe (strain 972 / ATCC 24843)	Fungi	598	False
 O60016	Schizosaccharomyces pombe (strain 972 / ATCC 24843)	Fungi	490	True
 Q8N2H3	Homo sapiens	Metazoa	581	False
@@ -15915,28 +15915,28 @@ Q9MZ03	Oryctolagus cuniculus	Metazoa	298	False
 P54939	Gallus gallus	Metazoa	2541	False
 B9U3F2	Gallus gallus	Metazoa	1338	False
 Q9UST6	Schizosaccharomyces pombe (strain 972 / ATCC 24843)	Fungi	198	False
-Q8T8E5	Trypanosoma brucei brucei	Discoba	353	False
+Q8T8E5	Trypanosoma brucei brucei	Other	353	False
 D7UQM5	Patiria pectinifera	Metazoa	407	False
 O13838	Schizosaccharomyces pombe (strain 972 / ATCC 24843)	Fungi	371	False
 Q59NH8	Candida albicans (strain SC5314 / ATCC MYA-2876)	Fungi	542	False
-E2RU97	Giardia intestinalis (strain ATCC 50803 / WB clone C6)	Metamonada	248	True
+E2RU97	Giardia intestinalis (strain ATCC 50803 / WB clone C6)	Other	248	True
 Q6WRU0	Cricetulus griseus	Metazoa	203	False
 P18066	Canis lupus familiaris	Metazoa	215	False
 O13710	Schizosaccharomyces pombe (strain 972 / ATCC 24843)	Fungi	1076	False
-P62344	Plasmodium falciparum (isolate 3D7)	Sar	524	False
+P62344	Plasmodium falciparum (isolate 3D7)	Other	524	False
 O74844	Schizosaccharomyces pombe (strain 972 / ATCC 24843)	Fungi	244	False
 Q10173	Schizosaccharomyces pombe (strain 972 / ATCC 24843)	Fungi	441	False
 Q9UUE5	Schizosaccharomyces pombe (strain 972 / ATCC 24843)	Fungi	675	False
 O42254	Gallus gallus	Metazoa	576	False
 Q9Y7Z5	Schizosaccharomyces pombe (strain 972 / ATCC 24843)	Fungi	279	False
-A0A5K1K8H0	Plasmodium falciparum (isolate 3D7)	Sar	568	False
+A0A5K1K8H0	Plasmodium falciparum (isolate 3D7)	Other	568	False
 Q9P7N2	Schizosaccharomyces pombe (strain 972 / ATCC 24843)	Fungi	162	False
 Q84K11	Solanum lycopersicum	Viridiplantae	556	False
 Q09825	Schizosaccharomyces pombe (strain 972 / ATCC 24843)	Fungi	514	False
-E2RU10	Giardia intestinalis (strain ATCC 50803 / WB clone C6)	Metamonada	238	False
+E2RU10	Giardia intestinalis (strain ATCC 50803 / WB clone C6)	Other	238	False
 Q7XA07	Chlamydomonas reinhardtii	Viridiplantae	427	False
 Q9USG8	Schizosaccharomyces pombe (strain 972 / ATCC 24843)	Fungi	1188	False
-E2RTQ7	Giardia intestinalis (strain ATCC 50803 / WB clone C6)	Metamonada	311	False
+E2RTQ7	Giardia intestinalis (strain ATCC 50803 / WB clone C6)	Other	311	False
 Q9I8D1	Gallus gallus	Metazoa	1276	False
 Q9GZT6	Homo sapiens	Metazoa	254	True
 Q9H2X8	Homo sapiens	Metazoa	130	False
@@ -16204,7 +16204,7 @@ Q9S7R7	Arabidopsis thaliana	Viridiplantae	460	False
 Q9D4W2	Mus musculus	Metazoa	315	False
 D4A2Y9	Rattus norvegicus	Metazoa	403	False
 P38818	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	Fungi	585	False
-Q54SM3	Dictyostelium discoideum	Amoebozoa	179	False
+Q54SM3	Dictyostelium discoideum	Other	179	False
 Q75WB5	Bos taurus	Metazoa	1288	False
 Q7K556	Drosophila melanogaster	Metazoa	475	False
 Q8R1F1	Mus musculus	Metazoa	749	False
@@ -16296,7 +16296,7 @@ Q8K0D5	Mus musculus	Metazoa	751	False
 Q8LAD2	Arabidopsis thaliana	Viridiplantae	341	False
 Q93170	Caenorhabditis elegans	Metazoa	421	False
 Q9DAT5	Mus musculus	Metazoa	417	False
-Q9UA41	Dictyostelium discoideum	Amoebozoa	174	False
+Q9UA41	Dictyostelium discoideum	Other	174	False
 F4JP46	Arabidopsis thaliana	Viridiplantae	328	False
 O14464	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	Fungi	93	False
 O82662	Arabidopsis thaliana	Viridiplantae	421	False
@@ -16448,7 +16448,7 @@ O81027	Arabidopsis thaliana	Viridiplantae	468	False
 P10849	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	Fungi	440	False
 P31161	Caenorhabditis elegans	Metazoa	221	True
 P32473	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	Fungi	366	False
-P36413	Dictyostelium discoideum	Amoebozoa	635	False
+P36413	Dictyostelium discoideum	Other	635	False
 P38705	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	Fungi	446	False
 P39724	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	Fungi	118	False
 P40513	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	Fungi	266	True
@@ -16630,7 +16630,7 @@ Q39083	Arabidopsis thaliana	Viridiplantae	206	False
 Q3UB74	Mus musculus	Metazoa	406	False
 Q4PSU4	Arabidopsis thaliana	Viridiplantae	264	False
 Q4U0S5	Danio rerio	Metazoa	503	False
-Q54PN9	Dictyostelium discoideum	Amoebozoa	324	False
+Q54PN9	Dictyostelium discoideum	Other	324	False
 Q5SZT7	Mus musculus	Metazoa	395	False
 Q60925	Mus musculus	Metazoa	325	False
 Q66HF9	Rattus norvegicus	Metazoa	738	False
@@ -16655,7 +16655,7 @@ Q8RYD6	Arabidopsis thaliana	Viridiplantae	331	False
 Q8SXD4	Drosophila melanogaster	Metazoa	1122	False
 Q8VZS6	Arabidopsis thaliana	Viridiplantae	567	False
 Q95ZS0	Caenorhabditis elegans	Metazoa	179	False
-Q967U1	Dictyostelium discoideum	Amoebozoa	225	False
+Q967U1	Dictyostelium discoideum	Other	225	False
 Q9EST4	Mus musculus	Metazoa	264	False
 Q9FFF5	Arabidopsis thaliana	Viridiplantae	241	False
 Q9JHC9	Mus musculus	Metazoa	593	False
@@ -16901,7 +16901,7 @@ Q38953	Arabidopsis thaliana	Viridiplantae	1168	False
 Q3UZ18	Mus musculus	Metazoa	988	False
 Q3UZ39	Mus musculus	Metazoa	729	False
 Q53NF7	Oryza sativa subsp. japonica	Viridiplantae	329	False
-Q54TN2	Dictyostelium discoideum	Amoebozoa	580	False
+Q54TN2	Dictyostelium discoideum	Other	580	False
 Q5SU73	Mus musculus	Metazoa	570	False
 Q60775	Mus musculus	Metazoa	612	False
 Q60948	Mus musculus	Metazoa	209	False
@@ -16958,8 +16958,8 @@ O49629	Arabidopsis thaliana	Viridiplantae	310	False
 O82291	Arabidopsis thaliana	Viridiplantae	376	False
 O49675	Arabidopsis thaliana	Viridiplantae	595	False
 Q8S9M1	Arabidopsis thaliana	Viridiplantae	299	False
-P22512	Trypanosoma brucei brucei	Discoba	359	True
-Q4E657	Trypanosoma cruzi (strain CL Brener)	Discoba	485	False
+P22512	Trypanosoma brucei brucei	Other	359	True
+Q4E657	Trypanosoma cruzi (strain CL Brener)	Other	485	False
 Q9QZE5	Mus musculus	Metazoa	874	False
 O64894	Cucurbita maxima	Viridiplantae	690	False
 A0A061AE05	Caenorhabditis elegans	Metazoa	654	False
@@ -17009,7 +17009,7 @@ Q17895	Caenorhabditis elegans	Metazoa	249	False
 Q20716	Caenorhabditis elegans	Metazoa	267	False
 Q21988	Caenorhabditis elegans	Metazoa	824	False
 Q2RBP2	Oryza sativa subsp. japonica	Viridiplantae	1131	False
-Q550D5	Dictyostelium discoideum	Amoebozoa	872	False
+Q550D5	Dictyostelium discoideum	Other	872	False
 Q5DTW7	Mus musculus	Metazoa	1521	False
 Q5JNS0	Oryza sativa subsp. japonica	Viridiplantae	379	False
 Q60862	Mus musculus	Metazoa	576	False
@@ -17055,13 +17055,13 @@ Q9ZQZ6	Arabidopsis thaliana	Viridiplantae	263	False
 Q9ZVP8	Arabidopsis thaliana	Viridiplantae	414	False
 Q9ZWA1	Arabidopsis thaliana	Viridiplantae	393	False
 P19446	Citrullus lanatus	Viridiplantae	356	True
-P22513	Trypanosoma cruzi	Discoba	359	True
+P22513	Trypanosoma cruzi	Other	359	True
 Q6AVT2	Oryza sativa subsp. japonica	Viridiplantae	511	False
 O09111	Mus musculus	Metazoa	151	True
 P03924	Bos taurus	Metazoa	175	True
 P13619	Bos taurus	Metazoa	256	True
 P13621	Bos taurus	Metazoa	213	True
-P20609	Dictyostelium discoideum	Amoebozoa	53	False
+P20609	Dictyostelium discoideum	Other	53	False
 P23709	Bos taurus	Metazoa	266	True
 P42900	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	Fungi	643	False
 Q01859	Oryza sativa subsp. japonica	Viridiplantae	552	False
@@ -17095,13 +17095,13 @@ P39102	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	Fungi	459	False
 P40085	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	Fungi	556	False
 P63030	Mus musculus	Metazoa	109	False
 P93286	Arabidopsis thaliana	Viridiplantae	442	False
-Q01501	Dictyostelium discoideum	Amoebozoa	275	False
+Q01501	Dictyostelium discoideum	Other	275	False
 Q05825	Drosophila melanogaster	Metazoa	505	False
 Q8BJ64	Mus musculus	Metazoa	596	False
 Q9CQH3	Mus musculus	Metazoa	189	True
 Q9CYF5	Mus musculus	Metazoa	461	False
-P07752	Trypanosoma brucei brucei	Discoba	372	True
-P90551	Leishmania mexicana	Discoba	366	True
+P07752	Trypanosoma brucei brucei	Other	372	True
+P90551	Leishmania mexicana	Other	366	True
 W0RYD3	Oryza sativa subsp. japonica	Viridiplantae	2135	False
 P00425	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	Fungi	151	True
 P02721	Bos taurus	Metazoa	108	True
@@ -17128,7 +17128,7 @@ P05632	Bos taurus	Metazoa	51	True
 P07275	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	Fungi	575	True
 P0C522	Oryza sativa subsp. japonica	Viridiplantae	509	False
 P13620	Bos taurus	Metazoa	161	True
-P20610	Dictyostelium discoideum	Amoebozoa	55	False
+P20610	Dictyostelium discoideum	Other	55	False
 Q08822	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	Fungi	631	False
 Q3E798	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	Fungi	87	False
 Q5XF06	Arabidopsis thaliana	Viridiplantae	469	False
@@ -17143,8 +17143,8 @@ P11608	Rattus norvegicus	Metazoa	67	False
 P39103	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	Fungi	70	False
 P93303	Arabidopsis thaliana	Viridiplantae	158	False
 Q03218	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	Fungi	510	False
-P07378	Trypanosoma brucei brucei	Discoba	440	True
-P21620	Leishmania donovani	Discoba	514	False
+P07378	Trypanosoma brucei brucei	Other	440	True
+P21620	Leishmania donovani	Other	514	False
 P03929	Bos taurus	Metazoa	66	True
 O64852	Arabidopsis thaliana	Viridiplantae	416	False
 A6BLW4	Oryza sativa subsp. japonica	Viridiplantae	246	True
@@ -17368,7 +17368,7 @@ Q12172	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	Fungi	810	False
 Q5F2E7	Mus musculus	Metazoa	692	False
 Q5I2A0	Mus musculus	Metazoa	440	False
 Q655V5	Oryza sativa subsp. japonica	Viridiplantae	250	False
-Q76NW2	Dictyostelium discoideum	Amoebozoa	108	False
+Q76NW2	Dictyostelium discoideum	Other	108	False
 Q8C5P7	Mus musculus	Metazoa	182	False
 Q8GYU3	Arabidopsis thaliana	Viridiplantae	1465	False
 Q8IFW4	Drosophila melanogaster	Metazoa	157	True
@@ -17378,7 +17378,7 @@ Q9C6K5	Arabidopsis thaliana	Viridiplantae	98	False
 Q9EQ10	Rattus norvegicus	Metazoa	573	False
 Q9FFD8	Arabidopsis thaliana	Viridiplantae	104	False
 Q9FGN7	Arabidopsis thaliana	Viridiplantae	726	False
-Q9NI62	Dictyostelium discoideum	Amoebozoa	156	False
+Q9NI62	Dictyostelium discoideum	Other	156	False
 Q9SI54	Arabidopsis thaliana	Viridiplantae	99	False
 Q9VGE2	Drosophila melanogaster	Metazoa	384	False
 Q9VQB6	Drosophila melanogaster	Metazoa	971	False
@@ -17579,9 +17579,9 @@ P0DP88	Danio rerio	Metazoa	75	False
 P40975	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	Fungi	43	False
 P48044	Bos taurus	Metazoa	370	False
 P70426	Mus musculus	Metazoa	219	False
-Q1ZXQ0	Dictyostelium discoideum	Amoebozoa	1019	False
+Q1ZXQ0	Dictyostelium discoideum	Other	1019	False
 Q3V050	Mus musculus	Metazoa	573	False
-Q54RD6	Dictyostelium discoideum	Amoebozoa	312	False
+Q54RD6	Dictyostelium discoideum	Other	312	False
 Q5DT37	Rattus norvegicus	Metazoa	247	False
 Q8BFX3	Mus musculus	Metazoa	815	False
 Q8SWR3	Drosophila melanogaster	Metazoa	435	False
@@ -17795,7 +17795,7 @@ P93009	Arabidopsis thaliana	Viridiplantae	182	False
 Q6PG16	Mus musculus	Metazoa	667	False
 Q9VDV3	Drosophila melanogaster	Metazoa	546	False
 Q3E7Y6	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	Fungi	73	False
-P48499	Leishmania mexicana	Discoba	251	True
+P48499	Leishmania mexicana	Other	251	True
 P43606	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	Fungi	678	False
 O23614	Arabidopsis thaliana	Viridiplantae	515	False
 Q8H1Q1	Arabidopsis thaliana	Viridiplantae	280	False
@@ -17924,7 +17924,7 @@ P40532	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	Fungi	138	False
 P69682	Rattus norvegicus	Metazoa	277	False
 Q7TSY2	Rattus norvegicus	Metazoa	247	False
 D4AEP3	Rattus norvegicus	Metazoa	194	False
-C4M1E4	Entamoeba histolytica (strain ATCC 30459 / HM-1:IMSS / ABRM)	Amoebozoa	1153	False
+C4M1E4	Entamoeba histolytica (strain ATCC 30459 / HM-1:IMSS / ABRM)	Other	1153	False
 P78917	Schizosaccharomyces pombe (strain 972 / ATCC 24843)	Fungi	550	False
 Q4WXF4	Aspergillus fumigatus (strain ATCC MYA-4609 / CBS 101355 / FGSC A1100 / Af293)	Fungi	471	False
 Q8W2N5	Nicotiana tabacum	Viridiplantae	478	False
@@ -17933,7 +17933,7 @@ Q9C865	Arabidopsis thaliana	Viridiplantae	439	False
 O23140	Arabidopsis thaliana	Viridiplantae	438	False
 A0A2K5X3B6	Macaca fascicularis	Metazoa	302	False
 A8IXB8	Chlamydomonas reinhardtii	Viridiplantae	362	False
-C4LY96	Entamoeba histolytica (strain ATCC 30459 / HM-1:IMSS / ABRM)	Amoebozoa	1151	False
+C4LY96	Entamoeba histolytica (strain ATCC 30459 / HM-1:IMSS / ABRM)	Other	1151	False
 P0C2X8	Xenopus laevis	Metazoa	363	False
 P50161	Aspergillus parasiticus (strain ATCC 56775 / NRRL 5862 / SRRC 143 / SU-1)	Fungi	262	False
 P56288	Schizosaccharomyces pombe (strain 972 / ATCC 24843)	Fungi	458	True
@@ -17942,10 +17942,10 @@ Q9JKD3	Mus musculus	Metazoa	235	False
 C4R6F0	Komagataella phaffii (strain GS115 / ATCC 20864)	Fungi	455	False
 A8JGB0	Chlamydomonas reinhardtii	Viridiplantae	777	False
 B6HLU0	Penicillium rubens (strain ATCC 28089 / DSM 1075 / NRRL 1951 / Wisconsin 54-1255)	Fungi	331	False
-C6KT66	Plasmodium falciparum (isolate 3D7)	Sar	527	False
+C6KT66	Plasmodium falciparum (isolate 3D7)	Other	527	False
 Q9SNX8	Apium graveolens	Viridiplantae	496	False
 B4FUP5	Zea mays	Viridiplantae	253	True
-E9AGH7	Leishmania infantum	Discoba	365	False
+E9AGH7	Leishmania infantum	Other	365	False
 P08703	Penicillium chrysogenum	Fungi	331	False
 P56286	Schizosaccharomyces pombe (strain 972 / ATCC 24843)	Fungi	306	False
 Q09924	Schizosaccharomyces pombe (strain 972 / ATCC 24843)	Fungi	467	False
@@ -17970,17 +17970,17 @@ P49364	Pisum sativum	Viridiplantae	408	False
 P80021	Sus scrofa	Metazoa	553	True
 Q07511	Solanum tuberosum	Viridiplantae	381	False
 Q1K8F6	Neurospora crassa (strain ATCC 24698 / 74-OR23-1A / CBS 708.71 / DSM 1257 / FGSC 987)	Fungi	712	False
-Q584U2	Trypanosoma brucei brucei (strain 927/4 GUTat10.1)	Discoba	267	False
+Q584U2	Trypanosoma brucei brucei (strain 927/4 GUTat10.1)	Other	267	False
 Q6DQL1	Solanum lycopersicum	Viridiplantae	337	False
 Q84LB6	Solanum lycopersicum	Viridiplantae	417	False
 Q949J1	Chlamydomonas reinhardtii	Viridiplantae	192	False
-A0A120KVR5	Trypanosoma brucei brucei	Discoba	1642	False
-A0A120KVR8	Trypanosoma brucei brucei	Discoba	1728	False
-I7HD01	Leishmania donovani	Discoba	189	False
+A0A120KVR5	Trypanosoma brucei brucei	Other	1642	False
+A0A120KVR8	Trypanosoma brucei brucei	Other	1728	False
+I7HD01	Leishmania donovani	Other	189	False
 O13851	Schizosaccharomyces pombe (strain 972 / ATCC 24843)	Fungi	294	False
 O74553	Schizosaccharomyces pombe (strain 972 / ATCC 24843)	Fungi	326	False
 P82611	Candida albicans (strain SC5314 / ATCC MYA-2876)	Fungi	777	False
-Q1PCQ8	Toxoplasma gondii (strain ATCC 50853 / GT1)	Sar	427	False
+Q1PCQ8	Toxoplasma gondii (strain ATCC 50853 / GT1)	Other	427	False
 Q84P54	Solanum lycopersicum	Viridiplantae	515	False
 Q9USP8	Schizosaccharomyces pombe (strain 972 / ATCC 24843)	Fungi	379	False
 Q9UTQ4	Schizosaccharomyces pombe (strain 972 / ATCC 24843)	Fungi	244	False
@@ -17997,9 +17997,9 @@ S4TF94	Humulus lupulus	Viridiplantae	527	False
 A0A3Q7HWE4	Solanum lycopersicum	Viridiplantae	165	False
 O74361	Schizosaccharomyces pombe (strain 972 / ATCC 24843)	Fungi	356	False
 O94647	Schizosaccharomyces pombe (strain 972 / ATCC 24843)	Fungi	461	False
-Q25417	Leishmania tarentolae	Discoba	498	False
+Q25417	Leishmania tarentolae	Other	498	False
 Q8GTQ9	Solanum lycopersicum	Viridiplantae	332	False
-Q8IBI5	Plasmodium falciparum (isolate 3D7)	Sar	553	False
+Q8IBI5	Plasmodium falciparum (isolate 3D7)	Other	553	False
 Q9HDW8	Schizosaccharomyces pombe (strain 972 / ATCC 24843)	Fungi	146	False
 Q9PTD5	Gallus gallus	Metazoa	335	False
 C4R8D7	Komagataella phaffii (strain GS115 / ATCC 20864)	Fungi	409	False
@@ -18007,7 +18007,7 @@ C4R826	Komagataella phaffii (strain GS115 / ATCC 20864)	Fungi	204	False
 P49428	Komagataella pastoris	Fungi	204	False
 P10255	Neurospora crassa (strain ATCC 24698 / 74-OR23-1A / CBS 708.71 / DSM 1257 / FGSC 987)	Fungi	223	False
 P28350	Neurospora crassa (strain ATCC 24698 / 74-OR23-1A / CBS 708.71 / DSM 1257 / FGSC 987)	Fungi	1093	False
-P33447	Trypanosoma cruzi	Discoba	416	True
+P33447	Trypanosoma cruzi	Other	416	True
 P20285	Neurospora crassa (strain ATCC 24698 / 74-OR23-1A / CBS 708.71 / DSM 1257 / FGSC 987)	Fungi	458	False
 P26267	Ascaris suum	Metazoa	396	False
 P93648	Zea mays	Viridiplantae	964	False
@@ -18021,7 +18021,7 @@ P11796	Nicotiana plumbaginifolia	Viridiplantae	228	False
 P25324	Gallus gallus	Metazoa	289	False
 P23955	Neurospora crassa (strain ATCC 24698 / 74-OR23-1A / CBS 708.71 / DSM 1257 / FGSC 987)	Fungi	577	False
 Q09171	Schizosaccharomyces pombe (strain 972 / ATCC 24843)	Fungi	366	False
-C6KST8	Plasmodium falciparum (isolate 3D7)	Sar	358	False
+C6KST8	Plasmodium falciparum (isolate 3D7)	Other	358	False
 I6LAD1	Komagataella pastoris	Fungi	384	False
 C4R5T1	Komagataella phaffii (strain GS115 / ATCC 20864)	Fungi	384	False
 C6TCZ5	Glycine max	Viridiplantae	232	False
@@ -18032,7 +18032,7 @@ P00012	Mirounga leonina	Metazoa	105	False
 P00017	Aptenodytes patagonicus	Metazoa	105	False
 P00026	Cyprinus carpio	Metazoa	104	False
 P00064	Allium porrum	Viridiplantae	111	False
-P00076	Euglena gracilis	Discoba	102	False
+P00076	Euglena gracilis	Other	102	False
 P21665	Varanus varius	Metazoa	105	False
 P62895	Sus scrofa	Metazoa	105	True
 P68517	Crotalus adamanteus	Metazoa	105	False
@@ -18043,7 +18043,7 @@ P00025	Katsuwonus pelamis	Metazoa	104	True
 P00043	Debaryomyces hansenii (strain ATCC 36239 / CBS 767 / BCRC 21394 / JCM 1990 / NBRC 0083 / IGC 2968)	Fungi	110	False
 P00051	Cucurbita maxima	Viridiplantae	111	False
 P00070	Helianthus annuus	Viridiplantae	112	False
-P00078	Crithidia fasciculata	Discoba	114	True
+P00078	Crithidia fasciculata	Other	114	True
 P68096	Equus quagga burchellii	Metazoa	105	False
 P68099	Camelus dromedarius	Metazoa	105	False
 P68100	Eschrichtius robustus	Metazoa	105	False
@@ -18054,7 +18054,7 @@ P00013	Miniopterus schreibersii	Metazoa	105	False
 P00031	Macrobrachium malcolmsonii	Metazoa	105	False
 P00046	Schizosaccharomyces pombe (strain 972 / ATCC 24843)	Fungi	109	False
 P00068	Triticum aestivum	Viridiplantae	112	False
-P00077	Strigomonas oncopelti	Discoba	113	False
+P00077	Strigomonas oncopelti	Other	113	False
 P68097	Equus asinus	Metazoa	105	False
 P68518	Crotalus atrox	Metazoa	105	False
 Q9HE76	Neurospora crassa (strain ATCC 24698 / 74-OR23-1A / CBS 708.71 / DSM 1257 / FGSC 987)	Fungi	278	False
@@ -18083,7 +18083,7 @@ P27793	Capnoides sempervirens	Viridiplantae	447	False
 P32761	Chlamydomonas moewusii	Viridiplantae	218	True
 P43188	Zea mays	Viridiplantae	222	True
 P46225	Secale cereale	Viridiplantae	298	False
-P48329	Cyanophora paradoxa	Glaucocystophyceae	180	True
+P48329	Cyanophora paradoxa	Other	180	True
 P69571	Pseudotsuga menziesii	Viridiplantae	475	False
 P82024	Spinacia oleracea	Viridiplantae	180	False
 P82130	Spinacia oleracea	Viridiplantae	183	False
@@ -18166,12 +18166,12 @@ Q43578	Nicotiana tabacum	Viridiplantae	500	False
 Q5F4K8	Pinus pinaster	Viridiplantae	492	False
 Q9LE95	Spinacia oleracea	Viridiplantae	352	False
 Q9M424	Solanum tuberosum	Viridiplantae	498	False
-Q07053	Crithidia fasciculata	Discoba	128	False
+Q07053	Crithidia fasciculata	Other	128	False
 A0A7G5KLV0	Cananga odorata	Viridiplantae	590	False
 B6TTV8	Zea mays	Viridiplantae	498	False
 O24475	Abies grandis	Viridiplantae	628	False
 O80429	Zea mays	Viridiplantae	140	False
-O96155	Plasmodium falciparum (isolate 3D7)	Sar	249	False
+O96155	Plasmodium falciparum (isolate 3D7)	Other	249	False
 P09911	Pisum sativum	Viridiplantae	149	True
 P19975	Pisum sativum	Viridiplantae	253	False
 P23902	Hordeum vulgare	Viridiplantae	462	False
@@ -18185,10 +18185,10 @@ Q42843	Hordeum vulgare	Viridiplantae	527	False
 Q42967	Nicotiana tabacum	Viridiplantae	391	True
 Q947C4	Ginkgo biloba	Viridiplantae	873	False
 R4X244	Tulipa gesneriana	Viridiplantae	374	False
-S8EXU2	Toxoplasma gondii (strain ATCC 50611 / Me49)	Sar	1130	False
-P24118	Tetrahymena thermophila	Sar	462	False
+S8EXU2	Toxoplasma gondii (strain ATCC 50611 / Me49)	Other	1130	False
+P24118	Tetrahymena thermophila	Other	462	False
 G8B839	Candida parapsilosis (strain CDC 317 / ATCC MYA-4646)	Fungi	266	False
-A0A7J6K629	Toxoplasma gondii	Sar	547	False
+A0A7J6K629	Toxoplasma gondii	Other	547	False
 A9YDN6	Pyricularia oryzae	Fungi	702	False
 D5LXJ0	Lotus japonicus	Viridiplantae	691	False
 G4MWZ7	Pyricularia oryzae (strain 70-15 / ATCC MYA-4617 / FGSC 8958)	Fungi	702	False
@@ -18209,10 +18209,10 @@ Q01371	Neurospora crassa (strain ATCC 24698 / 74-OR23-1A / CBS 708.71 / DSM 1257
 Q09330	Schizosaccharomyces pombe (strain 972 / ATCC 24843)	Fungi	199	False
 Q09715	Schizosaccharomyces pombe (strain 972 / ATCC 24843)	Fungi	614	False
 Q10362	Schizosaccharomyces pombe (strain 972 / ATCC 24843)	Fungi	859	False
-Q45FA5	Physarum polycephalum	Amoebozoa	426	False
+Q45FA5	Physarum polycephalum	Other	426	False
 Q5EAW4	Xenopus laevis	Metazoa	860	False
 Q5KKP4	Cryptococcus neoformans var. neoformans serotype D (strain JEC21 / ATCC MYA-565)	Fungi	640	False
-Q8IIS5	Plasmodium falciparum (isolate 3D7)	Sar	643	False
+Q8IIS5	Plasmodium falciparum (isolate 3D7)	Other	643	False
 Q92021	Xenopus laevis	Metazoa	609	False
 Q92361	Schizosaccharomyces pombe (strain 972 / ATCC 24843)	Fungi	264	False
 Q9LEB4	Nicotiana plumbaginifolia	Viridiplantae	409	False
@@ -18235,8 +18235,8 @@ P01103	Gallus gallus	Metazoa	641	False
 P17923	Gallus gallus	Metazoa	522	False
 P37232	Xenopus laevis	Metazoa	474	False
 P43449	Gallus gallus	Metazoa	395	False
-P69149	Tetrahymena pyriformis	Sar	136	False
-P86937	Trypanosoma brucei brucei	Discoba	839	False
+P69149	Tetrahymena pyriformis	Other	136	False
+P86937	Trypanosoma brucei brucei	Other	839	False
 P87152	Schizosaccharomyces pombe (strain 972 / ATCC 24843)	Fungi	992	False
 Q03413	Xenopus laevis	Metazoa	498	False
 Q09761	Schizosaccharomyces pombe (strain 972 / ATCC 24843)	Fungi	699	False
@@ -18254,7 +18254,7 @@ Q9USX8	Schizosaccharomyces pombe (strain 972 / ATCC 24843)	Fungi	239	False
 Q9UT46	Schizosaccharomyces pombe (strain 972 / ATCC 24843)	Fungi	508	False
 Q9XH37	Oryza sativa subsp. indica	Viridiplantae	277	False
 Q9Y808	Schizosaccharomyces pombe (strain 972 / ATCC 24843)	Fungi	1063	False
-A0A7J6KE60	Toxoplasma gondii	Sar	652	False
+A0A7J6KE60	Toxoplasma gondii	Other	652	False
 A7Y7W2	Gallus gallus	Metazoa	389	False
 O14291	Schizosaccharomyces pombe (strain 972 / ATCC 24843)	Fungi	313	False
 O14362	Schizosaccharomyces pombe (strain 972 / ATCC 24843)	Fungi	504	False
@@ -18273,7 +18273,7 @@ Q11208	Sarcophaga peregrina	Metazoa	996	False
 Q12381	Schizosaccharomyces pombe (strain 972 / ATCC 24843)	Fungi	906	False
 Q26635	Sarcophaga peregrina	Metazoa	354	False
 Q6INH0	Xenopus laevis	Metazoa	425	False
-Q8IEF6	Plasmodium falciparum (isolate 3D7)	Sar	414	False
+Q8IEF6	Plasmodium falciparum (isolate 3D7)	Other	414	False
 Q8T5C6	Biomphalaria glabrata	Metazoa	436	False
 Q91904	Xenopus laevis	Metazoa	370	False
 Q92353	Schizosaccharomyces pombe (strain 972 / ATCC 24843)	Fungi	468	False
@@ -18296,14 +18296,14 @@ O94268	Schizosaccharomyces pombe (strain 972 / ATCC 24843)	Fungi	608	False
 O94286	Schizosaccharomyces pombe (strain 972 / ATCC 24843)	Fungi	178	False
 O94290	Schizosaccharomyces pombe (strain 972 / ATCC 24843)	Fungi	217	False
 P0CU08	Schizosaccharomyces pombe (strain 972 / ATCC 24843)	Fungi	235	False
-P17545	Trypanosoma brucei brucei	Discoba	1766	False
+P17545	Trypanosoma brucei brucei	Other	1766	False
 P43692	Gallus gallus	Metazoa	391	False
 P78714	Neurospora crassa (strain ATCC 24698 / 74-OR23-1A / CBS 708.71 / DSM 1257 / FGSC 987)	Fungi	530	False
 P87315	Schizosaccharomyces pombe (strain 972 / ATCC 24843)	Fungi	1630	False
 Q10154	Schizosaccharomyces pombe (strain 972 / ATCC 24843)	Fungi	240	False
 Q90ZB6	Xenopus laevis	Metazoa	551	False
 Q92349	Schizosaccharomyces pombe (strain 972 / ATCC 24843)	Fungi	1318	False
-Q9GSF8	Euplotes aediculatus	Sar	437	False
+Q9GSF8	Euplotes aediculatus	Other	437	False
 Q9P7M1	Schizosaccharomyces pombe (strain 972 / ATCC 24843)	Fungi	491	False
 Q9USX3	Schizosaccharomyces pombe (strain 972 / ATCC 24843)	Fungi	406	False
 Q9UUB5	Schizosaccharomyces pombe (strain 972 / ATCC 24843)	Fungi	329	False
@@ -18315,7 +18315,7 @@ A0A0D1CVS5	Mycosarcoma maydis	Fungi	624	False
 A0A2R6PN00	Actinidia chinensis var. chinensis	Viridiplantae	266	False
 A2WQE4	Oryza sativa subsp. indica	Viridiplantae	333	False
 B6H9U8	Penicillium rubens (strain ATCC 28089 / DSM 1075 / NRRL 1951 / Wisconsin 54-1255)	Fungi	427	False
-B6KG46	Toxoplasma gondii (strain ATCC 50861 / VEG)	Sar	688	False
+B6KG46	Toxoplasma gondii (strain ATCC 50861 / VEG)	Other	688	False
 E5L8F7	Lotus japonicus	Viridiplantae	358	False
 O13792	Schizosaccharomyces pombe (strain 972 / ATCC 24843)	Fungi	434	False
 O59773	Schizosaccharomyces pombe (strain 972 / ATCC 24843)	Fungi	994	False
@@ -18326,10 +18326,10 @@ O94423	Schizosaccharomyces pombe (strain 972 / ATCC 24843)	Fungi	421	False
 O94459	Schizosaccharomyces pombe (strain 972 / ATCC 24843)	Fungi	559	False
 O94468	Schizosaccharomyces pombe (strain 972 / ATCC 24843)	Fungi	213	True
 O94538	Schizosaccharomyces pombe (strain 972 / ATCC 24843)	Fungi	649	False
-O96237	Plasmodium falciparum (isolate 3D7)	Sar	899	False
+O96237	Plasmodium falciparum (isolate 3D7)	Other	899	False
 P0CU17	Schizosaccharomyces pombe (strain 972 / ATCC 24843)	Fungi	443	False
 P0CU18	Schizosaccharomyces pombe (strain 972 / ATCC 24843)	Fungi	443	False
-P17546	Trypanosoma brucei brucei	Discoba	1766	False
+P17546	Trypanosoma brucei brucei	Other	1766	False
 P36632	Schizosaccharomyces pombe (strain 972 / ATCC 24843)	Fungi	614	False
 P40382	Schizosaccharomyces pombe (strain 972 / ATCC 24843)	Fungi	444	False
 P40997	Schizosaccharomyces pombe (strain 972 / ATCC 24843)	Fungi	402	True
@@ -18382,7 +18382,7 @@ O74824	Schizosaccharomyces pombe (strain 972 / ATCC 24843)	Fungi	308	True
 O75004	Schizosaccharomyces pombe (strain 972 / ATCC 24843)	Fungi	501	False
 P02252	Oryctolagus cuniculus	Metazoa	219	False
 P02269	Asterias rubens	Metazoa	125	False
-P02274	Tetrahymena pyriformis	Sar	133	False
+P02274	Tetrahymena pyriformis	Other	133	False
 P02285	Marthasterias glacialis	Metazoa	121	False
 P02291	Parechinus angulosus	Metazoa	144	False
 P04101	Sus scrofa	Metazoa	50	False
@@ -18393,7 +18393,7 @@ P79015	Schizosaccharomyces pombe (strain 972 / ATCC 24843)	Fungi	127	True
 P83266	Hydrolagus colliei	Metazoa	48	False
 Q09675	Schizosaccharomyces pombe (strain 972 / ATCC 24843)	Fungi	240	False
 Q10474	Schizosaccharomyces pombe (strain 972 / ATCC 24843)	Fungi	258	False
-Q7M400	Tetrahymena pyriformis	Sar	121	False
+Q7M400	Tetrahymena pyriformis	Other	121	False
 Q8AVN9	Xenopus laevis	Metazoa	524	True
 Q9HGN5	Schizosaccharomyces pombe (strain 972 / ATCC 24843)	Fungi	279	False
 Q9P7V3	Schizosaccharomyces pombe (strain 972 / ATCC 24843)	Fungi	220	False
@@ -18401,7 +18401,7 @@ Q9USH6	Schizosaccharomyces pombe (strain 972 / ATCC 24843)	Fungi	204	True
 Q9UUA1	Schizosaccharomyces pombe (strain 972 / ATCC 24843)	Fungi	479	False
 Q9YHZ6	Xenopus laevis	Metazoa	567	True
 A0A2H1VE33	Spodoptera frugiperda	Metazoa	332	True
-A8BFN4	Giardia intestinalis (strain ATCC 50803 / WB clone C6)	Metamonada	1480	False
+A8BFN4	Giardia intestinalis (strain ATCC 50803 / WB clone C6)	Other	1480	False
 K4D3V7	Solanum lycopersicum	Viridiplantae	475	False
 O14146	Schizosaccharomyces pombe (strain 972 / ATCC 24843)	Fungi	159	False
 O43008	Schizosaccharomyces pombe (strain 972 / ATCC 24843)	Fungi	300	False
@@ -18412,12 +18412,12 @@ O94308	Schizosaccharomyces pombe (strain 972 / ATCC 24843)	Fungi	422	False
 P02276	Triticum aestivum	Viridiplantae	151	False
 P06900	Xenopus laevis	Metazoa	126	False
 P08287	Gallus gallus	Metazoa	225	True
-P08993	Tetrahymena thermophila (strain SB210)	Sar	122	False
-P08994	Tetrahymena thermophila (strain SB210)	Sar	122	False
+P08993	Tetrahymena thermophila (strain SB210)	Other	122	False
+P08994	Tetrahymena thermophila (strain SB210)	Other	122	False
 P0C016	Schizosaccharomyces pombe (strain 972 / ATCC 24843)	Fungi	150	False
-P10156	Tetrahymena thermophila (strain SB210)	Sar	164	False
+P10156	Tetrahymena thermophila (strain SB210)	Other	164	False
 P13350	Xenopus laevis	Metazoa	397	False
-P35065	Tetrahymena thermophila (strain SB210)	Sar	133	False
+P35065	Tetrahymena thermophila (strain SB210)	Other	133	False
 P68427	Pisum sativum	Viridiplantae	136	False
 P68428	Triticum aestivum	Viridiplantae	136	False
 P69069	Oncorhynchus mykiss	Metazoa	124	False
@@ -18441,7 +18441,7 @@ Q9USQ7	Schizosaccharomyces pombe (strain 972 / ATCC 24843)	Fungi	606	False
 Q9UTH3	Schizosaccharomyces pombe (strain 972 / ATCC 24843)	Fungi	775	False
 Q9UTM0	Schizosaccharomyces pombe (strain 972 / ATCC 24843)	Fungi	249	False
 Q9W603	Xenopus laevis	Metazoa	1035	False
-A0A509AJL3	Plasmodium berghei (strain Anka)	Sar	1087	False
+A0A509AJL3	Plasmodium berghei (strain Anka)	Other	1087	False
 A0A5B9G902	Aureobasidium melanogenum	Fungi	521	False
 A8CVF3	Avicennia marina	Viridiplantae	195	False
 D2K8N5	Nicotiana benthamiana	Viridiplantae	403	False
@@ -18458,20 +18458,20 @@ P02290	Parechinus angulosus	Metazoa	145	False
 P02302	Xenopus laevis	Metazoa	136	True
 P16886	Strongylocentrotus purpuratus	Metazoa	126	False
 P16889	Strongylocentrotus purpuratus	Metazoa	123	False
-P82887	Olisthodiscus luteus	Sar	114	False
+P82887	Olisthodiscus luteus	Other	114	False
 P83211	Bolinus brandaris	Metazoa	107	False
 Q05831	Mytilus trossulus	Metazoa	203	False
 Q09849	Schizosaccharomyces pombe (strain 972 / ATCC 24843)	Fungi	424	False
 Q10148	Schizosaccharomyces pombe (strain 972 / ATCC 24843)	Fungi	254	False
 Q10210	Schizosaccharomyces pombe (strain 972 / ATCC 24843)	Fungi	391	False
 Q10272	Schizosaccharomyces pombe (strain 972 / ATCC 24843)	Fungi	446	False
-Q38FI2	Trypanosoma brucei brucei (strain 927/4 GUTat10.1)	Discoba	143	False
+Q38FI2	Trypanosoma brucei brucei (strain 927/4 GUTat10.1)	Other	143	False
 Q7ZT01	Xenopus laevis	Metazoa	210	True
 Q9LEK8	Digitalis lanata	Viridiplantae	118	False
 Q9USM1	Schizosaccharomyces pombe (strain 972 / ATCC 24843)	Fungi	388	False
 Q9UT48	Schizosaccharomyces pombe (strain 972 / ATCC 24843)	Fungi	357	False
 Q9UT55	Schizosaccharomyces pombe (strain 972 / ATCC 24843)	Fungi	438	True
-A0A2I0C2C6	Plasmodium falciparum (isolate NF54)	Sar	3078	False
+A0A2I0C2C6	Plasmodium falciparum (isolate NF54)	Other	3078	False
 B2AFA8	Podospora anserina (strain S / ATCC MYA-4624 / DSM 980 / FGSC 10383)	Fungi	775	False
 B8B2R4	Oryza sativa subsp. indica	Viridiplantae	377	False
 O13725	Schizosaccharomyces pombe (strain 972 / ATCC 24843)	Fungi	242	False
@@ -18530,7 +18530,7 @@ P02289	Strongylocentrotus purpuratus	Metazoa	124	False
 P05621	Triticum aestivum	Viridiplantae	150	False
 P15340	Gallus gallus	Metazoa	62	False
 P37210	Neurospora crassa (strain ATCC 24698 / 74-OR23-1A / CBS 708.71 / DSM 1257 / FGSC 987)	Fungi	137	False
-P41353	Tetrahymena thermophila (strain SB210)	Sar	136	False
+P41353	Tetrahymena thermophila (strain SB210)	Other	136	False
 P69141	Strongylocentrotus purpuratus	Metazoa	124	False
 Q09739	Schizosaccharomyces pombe (strain 972 / ATCC 24843)	Fungi	210	False
 Q09847	Schizosaccharomyces pombe (strain 972 / ATCC 24843)	Fungi	1325	False
@@ -18562,7 +18562,7 @@ P23225	Zea mays	Viridiplantae	1616	False
 Q9FYT6	Zea mays	Viridiplantae	715	False
 D3U716	Petunia hybrida	Viridiplantae	394	False
 D3U717	Petunia hybrida	Viridiplantae	434	False
-A0A161CFW5	Trypanosoma brucei brucei	Discoba	305	False
+A0A161CFW5	Trypanosoma brucei brucei	Other	305	False
 P46275	Pisum sativum	Viridiplantae	407	True
 P53991	Chlamydomonas reinhardtii	Viridiplantae	354	False
 Q84N48	Zea mays	Viridiplantae	611	False
@@ -18583,11 +18583,11 @@ Q9LEB3	Nicotiana plumbaginifolia	Viridiplantae	428	False
 O21619	Ovis aries	Metazoa	261	False
 P00422	Neurospora crassa (strain ATCC 24698 / 74-OR23-1A / CBS 708.71 / DSM 1257 / FGSC 987)	Fungi	269	False
 Q1K528	Neurospora crassa (strain ATCC 24698 / 74-OR23-1A / CBS 708.71 / DSM 1257 / FGSC 987)	Fungi	82	False
-Q9GPE9	Trypanosoma brucei brucei	Discoba	519	False
-P0DPG4	Trypanosoma brucei brucei	Discoba	188	False
+Q9GPE9	Trypanosoma brucei brucei	Other	519	False
+P0DPG4	Trypanosoma brucei brucei	Other	188	False
 E1BUG7	Gallus gallus	Metazoa	690	False
 P15398	Schizosaccharomyces pombe (strain 972 / ATCC 24843)	Fungi	1689	False
-Q8IBN8	Plasmodium falciparum (isolate 3D7)	Sar	899	False
+Q8IBN8	Plasmodium falciparum (isolate 3D7)	Other	899	False
 Q91836	Xenopus laevis	Metazoa	298	False
 Q9US22	Schizosaccharomyces pombe (strain 972 / ATCC 24843)	Fungi	201	False
 O59680	Schizosaccharomyces pombe (strain 972 / ATCC 24843)	Fungi	307	False
@@ -18606,45 +18606,45 @@ P0C8R3	Schizosaccharomyces pombe (strain 972 / ATCC 24843)	Fungi	150	False
 P0CT75	Schizosaccharomyces pombe (strain 972 / ATCC 24843)	Fungi	143	False
 Q09719	Schizosaccharomyces pombe (strain 972 / ATCC 24843)	Fungi	848	False
 Q10204	Schizosaccharomyces pombe (strain 972 / ATCC 24843)	Fungi	250	False
-A0A125YQS6	Toxoplasma gondii (strain ATCC 50611 / Me49)	Sar	566	False
+A0A125YQS6	Toxoplasma gondii (strain ATCC 50611 / Me49)	Other	566	False
 P48746	Oryctolagus cuniculus	Metazoa	1237	False
 P9WEU3	Cryptococcus deuterogattii (strain R265)	Fungi	1529	False
-Q7YUD6	Plasmodium falciparum	Sar	669	False
+Q7YUD6	Plasmodium falciparum	Other	669	False
 Q9WUB9	Mesocricetus auratus	Metazoa	483	False
-B9QMJ0	Toxoplasma gondii (strain ATCC 50861 / VEG)	Sar	1338	False
+B9QMJ0	Toxoplasma gondii (strain ATCC 50861 / VEG)	Other	1338	False
 J9VF33	Cryptococcus neoformans var. grubii serotype A (strain H99 / ATCC 208821 / CBS 10515 / FGSC 9487)	Fungi	1408	False
 J9VME1	Cryptococcus neoformans var. grubii serotype A (strain H99 / ATCC 208821 / CBS 10515 / FGSC 9487)	Fungi	1543	False
 Q9UT50	Schizosaccharomyces pombe (strain 972 / ATCC 24843)	Fungi	485	False
-S8GBB9	Toxoplasma gondii (strain ATCC 50611 / Me49)	Sar	500	False
+S8GBB9	Toxoplasma gondii (strain ATCC 50611 / Me49)	Other	500	False
 P22142	Neurospora crassa (strain ATCC 24698 / 74-OR23-1A / CBS 708.71 / DSM 1257 / FGSC 987)	Fungi	478	False
 O94668	Schizosaccharomyces pombe (strain 972 / ATCC 24843)	Fungi	388	False
 Q9HGN4	Schizosaccharomyces pombe (strain 972 / ATCC 24843)	Fungi	151	False
-A0A125YSC7	Toxoplasma gondii (strain ATCC 50611 / Me49)	Sar	412	False
-A0A509AKI1	Plasmodium berghei (strain Anka)	Sar	836	False
+A0A125YSC7	Toxoplasma gondii (strain ATCC 50611 / Me49)	Other	412	False
+A0A509AKI1	Plasmodium berghei (strain Anka)	Other	836	False
 A0MP03	Xenopus laevis	Metazoa	1028	False
 G1X9E2	Arthrobotrys oligospora (strain ATCC 24927 / CBS 115.81 / DSM 1491)	Fungi	406	False
 J9VIL4	Cryptococcus neoformans var. grubii serotype A (strain H99 / ATCC 208821 / CBS 10515 / FGSC 9487)	Fungi	623	False
 J9VPA2	Cryptococcus neoformans var. grubii serotype A (strain H99 / ATCC 208821 / CBS 10515 / FGSC 9487)	Fungi	1529	False
 P02719	Electrophorus electricus	Metazoa	1820	False
-Q9GTP5	Crithidia fasciculata	Discoba	497	False
+Q9GTP5	Crithidia fasciculata	Other	497	False
 F2Z699	Yarrowia lipolytica (strain CLIB 122 / E 150)	Fungi	582	False
 Q9ST62	Solanum tuberosum	Viridiplantae	577	False
 Q9ST63	Solanum tuberosum	Viridiplantae	495	False
-A0A509AE54	Plasmodium berghei (strain Anka)	Sar	506	False
+A0A509AE54	Plasmodium berghei (strain Anka)	Other	506	False
 G1X9H9	Arthrobotrys oligospora (strain ATCC 24927 / CBS 115.81 / DSM 1491)	Fungi	411	False
 Q5ANE3	Candida albicans (strain SC5314 / ATCC MYA-2876)	Fungi	170	False
-S8EXD2	Toxoplasma gondii (strain ATCC 50611 / Me49)	Sar	463	False
+S8EXD2	Toxoplasma gondii (strain ATCC 50611 / Me49)	Other	463	False
 W7MAT5	Gibberella moniliformis (strain M3125 / FGSC 7600)	Fungi	574	False
 A0A095C325	Cryptococcus deuterogattii (strain R265)	Fungi	1408	False
 A0A3Q2IDB4	Equus caballus	Metazoa	552	False
-A0A509AGE2	Plasmodium berghei (strain Anka)	Sar	431	False
-A0A7J6K338	Toxoplasma gondii	Sar	504	False
+A0A509AGE2	Plasmodium berghei (strain Anka)	Other	431	False
+A0A7J6K338	Toxoplasma gondii	Other	504	False
 G1XJN1	Arthrobotrys oligospora (strain ATCC 24927 / CBS 115.81 / DSM 1491)	Fungi	401	False
 I3W9F7	Rhizophagus irregularis	Fungi	316	False
 P46408	Oryctolagus cuniculus	Metazoa	486	False
 P9WEU4	Cryptococcus deuterogattii (strain R265)	Fungi	1542	False
 Q563C3	Xenopus laevis	Metazoa	269	False
-Q7KQJ9	Plasmodium falciparum (isolate 3D7)	Sar	264	False
+Q7KQJ9	Plasmodium falciparum (isolate 3D7)	Other	264	False
 Q01355	Neurospora crassa (strain ATCC 24698 / 74-OR23-1A / CBS 708.71 / DSM 1257 / FGSC 987)	Fungi	362	False
 Q6CE48	Yarrowia lipolytica (strain CLIB 122 / E 150)	Fungi	312	False
 P11009	Gallus gallus	Metazoa	419	True
@@ -18669,7 +18669,7 @@ Q10101	Schizosaccharomyces pombe (strain 972 / ATCC 24843)	Fungi	195	False
 Q9USW5	Schizosaccharomyces pombe (strain 972 / ATCC 24843)	Fungi	262	False
 Q7SBA0	Neurospora crassa (strain ATCC 24698 / 74-OR23-1A / CBS 708.71 / DSM 1257 / FGSC 987)	Fungi	257	True
 O42848	Schizosaccharomyces pombe (strain 972 / ATCC 24843)	Fungi	197	False
-P16458	Sterkiella nova	Sar	385	True
+P16458	Sterkiella nova	Other	385	True
 Q801E2	Xenopus laevis	Metazoa	1116	False
 Q9DGN0	Xenopus laevis	Metazoa	1194	False
 O13600	Schizosaccharomyces pombe (strain 972 / ATCC 24843)	Fungi	209	False
@@ -18678,7 +18678,7 @@ O74904	Schizosaccharomyces pombe (strain 972 / ATCC 24843)	Fungi	122	True
 P57728	Schizosaccharomyces pombe (strain 972 / ATCC 24843)	Fungi	148	False
 Q60547	Mesocricetus auratus	Metazoa	234	False
 Q9URT8	Schizosaccharomyces pombe (strain 972 / ATCC 24843)	Fungi	111	False
-P21138	Entamoeba histolytica (strain ATCC 30459 / HM-1:IMSS / ABRM)	Amoebozoa	233	False
+P21138	Entamoeba histolytica (strain ATCC 30459 / HM-1:IMSS / ABRM)	Other	233	False
 O35296	Mesocricetus auratus	Metazoa	373	False
 J9VT33	Cryptococcus neoformans var. grubii serotype A (strain H99 / ATCC 208821 / CBS 10515 / FGSC 9487)	Fungi	1048	False
 O13709	Schizosaccharomyces pombe (strain 972 / ATCC 24843)	Fungi	244	False
@@ -18699,7 +18699,7 @@ Q9LLY4	Brassica napus	Viridiplantae	344	False
 P07038	Neurospora crassa (strain ATCC 24698 / 74-OR23-1A / CBS 708.71 / DSM 1257 / FGSC 987)	Fungi	920	True
 Q9I9B9	Torpedo marmorata	Metazoa	646	False
 Q9W701	Xenopus laevis	Metazoa	689	False
-Q8IDN4	Plasmodium falciparum (isolate 3D7)	Sar	211	False
+Q8IDN4	Plasmodium falciparum (isolate 3D7)	Other	211	False
 P49380	Kluyveromyces lactis (strain ATCC 8585 / CBS 2359 / DSM 70799 / NBRC 1267 / NRRL Y-1140 / WM37)	Fungi	899	False
 Q08436	Nicotiana plumbaginifolia	Viridiplantae	956	False
 Q59NP1	Candida albicans (strain SC5314 / ATCC MYA-2876)	Fungi	251	False
@@ -18727,17 +18727,17 @@ Q801P7	Xenopus laevis	Metazoa	418	False
 Q8AWF4	Xenopus laevis	Metazoa	462	False
 Q8AWF5	Xenopus laevis	Metazoa	638	False
 O94261	Schizosaccharomyces pombe (strain 972 / ATCC 24843)	Fungi	220	False
-P07436	Physarum polycephalum	Amoebozoa	467	False
+P07436	Physarum polycephalum	Other	467	False
 Q1MTN3	Schizosaccharomyces pombe (strain 972 / ATCC 24843)	Fungi	1018	False
 U3H042	Schizosaccharomyces pombe (strain 972 / ATCC 24843)	Fungi	264	False
-P19476	Entamoeba histolytica (strain ATCC 30459 / HM-1:IMSS / ABRM)	Amoebozoa	233	False
+P19476	Entamoeba histolytica (strain ATCC 30459 / HM-1:IMSS / ABRM)	Other	233	False
 F1NPG5	Gallus gallus	Metazoa	639	True
 P0DJH7	Gallus gallus	Metazoa	80	True
 G4N1S3	Pyricularia oryzae (strain 70-15 / ATCC MYA-4617 / FGSC 8958)	Fungi	241	False
 P43311	Vitis vinifera	Viridiplantae	607	False
 Q09099	Chlorolobion braunii	Viridiplantae	89	True
 Q8RXA8	Spinacia oleracea	Viridiplantae	235	False
-A0A7J6KC99	Toxoplasma gondii	Sar	7603	False
+A0A7J6KC99	Toxoplasma gondii	Other	7603	False
 O74500	Schizosaccharomyces pombe (strain 972 / ATCC 24843)	Fungi	736	False
 Q09747	Schizosaccharomyces pombe (strain 972 / ATCC 24843)	Fungi	503	False
 Q9M7J4	Nicotiana tabacum	Viridiplantae	722	False
@@ -18746,8 +18746,8 @@ P57736	Tetradesmus obliquus	Viridiplantae	89	True
 P81766	Spinacia oleracea	Viridiplantae	153	False
 O94643	Schizosaccharomyces pombe (strain 972 / ATCC 24843)	Fungi	441	False
 Q09904	Schizosaccharomyces pombe (strain 972 / ATCC 24843)	Fungi	1159	False
-P00107	Diacronema lutheri	Haptista	83	False
-P00119	Euglena gracilis	Discoba	87	False
+P00107	Diacronema lutheri	Other	83	False
+P00119	Euglena gracilis	Other	87	False
 Q9M7N6	Solanum lycopersicum	Viridiplantae	152	False
 A0A2R6X6S3	Marchantia polymorpha	Viridiplantae	911	False
 Q10290	Schizosaccharomyces pombe (strain 972 / ATCC 24843)	Fungi	303	False
@@ -18797,10 +18797,10 @@ P05435	Spinacia oleracea	Viridiplantae	364	True
 B6TVL4	Zea mays	Viridiplantae	395	False
 Q6RVV4	Pisum sativum	Viridiplantae	316	False
 P06402	Marchantia polymorpha	Viridiplantae	353	False
-Q8GZR2	Euglena gracilis	Discoba	496	False
+Q8GZR2	Euglena gracilis	Other	496	False
 P19517	Oryctolagus cuniculus	Metazoa	524	True
 P35356	Procambarus clarkii	Metazoa	376	False
-Q76NM6	Plasmodium falciparum (isolate 3D7)	Sar	611	False
+Q76NM6	Plasmodium falciparum (isolate 3D7)	Other	611	False
 P12113	Chlamydomonas reinhardtii	Viridiplantae	358	False
 Q5NE24	Medicago truncatula	Viridiplantae	508	False
 P12329	Zea mays	Viridiplantae	262	True
@@ -18809,23 +18809,23 @@ P27520	Pisum sativum	Viridiplantae	265	False
 Q41387	Spinacia oleracea	Viridiplantae	137	False
 P27489	Solanum lycopersicum	Viridiplantae	265	False
 P92919	Apium graveolens	Viridiplantae	264	False
-Q85FY7	Cyanidioschyzon merolae (strain NIES-3377 / 10D)	Rhodophyta	748	True
+Q85FY7	Cyanidioschyzon merolae (strain NIES-3377 / 10D)	Other	748	True
 Q3KPK4	Xenopus laevis	Metazoa	280	False
-P27198	Rhodomonas sp. (strain CS 24)	Cryptophyceae	177	True
+P27198	Rhodomonas sp. (strain CS 24)	Other	177	True
 O42936	Schizosaccharomyces pombe (strain 972 / ATCC 24843)	Fungi	470	False
 Q09856	Schizosaccharomyces pombe (strain 972 / ATCC 24843)	Fungi	542	False
-P00311	Galdieria sulphuraria	Rhodophyta	172	True
-P30943	Rhodomonas sp. (strain CS 24)	Cryptophyceae	104	True
-P59857	Pyropia yezoensis	Rhodophyta	161	True
-Q00433	Rhodomonas sp. (strain CS 24)	Cryptophyceae	128	True
-Q7SIF9	Agarophyton chilense	Rhodophyta	177	True
+P00311	Galdieria sulphuraria	Other	172	True
+P30943	Rhodomonas sp. (strain CS 24)	Other	104	True
+P59857	Pyropia yezoensis	Other	161	True
+Q00433	Rhodomonas sp. (strain CS 24)	Other	128	True
+Q7SIF9	Agarophyton chilense	Other	177	True
 P06511	Spinacia oleracea	Viridiplantae	750	False
 P06512	Spinacia oleracea	Viridiplantae	734	False
 Q42496	Chlamydomonas reinhardtii	Viridiplantae	99	True
-P37208	Porphyridium purpureum	Rhodophyta	172	False
+P37208	Porphyridium purpureum	Other	172	False
 Q5H8A5	Lotus japonicus	Viridiplantae	917	False
 Q01613	Xenopus laevis	Metazoa	1420	False
-P59856	Pyropia yezoensis	Rhodophyta	161	True
+P59856	Pyropia yezoensis	Other	161	True
 Q41062	Pisum sativum	Viridiplantae	1011	False
 Q6RHR6	Medicago truncatula	Viridiplantae	882	False
 Q9UUI2	Schizosaccharomyces pombe (strain 972 / ATCC 24843)	Fungi	165	False
@@ -18845,7 +18845,7 @@ Q76I90	Gallus gallus	Metazoa	469	False
 Q5I7G2	Lymnaea stagnalis	Metazoa	436	False
 Q9UTP3	Schizosaccharomyces pombe (strain 972 / ATCC 24843)	Fungi	59	False
 Q9LRI8	Spinacia oleracea	Viridiplantae	562	False
-Q8I1X7	Plasmodium falciparum (isolate 3D7)	Sar	579	False
+Q8I1X7	Plasmodium falciparum (isolate 3D7)	Other	579	False
 C0HM83	Homo sapiens	Metazoa	58	False
 Q9UFN0	Homo sapiens	Metazoa	247	False
 A0A2Z4LIS9	Homo sapiens	Metazoa	290	False
@@ -19036,7 +19036,7 @@ Q90257	Danio rerio	Metazoa	270	False
 Q93Z17	Arabidopsis thaliana	Viridiplantae	173	False
 Q9LK57	Arabidopsis thaliana	Viridiplantae	394	False
 Q9M065	Arabidopsis thaliana	Viridiplantae	412	False
-Q9XPJ9	Dictyostelium discoideum	Amoebozoa	519	False
+Q9XPJ9	Dictyostelium discoideum	Other	519	False
 A4FUC0	Bos taurus	Metazoa	423	False
 O77512	Bos taurus	Metazoa	295	False
 P10662	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	Fungi	321	True
@@ -19098,7 +19098,7 @@ P53203	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	Fungi	462	False
 P25584	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	Fungi	144	False
 P40037	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	Fungi	129	True
 P40155	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	Fungi	199	False
-Q86HX0	Dictyostelium discoideum	Amoebozoa	356	False
+Q86HX0	Dictyostelium discoideum	Other	356	False
 P07236	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	Fungi	462	True
 P28625	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	Fungi	365	False
 P48526	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	Fungi	1002	False
@@ -19179,7 +19179,7 @@ O82286	Arabidopsis thaliana	Viridiplantae	226	False
 P39682	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	Fungi	629	True
 P39961	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	Fungi	794	False
 P53569	Mus musculus	Metazoa	1052	False
-P54705	Dictyostelium discoideum	Amoebozoa	685	False
+P54705	Dictyostelium discoideum	Other	685	False
 Q00PI9	Mus musculus	Metazoa	745	False
 Q0DIQ5	Oryza sativa subsp. japonica	Viridiplantae	1510	False
 Q1ZXU0	Caenorhabditis elegans	Metazoa	205	False
@@ -19261,7 +19261,7 @@ Q08553	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	Fungi	188	False
 Q08932	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	Fungi	381	False
 Q0DRX6	Oryza sativa subsp. japonica	Viridiplantae	902	False
 Q33DK1	Oryza sativa subsp. japonica	Viridiplantae	203	False
-Q55FB8	Dictyostelium discoideum	Amoebozoa	1272	False
+Q55FB8	Dictyostelium discoideum	Other	1272	False
 Q6K537	Oryza sativa subsp. japonica	Viridiplantae	373	False
 Q8IP99	Drosophila melanogaster	Metazoa	308	False
 Q8K0E1	Mus musculus	Metazoa	283	False
@@ -19296,7 +19296,7 @@ A0A1P8B0B7	Arabidopsis thaliana	Viridiplantae	597	False
 Q9D2V8	Mus musculus	Metazoa	456	False
 Q6PDU7	Rattus norvegicus	Metazoa	103	False
 Q9SUU5	Arabidopsis thaliana	Viridiplantae	122	False
-P13377	Trypanosoma brucei brucei	Discoba	607	True
+P13377	Trypanosoma brucei brucei	Other	607	True
 P42834	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	Fungi	146	False
 P56382	Mus musculus	Metazoa	52	False
 Q05648	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	Fungi	414	False
@@ -19312,7 +19312,7 @@ O88441	Mus musculus	Metazoa	263	False
 Q03673	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	Fungi	198	False
 Q04613	Arabidopsis thaliana	Viridiplantae	192	False
 P21360	Pichia angusta	Fungi	555	False
-P52270	Trypanosoma cruzi	Discoba	251	True
+P52270	Trypanosoma cruzi	Other	251	True
 P03930	Mus musculus	Metazoa	67	False
 P53142	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	Fungi	486	False
 Q06011	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	Fungi	112	False
@@ -19411,7 +19411,7 @@ F4IUJ7	Arabidopsis thaliana	Viridiplantae	527	False
 Q9FJY5	Arabidopsis thaliana	Viridiplantae	524	False
 P38325	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	Fungi	134	False
 Q3E6R5	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	Fungi	114	False
-Q54BF6	Dictyostelium discoideum	Amoebozoa	298	False
+Q54BF6	Dictyostelium discoideum	Other	298	False
 Q9SD80	Arabidopsis thaliana	Viridiplantae	54	False
 P03896	Drosophila melanogaster	Metazoa	341	True
 Q06563	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	Fungi	197	False
@@ -19476,12 +19476,12 @@ Q9Z2H2	Mus musculus	Metazoa	472	False
 Q80VL0	Rattus norvegicus	Metazoa	406	False
 Q9SKY1	Arabidopsis thaliana	Viridiplantae	71	False
 Q4VBE8	Mus musculus	Metazoa	431	False
-Q54ET6	Dictyostelium discoideum	Amoebozoa	2364	False
+Q54ET6	Dictyostelium discoideum	Other	2364	False
 Q8GZ87	Arabidopsis thaliana	Viridiplantae	664	False
 Q95XQ1	Caenorhabditis elegans	Metazoa	578	False
 P0DH95	Arabidopsis thaliana	Viridiplantae	149	False
 Q9LSD8	Arabidopsis thaliana	Viridiplantae	120	False
-C0HLF1	Dictyostelium discoideum	Amoebozoa	154	False
+C0HLF1	Dictyostelium discoideum	Other	154	False
 Q8LG30	Arabidopsis thaliana	Viridiplantae	76	False
 Q8L773	Arabidopsis thaliana	Viridiplantae	244	False
 Q9FFH5	Arabidopsis thaliana	Viridiplantae	278	False
@@ -19550,7 +19550,7 @@ Q0DFC9	Oryza sativa subsp. japonica	Viridiplantae	154	False
 Q99JG3	Mus musculus	Metazoa	317	False
 P27202	Arabidopsis thaliana	Viridiplantae	140	False
 Q99JS0	Mus musculus	Metazoa	100	False
-Q8I2S0	Plasmodium falciparum (isolate 3D7)	Sar	384	False
+Q8I2S0	Plasmodium falciparum (isolate 3D7)	Other	384	False
 Q95Q39	Caenorhabditis elegans	Metazoa	287	False
 Q66HC5	Rattus norvegicus	Metazoa	819	False
 Q9FVQ5	Arabidopsis thaliana	Viridiplantae	806	False
@@ -19578,7 +19578,7 @@ C4QY68	Komagataella phaffii (strain GS115 / ATCC 20864)	Fungi	713	False
 Q01962	Komagataella pastoris	Fungi	713	False
 G5DGA8	Ips pini	Metazoa	253	False
 O13744	Schizosaccharomyces pombe (strain 972 / ATCC 24843)	Fungi	259	False
-O97297	Plasmodium falciparum (isolate 3D7)	Sar	404	False
+O97297	Plasmodium falciparum (isolate 3D7)	Other	404	False
 Q05046	Cucurbita maxima	Viridiplantae	575	False
 Q1K5Z0	Neurospora crassa (strain ATCC 24698 / 74-OR23-1A / CBS 708.71 / DSM 1257 / FGSC 987)	Fungi	382	False
 Q1K8E0	Neurospora crassa (strain ATCC 24698 / 74-OR23-1A / CBS 708.71 / DSM 1257 / FGSC 987)	Fungi	256	False
@@ -19592,10 +19592,10 @@ Q4W9R0	Aspergillus fumigatus (strain ATCC MYA-4609 / CBS 101355 / FGSC A1100 / A
 Q7RYM5	Neurospora crassa (strain ATCC 24698 / 74-OR23-1A / CBS 708.71 / DSM 1257 / FGSC 987)	Fungi	292	False
 Q7SCX7	Neurospora crassa (strain ATCC 24698 / 74-OR23-1A / CBS 708.71 / DSM 1257 / FGSC 987)	Fungi	383	False
 Q7SD06	Neurospora crassa (strain ATCC 24698 / 74-OR23-1A / CBS 708.71 / DSM 1257 / FGSC 987)	Fungi	469	False
-A0A120KVW2	Trypanosoma brucei brucei	Discoba	1136	False
+A0A120KVW2	Trypanosoma brucei brucei	Other	1136	False
 C6EUD4	Fasciola hepatica	Metazoa	478	False
 O42636	Neurospora crassa (strain ATCC 24698 / 74-OR23-1A / CBS 708.71 / DSM 1257 / FGSC 987)	Fungi	278	False
-O96161	Plasmodium falciparum (isolate 3D7)	Sar	160	False
+O96161	Plasmodium falciparum (isolate 3D7)	Other	160	False
 P23351	Neurospora crassa (strain ATCC 24698 / 74-OR23-1A / CBS 708.71 / DSM 1257 / FGSC 987)	Fungi	508	False
 Q1K4P1	Neurospora crassa (strain ATCC 24698 / 74-OR23-1A / CBS 708.71 / DSM 1257 / FGSC 987)	Fungi	129	False
 Q1K730	Neurospora crassa (strain ATCC 24698 / 74-OR23-1A / CBS 708.71 / DSM 1257 / FGSC 987)	Fungi	447	False
@@ -19616,8 +19616,8 @@ Q6C7L6	Yarrowia lipolytica (strain CLIB 122 / E 150)	Fungi	237	True
 Q7S1R6	Neurospora crassa (strain ATCC 24698 / 74-OR23-1A / CBS 708.71 / DSM 1257 / FGSC 987)	Fungi	267	False
 Q7SAJ1	Neurospora crassa (strain ATCC 24698 / 74-OR23-1A / CBS 708.71 / DSM 1257 / FGSC 987)	Fungi	236	False
 Q7SB98	Neurospora crassa (strain ATCC 24698 / 74-OR23-1A / CBS 708.71 / DSM 1257 / FGSC 987)	Fungi	312	False
-Q8IEK7	Plasmodium falciparum (isolate 3D7)	Sar	87	False
-Q8IKT4	Plasmodium falciparum (isolate 3D7)	Sar	162	False
+Q8IEK7	Plasmodium falciparum (isolate 3D7)	Other	87	False
+Q8IKT4	Plasmodium falciparum (isolate 3D7)	Other	162	False
 Q8MIR0	Sus scrofa	Metazoa	373	False
 Q92247	Neurospora crassa (strain ATCC 24698 / 74-OR23-1A / CBS 708.71 / DSM 1257 / FGSC 987)	Fungi	412	False
 Q95339	Sus scrofa	Metazoa	88	True
@@ -19664,7 +19664,7 @@ P00040	Schistocerca gregaria	Metazoa	108	False
 P00052	Vigna radiata var. radiata	Viridiplantae	111	False
 P00062	Sambucus nigra	Viridiplantae	111	False
 P12831	Sarcophaga peregrina	Metazoa	108	False
-P22342	Euglena viridis	Discoba	102	False
+P22342	Euglena viridis	Other	102	False
 P62896	Ovis aries	Metazoa	105	False
 P00030	Eisenia fetida	Metazoa	108	False
 P00036	Lucilia cuprina	Metazoa	108	False
@@ -19672,7 +19672,7 @@ P00049	Ustilago sphaerogena	Fungi	107	False
 P00057	Ricinus communis	Viridiplantae	111	False
 P00066	Nigella damascena	Viridiplantae	111	False
 P00071	Pastinaca sativa	Viridiplantae	111	False
-P00079	Tetrahymena pyriformis	Sar	109	False
+P00079	Tetrahymena pyriformis	Other	109	False
 P62772	Brassica napus	Viridiplantae	111	False
 P81459	Thunnus alalunga	Metazoa	103	True
 P00032	Cornu aspersum	Metazoa	104	False
@@ -19698,7 +19698,7 @@ P00069	Guizotia abyssinica	Viridiplantae	111	False
 P00072	Fagopyrum esculentum	Viridiplantae	111	False
 P00074	Ginkgo biloba	Viridiplantae	113	False
 P84030	Ceratitis capitata	Metazoa	108	False
-A0A509AQJ1	Plasmodium berghei (strain Anka)	Sar	1340	False
+A0A509AQJ1	Plasmodium berghei (strain Anka)	Other	1340	False
 O81191	Salvia officinalis	Viridiplantae	591	False
 P00224	Spinacia oleracea	Viridiplantae	97	False
 P00229	Phytolacca americana	Viridiplantae	96	False
@@ -19715,7 +19715,7 @@ P18492	Hordeum vulgare	Viridiplantae	469	False
 P23326	Spinacia oleracea	Viridiplantae	159	False
 P28805	Spinacia oleracea	Viridiplantae	66	False
 P30155	Nicotiana tabacum	Viridiplantae	179	False
-P36177	Euglena gracilis	Discoba	538	False
+P36177	Euglena gracilis	Other	538	False
 P62127	Nicotiana plumbaginifolia	Viridiplantae	123	False
 P68166	Datura quercifolia	Viridiplantae	97	False
 P81372	Alocasia macrorrhizos	Viridiplantae	97	False
@@ -19730,19 +19730,19 @@ Q6EJ97	Pueraria montana var. lobata	Viridiplantae	608	False
 Q75W17	Viburnum furcatum	Viridiplantae	538	False
 Q94FZ9	Brassica campestris	Viridiplantae	327	False
 Q9SQI3	Gossypium hirsutum	Viridiplantae	413	False
-Q9TK52	Phaeodactylum tricornutum (strain CCAP 1055/1)	Sar	490	False
+Q9TK52	Phaeodactylum tricornutum (strain CCAP 1055/1)	Other	490	False
 Q9XGS0	Brassica napus	Viridiplantae	177	False
 P00223	Arctium lappa	Viridiplantae	97	False
 P00226	Sambucus nigra	Viridiplantae	97	False
-P00241	Cyanidium caldarium	Rhodophyta	98	False
-P02991	Euglena gracilis	Discoba	409	False
+P00241	Cyanidium caldarium	Other	98	False
+P02991	Euglena gracilis	Other	409	False
 P06267	Marchantia polymorpha	Viridiplantae	289	False
 P08242	Spinacia oleracea	Viridiplantae	236	False
 P08529	Zea mays	Viridiplantae	123	False
 P08926	Pisum sativum	Viridiplantae	587	False
-P13106	Bumilleriopsis filiformis	Sar	98	False
+P13106	Bumilleriopsis filiformis	Other	98	False
 P14938	Raphanus sativus	Viridiplantae	96	False
-P15789	Cyanidium caldarium	Rhodophyta	97	False
+P15789	Cyanidium caldarium	Other	97	False
 P48267	Chlamydomonas reinhardtii	Viridiplantae	168	False
 P56408	Scenedesmus fuscus	Viridiplantae	94	True
 P62129	Nicotiana tabacum	Viridiplantae	123	False
@@ -19756,10 +19756,10 @@ P00228	Triticum aestivum	Viridiplantae	143	False
 P00236	Equisetum telmateia	Viridiplantae	93	False
 P00237	Equisetum arvense	Viridiplantae	93	True
 P06506	Spinacia oleracea	Viridiplantae	138	False
-P07484	Palmaria palmata	Rhodophyta	97	False
+P07484	Palmaria palmata	Other	97	False
 P09364	Sinapis alba	Viridiplantae	502	False
 P11703	Spinacia oleracea	Viridiplantae	1070	True
-P13446	Euglena gracilis	Discoba	480	False
+P13446	Euglena gracilis	Other	480	False
 P23235	Spinacia oleracea	Viridiplantae	130	False
 P24929	Nicotiana tabacum	Viridiplantae	186	False
 P30956	Nicotiana tabacum	Viridiplantae	151	False
@@ -19767,7 +19767,7 @@ P32063	Coriandrum sativum	Viridiplantae	385	False
 P59287	Ricinus communis	Viridiplantae	601	False
 P68163	Datura inoxia	Viridiplantae	97	False
 P68164	Datura metel	Viridiplantae	97	False
-P80484	Amphidinium carterae	Sar	370	True
+P80484	Amphidinium carterae	Other	370	True
 P81373	Alocasia macrorrhizos	Viridiplantae	98	False
 P82162	Spinacia oleracea	Viridiplantae	195	False
 P82195	Spinacia oleracea	Viridiplantae	166	True
@@ -19775,39 +19775,39 @@ P82412	Spinacia oleracea	Viridiplantae	179	False
 P83523	Lycium chinense	Viridiplantae	97	False
 P83525	Scopolia japonica	Viridiplantae	97	False
 Q07510	Spinacia oleracea	Viridiplantae	405	False
-Q8IM30	Plasmodium falciparum (isolate 3D7)	Sar	608	False
+Q8IM30	Plasmodium falciparum (isolate 3D7)	Other	608	False
 Q96398	Cucumis sativus	Viridiplantae	322	False
-A0A509AER3	Plasmodium berghei (strain Anka)	Sar	247	False
+A0A509AER3	Plasmodium berghei (strain Anka)	Other	247	False
 A0A7G5KLV3	Cananga odorata	Viridiplantae	586	False
 P00225	Leucaena leucocephala	Viridiplantae	96	False
 P00234	Equisetum telmateia	Viridiplantae	95	False
 P00239	Dunaliella salina	Viridiplantae	95	False
-P00242	Porphyra umbilicalis	Rhodophyta	98	False
-P10770	Peridinium bipes	Sar	93	False
+P00242	Porphyra umbilicalis	Other	98	False
+P10770	Peridinium bipes	Other	93	False
 P13653	Hordeum vulgare	Viridiplantae	388	False
 P14831	Solanum lycopersicum	Viridiplantae	217	False
 P14936	Raphanus sativus	Viridiplantae	98	False
-P17007	Cyanophora paradoxa	Glaucocystophyceae	99	False
+P17007	Cyanophora paradoxa	Other	99	False
 P19682	Nicotiana sylvestris	Viridiplantae	276	False
 P19684	Nicotiana sylvestris	Viridiplantae	324	False
-P22341	Euglena viridis	Discoba	96	False
+P22341	Euglena viridis	Other	96	False
 P41758	Chlamydomonas reinhardtii	Viridiplantae	461	False
 P48270	Chlamydomonas reinhardtii	Viridiplantae	257	False
 P48496	Spinacia oleracea	Viridiplantae	322	False
-P51874	Symbiodinium sp.	Sar	365	False
+P51874	Symbiodinium sp.	Other	365	False
 P68165	Datura stramonium	Viridiplantae	97	False
-P80483	Amphidinium carterae	Sar	323	False
+P80483	Amphidinium carterae	Other	323	False
 P82411	Spinacia oleracea	Viridiplantae	116	True
 P83527	Capsicum annuum var. annuum	Viridiplantae	97	False
 P83583	Solanum lyratum	Viridiplantae	97	False
 Q42783	Glycine max	Viridiplantae	262	False
 Q43082	Pisum sativum	Viridiplantae	369	False
 Q9XQN8	Sinapis alba	Viridiplantae	327	False
-O61016	Crithidia fasciculata	Discoba	151	False
-Q8IS98	Crithidia fasciculata	Discoba	134	False
-Q9TY83	Crithidia fasciculata	Discoba	130	False
+O61016	Crithidia fasciculata	Other	151	False
+Q8IS98	Crithidia fasciculata	Other	134	False
+Q9TY83	Crithidia fasciculata	Other	130	False
 A0A0U4CDK4	Salvia miltiorrhiza	Viridiplantae	806	False
-A0A509AN56	Plasmodium berghei (strain Anka)	Sar	365	False
+A0A509AN56	Plasmodium berghei (strain Anka)	Other	365	False
 O81193	Salvia officinalis	Viridiplantae	590	False
 P00220	Medicago sativa	Viridiplantae	97	False
 P00227	Brassica napus	Viridiplantae	96	False
@@ -19829,15 +19829,15 @@ P28803	Spinacia oleracea	Viridiplantae	128	True
 P28804	Spinacia oleracea	Viridiplantae	57	True
 P28807	Spinacia oleracea	Viridiplantae	88	False
 P46818	Sinapis alba	Viridiplantae	1078	False
-P51873	Amphidinium carterae	Sar	369	False
+P51873	Amphidinium carterae	Other	369	False
 P83524	Alkekengi officinarum var. franchetii	Viridiplantae	97	False
 P83582	Solanum nigrum	Viridiplantae	97	False
 Q00497	Solanum lycopersicum	Viridiplantae	300	False
 Q08753	Chlamydomonas moewusii	Viridiplantae	164	True
 Q84K96	Crocus sativus	Viridiplantae	369	False
 Q9M3I4	Spinacia oleracea	Viridiplantae	90	False
-Q9TY84	Crithidia fasciculata	Discoba	130	False
-Q8I397	Plasmodium falciparum (isolate 3D7)	Sar	1199	False
+Q9TY84	Crithidia fasciculata	Other	130	False
+Q8I397	Plasmodium falciparum (isolate 3D7)	Other	1199	False
 A8XJ98	Caenorhabditis briggsae	Metazoa	432	False
 I1SSI5	Petunia hybrida	Viridiplantae	708	False
 O14311	Schizosaccharomyces pombe (strain 972 / ATCC 24843)	Fungi	307	False
@@ -19875,7 +19875,7 @@ Q03237	Gallus gallus	Metazoa	686	True
 Q03489	Petunia hybrida	Viridiplantae	241	False
 Q09842	Schizosaccharomyces pombe (strain 972 / ATCC 24843)	Fungi	407	False
 Q10317	Schizosaccharomyces pombe (strain 972 / ATCC 24843)	Fungi	193	True
-Q23696	Crithidia fasciculata	Discoba	467	False
+Q23696	Crithidia fasciculata	Other	467	False
 Q5KMX8	Cryptococcus neoformans var. neoformans serotype D (strain JEC21 / ATCC MYA-565)	Fungi	783	False
 Q6FN94	Candida glabrata (strain ATCC 2001 / BCRC 20586 / JCM 3761 / NBRC 0622 / NRRL Y-65 / CBS 138)	Fungi	499	False
 Q6IRB1	Xenopus laevis	Metazoa	300	False
@@ -19892,7 +19892,7 @@ O14196	Schizosaccharomyces pombe (strain 972 / ATCC 24843)	Fungi	300	False
 O14338	Schizosaccharomyces pombe (strain 972 / ATCC 24843)	Fungi	891	False
 O94311	Schizosaccharomyces pombe (strain 972 / ATCC 24843)	Fungi	180	False
 P11115	Neurospora crassa (strain ATCC 24698 / 74-OR23-1A / CBS 708.71 / DSM 1257 / FGSC 987)	Fungi	270	False
-P15512	Tetrahymena pyriformis	Sar	136	False
+P15512	Tetrahymena pyriformis	Other	136	False
 P25032	Triticum aestivum	Viridiplantae	354	False
 P87000	Neurospora crassa (strain ATCC 24698 / 74-OR23-1A / CBS 708.71 / DSM 1257 / FGSC 987)	Fungi	926	False
 Q05158	Coturnix japonica	Metazoa	194	True
@@ -19934,7 +19934,7 @@ P0CT60	Schizosaccharomyces pombe (strain 972 / ATCC 24843)	Fungi	139	True
 P0DOW4	Ramazzottius varieornatus	Metazoa	445	False
 Q09146	Schizosaccharomyces pombe (strain 972 / ATCC 24843)	Fungi	399	False
 Q1HTZ9	Aquarana catesbeiana	Metazoa	198	False
-Q4FX73	Leishmania major	Discoba	264	False
+Q4FX73	Leishmania major	Other	264	False
 Q7ZYP6	Xenopus laevis	Metazoa	626	False
 Q9HE02	Schizosaccharomyces pombe (strain 972 / ATCC 24843)	Fungi	1225	False
 Q9P6I9	Schizosaccharomyces pombe (strain 972 / ATCC 24843)	Fungi	618	False
@@ -19949,7 +19949,7 @@ P21976	Neurospora crassa (strain ATCC 24698 / 74-OR23-1A / CBS 708.71 / DSM 1257
 P49375	Kluyveromyces lactis (strain ATCC 8585 / CBS 2359 / DSM 70799 / NBRC 1267 / NRRL Y-1140 / WM37)	Fungi	548	False
 O74988	Schizosaccharomyces pombe (strain 972 / ATCC 24843)	Fungi	186	True
 P42056	Solanum tuberosum	Viridiplantae	276	False
-P43266	Euglena gracilis	Discoba	100	False
+P43266	Euglena gracilis	Other	100	False
 Q9P7E0	Schizosaccharomyces pombe (strain 972 / ATCC 24843)	Fungi	79	False
 P38482	Chlamydomonas reinhardtii	Viridiplantae	574	False
 Q06450	Ipomoea batatas	Viridiplantae	70	False
@@ -19989,7 +19989,7 @@ Q9USY8	Schizosaccharomyces pombe (strain 972 / ATCC 24843)	Fungi	166	False
 Q9UTQ8	Schizosaccharomyces pombe (strain 972 / ATCC 24843)	Fungi	339	False
 Q9UTR9	Schizosaccharomyces pombe (strain 972 / ATCC 24843)	Fungi	368	False
 Q9Y803	Schizosaccharomyces pombe (strain 972 / ATCC 24843)	Fungi	127	False
-K9NVA6	Hematodinium sp	Sar	132	False
+K9NVA6	Hematodinium sp	Other	132	False
 O14131	Schizosaccharomyces pombe (strain 972 / ATCC 24843)	Fungi	442	False
 O60150	Schizosaccharomyces pombe (strain 972 / ATCC 24843)	Fungi	361	False
 O74535	Schizosaccharomyces pombe (strain 972 / ATCC 24843)	Fungi	710	False
@@ -19999,7 +19999,7 @@ P06895	Platynereis dumerilii	Metazoa	119	False
 P0CT58	Schizosaccharomyces pombe (strain 972 / ATCC 24843)	Fungi	130	False
 P15343	Equus caballus	Metazoa	58	False
 P22647	Oncorhynchus mykiss	Metazoa	128	False
-P32103	Euplotes eurystomus	Sar	135	False
+P32103	Euplotes eurystomus	Other	135	False
 P80001	Sepia officinalis	Metazoa	78	False
 P83183	Eledone cirrhosa	Metazoa	84	False
 P87052	Schizosaccharomyces pombe (strain 972 / ATCC 24843)	Fungi	344	False
@@ -20045,8 +20045,8 @@ O94279	Schizosaccharomyces pombe (strain 972 / ATCC 24843)	Fungi	172	False
 O94664	Schizosaccharomyces pombe (strain 972 / ATCC 24843)	Fungi	234	False
 P06894	Platynereis dumerilii	Metazoa	121	False
 P0CT72	Schizosaccharomyces pombe (strain 972 / ATCC 24843)	Fungi	253	False
-P40625	Tetrahymena pyriformis	Sar	99	False
-P40626	Tetrahymena thermophila	Sar	143	False
+P40625	Tetrahymena pyriformis	Other	99	False
+P40626	Tetrahymena thermophila	Other	143	False
 Q26457	Aedes albopictus	Metazoa	383	False
 Q6LA53	Schizosaccharomyces pombe (strain 972 / ATCC 24843)	Fungi	346	False
 Q8JFQ4	Gallus gallus	Metazoa	277	False
@@ -20065,11 +20065,11 @@ O60127	Schizosaccharomyces pombe (strain 972 / ATCC 24843)	Fungi	126	False
 P02258	Anser anser anser	Metazoa	193	False
 P0CT67	Schizosaccharomyces pombe (strain 972 / ATCC 24843)	Fungi	152	False
 P0CT73	Schizosaccharomyces pombe (strain 972 / ATCC 24843)	Fungi	152	False
-P12305	Tetrahymena pyriformis	Sar	165	False
+P12305	Tetrahymena pyriformis	Other	165	False
 P22844	Xenopus laevis	Metazoa	196	False
 P22974	Mytilus californianus	Metazoa	148	False
 P24642	Bufo japonicus	Metazoa	40	False
-P40631	Tetrahymena thermophila (strain SB210)	Sar	633	False
+P40631	Tetrahymena thermophila (strain SB210)	Other	633	False
 P80002	Sepia officinalis	Metazoa	77	False
 Q09873	Schizosaccharomyces pombe (strain 972 / ATCC 24843)	Fungi	420	False
 Q10232	Schizosaccharomyces pombe (strain 972 / ATCC 24843)	Fungi	190	True
@@ -20087,9 +20087,9 @@ P49085	Zea mays	Viridiplantae	410	False
 M9RZ95	Dermatophagoides farinae	Metazoa	118	False
 B8B0E2	Oryza sativa subsp. indica	Viridiplantae	1246	False
 P30706	Pisum sativum	Viridiplantae	457	False
-Q00598	Cyanophora paradoxa	Glaucocystophyceae	363	False
+Q00598	Cyanophora paradoxa	Other	363	False
 Q43869	Spinacia oleracea	Viridiplantae	472	False
-P0DPG2	Trypanosoma brucei brucei	Discoba	182	False
+P0DPG2	Trypanosoma brucei brucei	Other	182	False
 O14279	Schizosaccharomyces pombe (strain 972 / ATCC 24843)	Fungi	154	False
 O59678	Schizosaccharomyces pombe (strain 972 / ATCC 24843)	Fungi	166	False
 O94288	Schizosaccharomyces pombe (strain 972 / ATCC 24843)	Fungi	747	False
@@ -20106,7 +20106,7 @@ P24391	Neurospora crassa (strain ATCC 24698 / 74-OR23-1A / CBS 708.71 / DSM 1257
 Q7S7U5	Neurospora crassa (strain ATCC 24698 / 74-OR23-1A / CBS 708.71 / DSM 1257 / FGSC 987)	Fungi	71	False
 Q874C1	Neurospora crassa (strain ATCC 24698 / 74-OR23-1A / CBS 708.71 / DSM 1257 / FGSC 987)	Fungi	540	False
 A0A0K2GUJ4	Dermatophagoides pteronyssinus	Metazoa	118	False
-P0DPG3	Trypanosoma brucei brucei	Discoba	75	False
+P0DPG3	Trypanosoma brucei brucei	Other	75	False
 O14013	Schizosaccharomyces pombe (strain 972 / ATCC 24843)	Fungi	556	False
 O74362	Schizosaccharomyces pombe (strain 972 / ATCC 24843)	Fungi	334	False
 P17937	Schizosaccharomyces pombe (strain 972 / ATCC 24843)	Fungi	249	True
@@ -20119,12 +20119,12 @@ O43082	Schizosaccharomyces pombe (strain 972 / ATCC 24843)	Fungi	233	False
 P15771	Gallus gallus	Metazoa	694	False
 Q1MTS0	Schizosaccharomyces pombe (strain 972 / ATCC 24843)	Fungi	597	False
 Q9P6P2	Schizosaccharomyces pombe (strain 972 / ATCC 24843)	Fungi	265	False
-Q9U6A9	Trypanosoma brucei brucei	Discoba	655	False
+Q9U6A9	Trypanosoma brucei brucei	Other	655	False
 Q9USZ4	Schizosaccharomyces pombe (strain 972 / ATCC 24843)	Fungi	251	False
 Q9UU76	Schizosaccharomyces pombe (strain 972 / ATCC 24843)	Fungi	642	False
 P42054	Pisum sativum	Viridiplantae	276	False
 O78752	Ovis aries	Metazoa	226	True
-P24499	Trypanosoma brucei brucei	Discoba	229	False
+P24499	Trypanosoma brucei brucei	Other	229	False
 P92792	Solanum tuberosum	Viridiplantae	204	False
 O14236	Schizosaccharomyces pombe (strain 972 / ATCC 24843)	Fungi	537	False
 O74828	Schizosaccharomyces pombe (strain 972 / ATCC 24843)	Fungi	682	False
@@ -20139,19 +20139,19 @@ O74879	Schizosaccharomyces pombe (strain 972 / ATCC 24843)	Fungi	634	False
 Q90WN7	Xenopus laevis	Metazoa	977	False
 Q9P7S7	Schizosaccharomyces pombe (strain 972 / ATCC 24843)	Fungi	508	False
 I1CS06	Rhizopus delemar (strain RA 99-880 / ATCC MYA-4621 / FGSC 9543 / NRRL 43880)	Fungi	317	False
-Q8II12	Plasmodium falciparum (isolate 3D7)	Sar	409	False
+Q8II12	Plasmodium falciparum (isolate 3D7)	Other	409	False
 I3W9F6	Rhizophagus irregularis	Fungi	276	False
 Q4WGS5	Aspergillus fumigatus (strain ATCC MYA-4609 / CBS 101355 / FGSC A1100 / Af293)	Fungi	577	False
 Q1K8U2	Neurospora crassa (strain ATCC 24698 / 74-OR23-1A / CBS 708.71 / DSM 1257 / FGSC 987)	Fungi	84	False
 Q9C0N3	Neurospora crassa (strain ATCC 24698 / 74-OR23-1A / CBS 708.71 / DSM 1257 / FGSC 987)	Fungi	90	False
-A0A509AFM3	Plasmodium berghei (strain Anka)	Sar	304	False
+A0A509AFM3	Plasmodium berghei (strain Anka)	Other	304	False
 Q8J1Z1	Neurospora crassa (strain ATCC 24698 / 74-OR23-1A / CBS 708.71 / DSM 1257 / FGSC 987)	Fungi	88	False
 A0A0D1E6B3	Mycosarcoma maydis	Fungi	435	False
 I1CR68	Rhizopus delemar (strain RA 99-880 / ATCC MYA-4621 / FGSC 9543 / NRRL 43880)	Fungi	306	False
 J9VQC4	Cryptococcus neoformans var. grubii serotype A (strain H99 / ATCC 208821 / CBS 10515 / FGSC 9487)	Fungi	366	False
 Q4WGE2	Aspergillus fumigatus (strain ATCC MYA-4609 / CBS 101355 / FGSC A1100 / Af293)	Fungi	607	False
 A0A0D1CRC9	Mycosarcoma maydis	Fungi	534	False
-A0A2I0BUK1	Plasmodium falciparum (isolate NF54)	Sar	893	False
+A0A2I0BUK1	Plasmodium falciparum (isolate NF54)	Other	893	False
 P80261	Solanum tuberosum	Viridiplantae	190	False
 Q01359	Neurospora crassa (strain ATCC 24698 / 74-OR23-1A / CBS 708.71 / DSM 1257 / FGSC 987)	Fungi	148	False
 P24919	Neurospora crassa (strain ATCC 24698 / 74-OR23-1A / CBS 708.71 / DSM 1257 / FGSC 987)	Fungi	273	False
@@ -20161,7 +20161,7 @@ P42114	Neurospora crassa (strain ATCC 24698 / 74-OR23-1A / CBS 708.71 / DSM 1257
 Q9Y8C0	Neurospora crassa (strain ATCC 24698 / 74-OR23-1A / CBS 708.71 / DSM 1257 / FGSC 987)	Fungi	92	False
 O74889	Schizosaccharomyces pombe (strain 972 / ATCC 24843)	Fungi	1024	False
 P0CT69	Schizosaccharomyces pombe (strain 972 / ATCC 24843)	Fungi	176	False
-Q06184	Euplotes crassus	Sar	446	False
+Q06184	Euplotes crassus	Other	446	False
 Q10360	Schizosaccharomyces pombe (strain 972 / ATCC 24843)	Fungi	97	False
 P0C5Y7	Schizosaccharomyces pombe (strain 972 / ATCC 24843)	Fungi	102	True
 P25457	Schizosaccharomyces pombe (strain 972 / ATCC 24843)	Fungi	250	True
@@ -20182,7 +20182,7 @@ P62597	Gallus gallus	Metazoa	778	False
 P78946	Schizosaccharomyces pombe (strain 972 / ATCC 24843)	Fungi	126	True
 Q9P775	Schizosaccharomyces pombe (strain 972 / ATCC 24843)	Fungi	516	False
 Q9USX4	Schizosaccharomyces pombe (strain 972 / ATCC 24843)	Fungi	108	False
-P15847	Plasmodium falciparum	Sar	184	False
+P15847	Plasmodium falciparum	Other	184	False
 P0DW10	Neurospora crassa	Fungi	244	False
 Q8QFX1	Gallus gallus	Metazoa	1325	False
 P93788	Solanum tuberosum	Viridiplantae	198	False
@@ -20211,12 +20211,12 @@ O01670	Lymnaea stagnalis	Metazoa	578	False
 Q801D8	Cynoscion nebulosus	Metazoa	352	False
 Q8SRA2	Encephalitozoon cuniculi (strain GB-M1)	Fungi	559	False
 Q7XB14	Hordeum vulgare	Viridiplantae	408	False
-A0A5K1K8Y8	Plasmodium falciparum (isolate 3D7)	Sar	372	False
+A0A5K1K8Y8	Plasmodium falciparum (isolate 3D7)	Other	372	False
 A0A166B1A6	Daucus carota subsp. sativus	Viridiplantae	1119	False
 Q6SKR5	Xenopus laevis	Metazoa	228	False
 O94670	Schizosaccharomyces pombe (strain 972 / ATCC 24843)	Fungi	273	False
 Q6NRW3	Xenopus laevis	Metazoa	199	False
-O00934	Toxoplasma gondii	Sar	831	False
+O00934	Toxoplasma gondii	Other	831	False
 P13192	Hordeum vulgare	Viridiplantae	235	True
 P83391	Cladophora glomerata	Viridiplantae	91	True
 Q06215	Vicia faba	Viridiplantae	606	False
@@ -20224,12 +20224,12 @@ O49939	Spinacia oleracea	Viridiplantae	449	False
 P12355	Spinacia oleracea	Viridiplantae	231	True
 P12356	Chlamydomonas reinhardtii	Viridiplantae	227	True
 A8IEF3	Chlamydomonas reinhardtii	Viridiplantae	345	False
-P22343	Euglena viridis	Discoba	87	False
-P00109	Alaria esculenta	Sar	86	False
+P22343	Euglena viridis	Other	87	False
+P00109	Alaria esculenta	Other	86	False
 P43309	Malus domestica	Viridiplantae	593	False
 Q08303	Solanum lycopersicum	Viridiplantae	630	False
-P00108	Petalonia fascia	Sar	85	False
-P00110	Bumilleriopsis filiformis	Sar	86	False
+P00108	Petalonia fascia	Other	85	False
+P00110	Bumilleriopsis filiformis	Other	86	False
 Q7T3R4	Takifugu rubripes	Metazoa	481	False
 P18212	Nicotiana tabacum	Viridiplantae	265	False
 P21727	Pisum sativum	Viridiplantae	402	False
@@ -20241,7 +20241,7 @@ P11402	Spinacia oleracea	Viridiplantae	257	True
 P11869	Spinacia oleracea	Viridiplantae	404	False
 P14226	Pisum sativum	Viridiplantae	329	False
 P16059	Pisum sativum	Viridiplantae	259	False
-Q39709	Isochrysis galbana	Haptista	208	False
+Q39709	Isochrysis galbana	Other	208	False
 O63075	Chlamydomonas reinhardtii	Viridiplantae	238	False
 O99019	Solanum demissum	Viridiplantae	326	False
 P56274	Ulva pertusa	Viridiplantae	98	True
@@ -20252,7 +20252,7 @@ A0A0K9RDW0	Spinacia oleracea	Viridiplantae	675	False
 P10804	Secale cereale	Viridiplantae	473	False
 P12301	Spinacia oleracea	Viridiplantae	232	False
 P12302	Spinacia oleracea	Viridiplantae	267	False
-P46483	Euglena gracilis	Discoba	338	False
+P46483	Euglena gracilis	Other	338	False
 P48268	Chlamydomonas reinhardtii	Viridiplantae	82	True
 Q8RVC7	Chlamydomonas reinhardtii	Viridiplantae	411	False
 Q9UUG2	Schizosaccharomyces pombe (strain 972 / ATCC 24843)	Fungi	621	False
@@ -20263,8 +20263,8 @@ P04160	Spinacia oleracea	Viridiplantae	508	True
 P09974	Nicotiana tabacum	Viridiplantae	62	False
 P80471	Solanum tuberosum	Viridiplantae	326	False
 P92276	Chlamydomonas reinhardtii	Viridiplantae	62	True
-A0A509AKT6	Plasmodium berghei (strain Anka)	Sar	455	False
-A0T0M9	Thalassiosira pseudonana	Sar	733	True
+A0A509AKT6	Plasmodium berghei (strain Anka)	Other	455	False
+A0T0M9	Thalassiosira pseudonana	Other	733	True
 Q9SPI9	Chlamydomonas reinhardtii	Viridiplantae	115	True
 P12354	Spinacia oleracea	Viridiplantae	125	False
 Q9AYU1	Triphysaria versicolor	Viridiplantae	329	False
@@ -20279,26 +20279,26 @@ P07030	Silene latifolia subsp. alba	Viridiplantae	165	False
 P11970	Populus nigra	Viridiplantae	168	False
 P18068	Chlamydomonas reinhardtii	Viridiplantae	145	False
 P36213	Hordeum vulgare	Viridiplantae	205	True
-P84861	Polysiphonia urceolata	Rhodophyta	164	True
-P00306	Galdieria sulphuraria	Rhodophyta	162	True
+P84861	Polysiphonia urceolata	Other	164	True
+P00306	Galdieria sulphuraria	Other	162	True
 P12353	Spinacia oleracea	Viridiplantae	212	False
 P17341	Petroselinum crispum	Viridiplantae	97	True
 P26956	Tetradesmus obliquus	Viridiplantae	145	False
-P59859	Polysiphonia urceolata	Rhodophyta	172	True
+P59859	Polysiphonia urceolata	Other	172	True
 Q7SIB8	Dryopteris crassirhizoma	Viridiplantae	102	True
-Q7SIG0	Agarophyton chilense	Rhodophyta	164	True
-Q85FY6	Cyanidioschyzon merolae (strain NIES-3377 / 10D)	Rhodophyta	732	True
-P00314	Galdieria sulphuraria	Rhodophyta	161	False
-P59858	Polysiphonia urceolata	Rhodophyta	162	True
+Q7SIG0	Agarophyton chilense	Other	164	True
+Q85FY6	Cyanidioschyzon merolae (strain NIES-3377 / 10D)	Other	732	True
+P00314	Galdieria sulphuraria	Other	161	False
+P59858	Polysiphonia urceolata	Other	162	True
 P00287	Phaseolus vulgaris	Viridiplantae	99	True
-P00319	Galdieria sulphuraria	Rhodophyta	161	False
-P34784	Aglaothamnion neglectum	Rhodophyta	317	False
-Q9ZQS5	Cyanidium caldarium	Rhodophyta	154	False
+P00319	Galdieria sulphuraria	Other	161	False
+P34784	Aglaothamnion neglectum	Other	317	False
+Q9ZQS5	Cyanidium caldarium	Other	154	False
 O74359	Schizosaccharomyces pombe (strain 972 / ATCC 24843)	Fungi	663	False
-O36005	Griffithsia monilis	Rhodophyta	164	True
+O36005	Griffithsia monilis	Other	164	True
 P00299	Populus nigra	Viridiplantae	168	False
 P07465	Ulva prolifera	Viridiplantae	98	True
-P37207	Porphyridium purpureum	Rhodophyta	162	False
+P37207	Porphyridium purpureum	Other	162	False
 O94585	Schizosaccharomyces pombe (strain 972 / ATCC 24843)	Fungi	187	False
 O13965	Schizosaccharomyces pombe (strain 972 / ATCC 24843)	Fungi	730	False
 A0A125S9M5	Hypsibius exemplaris	Metazoa	614	False
@@ -20547,7 +20547,7 @@ P86981	Podarcis siculus	Metazoa	81	False
 Q10422	Schizosaccharomyces pombe (strain 972 / ATCC 24843)	Fungi	297	False
 O13803	Schizosaccharomyces pombe (strain 972 / ATCC 24843)	Fungi	601	False
 Q04073	Strongylocentrotus purpuratus	Metazoa	459	False
-Q25423	Leishmania tarentolae	Discoba	187	False
+Q25423	Leishmania tarentolae	Other	187	False
 P42055	Solanum tuberosum	Viridiplantae	276	False
 O74848	Schizosaccharomyces pombe (strain 972 / ATCC 24843)	Fungi	311	False
 Q10200	Schizosaccharomyces pombe (strain 972 / ATCC 24843)	Fungi	466	False
@@ -20559,7 +20559,7 @@ O13758	Schizosaccharomyces pombe (strain 972 / ATCC 24843)	Fungi	361	False
 O13859	Schizosaccharomyces pombe (strain 972 / ATCC 24843)	Fungi	285	False
 O42647	Schizosaccharomyces pombe (strain 972 / ATCC 24843)	Fungi	188	False
 O60057	Schizosaccharomyces pombe (strain 972 / ATCC 24843)	Fungi	411	False
-P11873	Tetrahymena thermophila	Sar	100	False
+P11873	Tetrahymena thermophila	Other	100	False
 Q09902	Schizosaccharomyces pombe (strain 972 / ATCC 24843)	Fungi	85	False
 Q7M2P1	Sus scrofa	Metazoa	76	False
 Q9UT17	Schizosaccharomyces pombe (strain 972 / ATCC 24843)	Fungi	328	False
@@ -20580,7 +20580,7 @@ Q9UUK4	Schizosaccharomyces pombe (strain 972 / ATCC 24843)	Fungi	202	False
 Q9UUH6	Schizosaccharomyces pombe (strain 972 / ATCC 24843)	Fungi	188	False
 O74400	Schizosaccharomyces pombe (strain 972 / ATCC 24843)	Fungi	674	False
 O74978	Schizosaccharomyces pombe (strain 972 / ATCC 24843)	Fungi	276	False
-Q8I299	Plasmodium falciparum (isolate 3D7)	Sar	791	False
+Q8I299	Plasmodium falciparum (isolate 3D7)	Other	791	False
 P21788	Hemicentrotus pulcherrimus	Metazoa	150	False
 P00294	Capsella bursa-pastoris	Viridiplantae	99	False
 P00296	Solanum tuberosum	Viridiplantae	99	False
