@@ -6,7 +6,7 @@ Our approach was divided into two consecutive step: a first data retrival of pro
 ## 1. Web interface approach
 We started using the Advance search interface in Uniprot (Release 2025_03) (https://www.uniprot.org/) to filter out and retrive the API for two sets of proteins:
 
-### Positive Set
+## Positive Set
 
 **QUERY:** 
 ```
@@ -26,7 +26,7 @@ The API URL using the search endpoint for positive set was retrived. This endpoi
 
 https://rest.uniprot.org/uniprotkb/search?format=json&query=%28%28existence%3A1%29+AND+%28length%3A%5B40+TO+*%5D%29+AND+%28reviewed%3Atrue%29+AND+%28taxonomy_id%3A2759%29+AND+%28fragment%3Afalse%29+AND+%28ft_signal_exp%3A*%29%29&size=500
 
-### Negative set
+## Negative set
 
 **QUERY:**
  ```
@@ -72,6 +72,7 @@ The number of proteins retrived after the search is showed in the table below.
 | Positive Set | Negative Set | Negative with HD |
 |--------------|--------------|------------------|
 |  2932        |    20615     |      4414        |
+
 
 
 
