@@ -28,7 +28,7 @@ https://rest.uniprot.org/uniprotkb/search?format=json&query=%28%28existence%3A1%
 
 ### Negative set
 
-*QUERY:*
+**QUERY:**
  ```
  (existence:1) AND (length:[40 TO ]) AND (reviewed:true) AND (taxonomy_id:2759) AND (fragment:false) NOT (ft_signal:) AND 
  ((cc_scl_term_exp:SL-0091) OR (cc_scl_term_exp:SL-0191) OR (cc_scl_term_exp:SL-0173) OR (cc_scl_term_exp:SL-0209) OR (cc_scl_term_exp:SL-0204) OR (cc_scl_term_exp:SL-0039))
@@ -73,6 +73,7 @@ The number of proteins for each set is showed in the table below.
 |--------------|--------------|------------------|
 |  2932        |    20615     |      4414        |
 |
+
 
 
 
