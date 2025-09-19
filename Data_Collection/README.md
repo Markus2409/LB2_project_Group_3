@@ -64,12 +64,14 @@ After the API call, our data were saved in a *.tsv* format to include informatio
 (for the positive set: the protein UniProt accession, the organism name, the Eukaryotic kingdom, the protein length, the position of the signal peptide cleavage site)
 (for the negative set: the protein UniProt accession, the organism name, the Eukaryotic kingdom, the protein length, Whether the protein has a transmembrane helix starting in the first 90 residues). 
 Sequences were saved in a *.fasta* file. 
+
 The number of proteins for each set is showed in the table below. 
 
-| Positive Set | Negative Set | Helix Domain |
-|--------------|--------------|--------------|
-|  2932        |    20615     |      4414    |
+| Positive Set | Negative Set | Negative with HD |
+|--------------|--------------|------------------|
+|  2932        |    20615     |      4414        |
 |
+
 
 
 
