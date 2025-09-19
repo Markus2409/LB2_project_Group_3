@@ -21,7 +21,7 @@ We started using the Advance search interface in Uniprot (Release 2025_03) (htt
 **Result:** 
 
 Curated eukaryotic proteins, ≥40 aa, experimentally confirmed, non-fragment, with an experimentally validated signal peptide. For uniprot the API was retrived. 
-API URL using the search endpoint for positive set. This endpoint is lighter and returns chunks of 500 at a time and requires pagination: 
+The API URL using the search endpoint for positive set was retrived. This endpoint is lighter and returns chunks of 500 at a time and requires pagination: 
 
 https://rest.uniprot.org/uniprotkb/search?format=json&query=%28%28existence%3A1%29+AND+%28length%3A%5B40+TO+*%5D%29+AND+%28reviewed%3Atrue%29+AND+%28taxonomy_id%3A2759%29+AND+%28fragment%3Afalse%29+AND+%28ft_signal_exp%3A*%29%29&size=500
 
@@ -48,7 +48,7 @@ https://rest.uniprot.org/uniprotkb/search?format=json&query=%28%28existence%3A1%
 **Result:**  
 
 Curated eukaryotic proteins, ≥40 aa, experimentally confirmed, non-fragment, without signal peptide, localized experimentally to one of the listed compartments.
-API URL using the search endpoint for negative set. This endpoint is lighter and returns chunks of 500 at a time and requires pagination.
+the API URL using the search endpoint for negative set was downloaded. This endpoint is lighter and returns chunks of 500 at a time and requires pagination.
 
 https://rest.uniprot.org/uniprotkb/search?format=json&query=%28%28fragment%3Afalse%29+AND+%28length%3A%5B40+TO+*%5D%29+AND+%28taxonomy_id%3A2759%29+NOT+%28ft_signal%3A*%29+AND+%28%28cc_scl_term_exp%3ASL-0091%29+OR+%28cc_scl_term_exp%3ASL-0191%29+OR+%28cc_scl_term_exp%3ASL-0173%29+OR+%28cc_scl_term_exp%3ASL-0209%29+OR+%28cc_scl_term_exp%3ASL-0204%29+OR+%28cc_scl_term_exp%3ASL-0039%29%29+AND+%28reviewed%3Atrue%29+AND+%28existence%3A1%29%29&size=500
 
@@ -63,6 +63,7 @@ After the API call, our data were saved in a *.tsv* format to include informatio
 (for the positive set: the protein UniProt accession, the organism name, the Eukaryotic kingdom, the protein length, the position of the signal peptide cleavage site)
 (for the negative set: the protein UniProt accession, the organism name, the Eukaryotic kingdom, the protein length, Whether the protein has a transmembrane helix starting in the first 90 residues). 
 Sequences were saved in a *.fasta* file. 
+
 
 
 
