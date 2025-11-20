@@ -160,15 +160,15 @@ A comparative evaluation of multiple classification models was performed. The go
 
 # 8. Discussion
 
-## summary  performance of three models: Von Heijne, SVM, and Neural Network (NN)
+## Summary Performance of three models: Von Heijne, SVM, and Neural Network (NN)
 
-### Von Heijne
+### 1. Von Heijne
 **The Von Heijne model**, based solely on amino acid frequencies, served as a baseline and performed poorly. It showed high false positive rates, particularly for transmembrane (TM) proteins, highlighting that signal peptides and TM domains share similar amino acid composition, which easily misled the model compared to SVM. 
 
-### SVM
+### 2. SVM
 **The SVM classifier** achieved low overall FPR, although TM helices remained a common source of misclassification. False negatives were slightly more frequent in short signal peptides (<15 residues), while longer peptides were generally classified correctly. Amino acid composition played a key role in both false positives and false negatives, and plant transit peptides did not significantly confound performance (FPR ~2.2%), though Arabidopsis sequences showed a slightly higher FPR.
 
-### Neural Network
+### 3. Neural Network
 **The Neural Network** outperformed SVM in overall MCC, as well as in FP and FN counts. TM proteins were still misclassified (41.2% of FPs), and longer signal peptides (>35 residues) tended to be false negatives. Taxon-specific differences were observed: FPR decreased in plant proteins but increased in fungi and other groups. Sequence features such as leucine frequency in the first positions of the signal peptide appeared important for correct classification.
 
 ---
