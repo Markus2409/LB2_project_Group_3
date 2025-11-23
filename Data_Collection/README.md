@@ -52,7 +52,7 @@ https://rest.uniprot.org/uniprotkb/search?format=json&query=%28%28existence%3A1%
   - SL-0173 → Mitochondrion  
   - SL-0209 → Plastid  
   - SL-0204 → Peroxisome  
-  - SL-0039 → Endoplasmic reticulum
+  - SL-0039 → Cellular membrane
   
 **Result:**  
 
@@ -95,6 +95,7 @@ The number of proteins retrived after the search is showed in the table below.
 | Positive Set | Negative Set | Negative with HD | 
 |--------------|--------------|------------------|
 |  2932        |    20615     |      1384        |
+
 
 
 
