@@ -31,11 +31,11 @@ Once redundancy has been addressed, the split can safely be performed randomly.
 
 ### 3. MMseqs2
 
-For the clusterisation procedure the **MMseqs2** software (version 14.7e284) was used. MMseqs2 is an open-source software use to cluster large databases of sequences. input file were: negative_dataset.fasta and positive_dataset.fasta. For each run two output files were created. For the negative set: 
+For the clusterisation procedure the **MMseqs2** software (version 14.7e284) was used. MMseqs2 is an open-source software use to cluster large databases of sequences. input file were: negative_dataset.fasta and positive_dataset.fasta. For each run two output files were created. The parameters for the clustering procedure were : 30% sequence identity, and 40% coverage. Each of the condition must be satisfied. For the negative set: 
 - [neg_cluster.tsv](./neg_cluster/neg_cluster.tsv): .TSV containing two colums ( ID of each sequence in th input file, ID of the representative sequence indetifying the cluster). 
 - [neg_rep_seq.fasta](./neg_cluster/neg_rep_seq.tsv): .fasta file containing all the representative sequences, one for each found cluster.
 - [neg_all_seq.fasta](./neg_cluster/neg_all_seq.tsv): .fasta file with all the sequences used. 
-  The same output files ( [positive_cluster.tsv](./pos_cluster/pos_cluster.tsv), [positive_rep_seq.fasta](./pos_cluster/pos_rep_seq.tsv), [neg_all_seq.fasta](./pos_cluster/pos_all_seq.tsv ) was obtained using as input *positive_dataset.fasta*. ù
+  The same output files ( [positive_cluster.tsv](./pos_cluster/pos_cluster.tsv), [positive_rep_seq.fasta](./pos_cluster/pos_rep_seq.tsv), [neg_all_seq.fasta](./pos_cluster/pos_all_seq.tsv ) was obtained using as input *positive_dataset.fasta*. 
 
 ### 4. Results
 results filtered from a proper [script](./output_recap.ipynb) are visualised below: 
