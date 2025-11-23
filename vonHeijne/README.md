@@ -1,6 +1,6 @@
 # **The VonHeijne method for SP detection** 
 
-The method in this repository builds a **Position-Specific Weight Matrix (PSWM)** using experimentally validated protein sequences and compares them against background amino acid frequencies (SwissProt). Pseudocount +1 was used to avoid zero probabilities. 
+In this repository we built a **Position-Specific Weight Matrix (PSWM)** using our experimentally validated protein sequences and compared them against background amino acid frequencies (SwissProt). Pseudocount +1 was used to avoid zero probabilities. 
 For the method implementation, the following parameters were considered: 
 - **Aminoacids Window**: [-13, +2] relative to the cleavage site
 - **Background distribution**: SwissProt amino acid frequencies
