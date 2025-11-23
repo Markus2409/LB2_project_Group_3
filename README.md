@@ -158,6 +158,8 @@ A comparative evaluation of multiple classification models was performed. The go
 | SVM        | 0.808  |
 | DL         | 0.902  |
 
+---
+
 # 8. Discussion
 
 ## Summary Performance of three models: Von Heijne, SVM, and LSTM
