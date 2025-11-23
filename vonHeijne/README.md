@@ -38,7 +38,7 @@ On the test set, predictions are evaluated using:
 
 ## 5-Fold Cross-Validation
 
-A more robust evaluation of the Von Heijne method is performed using a 5-fold cross-validation on the train_bench.tsv dataset using the [vonheijne](./voneijne.ipynb):
+A more robust evaluation of the Von Heijne method is performed using a 5-fold cross-validation on the train_bench.tsv dataset using the [vonheijne](./vonheijne.ipynb):
 - **Splitting**: In each fold, one set is used for testing, one for validation, and the remaining three sets for training.
 - **PSWM computation**: The matrix is built for each iteration using the selected training sets.
 - **Metrics**: For each fold, the following metrics are computed on the test set: MCC, PPV, ACC, SEN
