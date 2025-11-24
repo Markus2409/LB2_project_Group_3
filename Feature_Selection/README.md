@@ -1,4 +1,4 @@
-# Feature Extraction and selection
+# Feature Extraction and Selection
 
 ---
 
