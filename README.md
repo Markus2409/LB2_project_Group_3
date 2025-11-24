@@ -35,6 +35,8 @@ improvements over traditional methods like the **Von Heijne algorithm**.
 6. [Deep_Learning: LSTM](#deep-learning-lstm)
 7. [Model performances](#model-performances)
 8.  [Discussion](#discussion)
+9.  [Conclusion](#conclusion)
+
 ---
 
 # Data Collection
