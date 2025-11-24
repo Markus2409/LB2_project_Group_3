@@ -162,7 +162,7 @@ A comparative evaluation of multiple classification models was performed. The go
 
 ---
 
-# 8. Discussion
+# Discussion
 
 ## Summary Performance of three models: Von Heijne, SVM, and LSTM
 
@@ -176,7 +176,7 @@ A comparative evaluation of multiple classification models was performed. The go
 **LSTM** outperformed SVM in overall MCC, as well as in FP and FN counts. TM proteins were still misclassified (41.2% of FPs), and longer signal peptides (>35 residues) tended to be false negatives. Taxon-specific differences were observed: FPR decreased in plant proteins but increased in fungi and other groups. Sequence features such as leucine frequency in the first positions of the signal peptide appeared important for correct classification.
 
 ---
-# 9. Conclusions
+# Conclusions
 
 The objective of this project was to develop and evaluate computational models for signal peptide (SP) prediction. Three approaches were compared: the von Heijne algorithm (VH), Support Vector Machines (SVM), and a Deep Learning.
 
