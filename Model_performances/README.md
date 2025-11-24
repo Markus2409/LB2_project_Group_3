@@ -21,7 +21,7 @@ SVM optimization was developed  via Bayesian search and provides a performance a
 ### **Bayesian search optimization**
 The script **hyperparameter_tuning.ipynb** contains the implementation of the Bayesian search using an RBF SVM using BayesSearchCV. It reports best hyperparameters and MCC scores. Bayesian optimization uses past evaluations to predict where the best hyperparameters probably are, wasting  less time testing bad configurations. 
 
-### **Results**
+### **Results on Validation Set**
 The table below shows the results of the hyperparameter tuining procedure. The MCC obtained suggest a better performance of the SVM method in respect to the classical approach of the VonHeije method. 
 
   
